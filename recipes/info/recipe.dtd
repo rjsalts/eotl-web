@@ -1,0 +1,12 @@
+<!ELEMENT recipe (name,contributor,pre_desc?,ing*,ing_opt*,directions+,reviews*)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT contributor (#PCDATA)>
+<!ELEMENT pre_desc (#PCDATA)>
+<!ELEMENT ing (#PCDATA)>
+<!ELEMENT ing_opt (#PCDATA)>
+<!ELEMENT directions (#PCDATA)>
+<!ELEMENT reviews (reviewer,review,rating,r_image?)>
+<!ELEMENT reviewer (#PCDATA)>
+<!ELEMENT review (#PCDATA)>
+<!ELEMENT rating (#PCDATA)>
+<!ELEMENT r_image (#PCDATA)>

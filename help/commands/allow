@@ -1,0 +1,13 @@
+Command : Allow.
+Format  : allow <who> || allow all
+
+     If a player wishes to tail after you, using the <follow> command,
+you have the choice of allowing them to or not.  Should you wish to
+let them, the 'allow' command is used to do so.  Should several players
+be wishing to follow you at the same time, you may <allow all> to
+save yourself the trouble of allowing each of them individually.
+
+See also: follow, followers, unallow
+
+[ Last updated: Mon Mar 17 01:05:53 1997 ]
+

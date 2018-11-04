@@ -1,0 +1,153 @@
+body {
+  color      : #000000;    /* This line doesn't seem to work. */
+  background : #000000;
+}
+
+a:link    { color : #996699; }
+a:visited { color : #9966CC; }
+a:hover   { background: #FFEE99; }
+a.menu:link    { color : #FFFFFF; }
+a.menu:visited { color : #FFFFFF; }
+a:hover.menu   { background: #993399; }
+
+h1, h2, h3, h4, h5, h6 {
+  font-family    : verdana, arial, helvetica, sans-serif;
+  color          : #660066;
+}
+
+.hsep {
+  font-family    : verdana, arial, helvetica, sans-serif;
+  color          : #660066;
+  margin-top     : 1.5em;
+  margin-bottom  : 0.5em;
+}
+
+p, ul, ol, dl, dd, form, blockquote {
+  font-family : arial, helvetica, sans-serif;
+  font-size   : 10pt;
+}
+
+p.ss {
+  font-family : arial, helvetica, sans-serif;
+  font-size   : 10pt;
+}
+
+td.border {
+  color       : #FFFFFF;
+  background  : black;
+  font-family : arial, helvetica, sans-serif;
+  font-size   : 8pt;
+}
+
+td.multicol {
+  color       : #000000;
+  background  : white;
+  font-family : verdana, arial, helvetica, sans-serif;
+  font-size   : 10pt;
+}
+
+td.entry {
+  font-family : arial, helvetica, sans-serif;
+  font-size   : 10pt;
+}
+
+pre, .mono {
+  font-family : courier, monospace;
+  font-size   : 10pt;
+}
+
+.mypre {
+  font-family : monospace;
+  font-size   : 10pt;
+}
+
+.menu {  /* for menu links */
+  color          : #FFFFFF;
+  font-family    : verdana, arial, helvetica, geneva, sans-serif;
+  font-size      : 8pt;
+  text-decoration: none;
+}
+
+.menugrey {  /* for menu non-links */
+  color          : #999999;
+  font-family    : verdana, arial, helvetica, geneva, sans-serif;
+  font-size      : 8pt;
+}
+
+.menured {  /* for menu non-links */
+  color          : #FF0000;
+  font-family    : verdana, arial, helvetica, geneva, sans-serif;
+  font-size      : 8pt;
+}
+
+.termtxt {
+  color       : #CCCCCC;
+  font-family : arial, helvetica, sans-serif;
+  font-size   : 10pt;
+}
+
+.comments {
+  color       : #FFFF99;
+  font-family : arial, helvetica, sans-serif;
+  font-size   : 10pt;
+}
+
+.ss8 {
+  color       : #000000;
+  font-family : verdana, arial, helvetica, geneva, sans-serif;
+  font-size   : 8pt;
+}
+
+.ss8w {
+  color       : #FFFFFF;
+  background  : black;
+  font-family : verdana, arial, helvetica, geneva, sans-serif;
+  font-size   : 8pt;
+}
+
+.ss10 {
+  color       : #000000;
+  background  : white;
+  font-family : arial, helvetica, geneva, sans-serif;
+  font-size   : 10pt;
+}
+
+.bignpurple {
+  color       : #660066;
+  background  : white;
+  font-family : verdana, arial, helvetica, geneva, sans-serif;
+  font-size   : 14pt;
+  margin-top     : 0em;
+  margin-bottom  : 0.5em;
+}
+
+.bignpurple2 {
+  color       : #660066;
+  background  : white;
+  font-family : verdana, arial, helvetica, geneva, sans-serif;
+  font-size   : 14pt;
+}
+
+.bignwhite {
+  color       : #FFFFFF;
+  background  : black;
+  font-family : verdana, arial, helvetica, geneva, sans-serif;
+  font-size   : 14pt;
+  margin-top     : 0em;
+  margin-bottom  : 0.5em;
+}
+
+.blue1 {
+  color       : #3333FF;
+}
+
+.gname {
+  color       : #663366;
+}
+
+.ttop {
+  color       : #FFEE99;
+  font-family : verdana, arial, helvetica, geneva, sans-serif;
+  font-size   : 20pt;
+  font-weight : bold;
+}

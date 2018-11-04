@@ -1,0 +1,20 @@
+//  4 => array(
+//    "alt"  => "Cheesefest IV is coming!",
+//    "file" => "cf4_banner.gif",
+//    "url"  => "http://cheesefest.eotl.org/cf4.html",
+//    "text" => "Only cool people are allowed to participate."
+//  ),
+//  5 => array(
+//    "alt"  => "Cheesefest IV is coming!",
+//    "file" => "cf4_banner3.gif",
+//    "url"  => "http://cheesefest.eotl.org/cf4.html",
+//    "text" => "Mmmmmm."
+//  ),
+//  6 => array(
+//    "alt"  => "Cheesefest IV is coming!",
+//    "file" => "cf4_banner4.gif",
+//    "url"  => "http://cheesefest.eotl.org/cf4.html",
+//    "text" => "We all love Markus.  You should, too."
+  )
+
+

@@ -1,0 +1,8 @@
+Command : Shutdown.
+Format  : shutdown
+
+    This command lets you know if there is a planned shutdown in progress,
+and if so, how soon it is.
+
+[ Last updated: Mon Mar 17 01:59:11 1997 ]
+

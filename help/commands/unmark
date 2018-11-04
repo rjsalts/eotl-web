@@ -1,0 +1,14 @@
+Command : Unmark
+Format  : unmark <object|all [id]>
+ 
+     Marked objects may be unmarked with this command, should you wish
+to sell or store them.
+ 
+     <unmark all> will unmark your entire inventory, and <unmark all [id]>
+will unmark everyting matching "id" (so "unmark all armor" will unmark all
+the armor in your inventory).
+ 
+See also: mark
+
+[ Last updated: Mon Mar 17 01:48:02 1997 ]
+

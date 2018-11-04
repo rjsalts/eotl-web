@@ -1,0 +1,54 @@
+TOPIC
+    evaluation
+ 
+DESCRIPTION
+    Evaluation (often shortened to 'eval') shows your basic/relative
+    evaluation.  It is displayed when you use the 'score' command.
+ 
+BASIC EVALUATION
+    Basic evaluation reflects your statistics and skills.  It does not
+    necessarily indicate a player's power, since a high charisma or a high
+    skill in embroidery can give the illusion that a player is more powerful.
+ 
+RELATIVE EVALUATION
+    Relative evaluation is a slightly newer function.  Unlike basic
+    evaluation, it evaluates relative to the player it considers the most
+    powerful on the mud.  A few clarifications:
+ 
+      The most powerful player on the mud means, the most powerful player
+        currently existant, not logged on.  So if Joebob is the most powerful
+        player on the mud, and he logs off, relative evals will still be
+        scaled to him.
+
+      Relative evaluation does NOT use basic evaluation to determine the
+        real power of players internally.  Just because Devo has the highest
+        basic eval on the mud does not mean he will have the highest
+        relative eval.
+ 
+      Again, 'the most powerful player on the mud' in these terms just means
+        the highest rank, not necessarily the one who can deal out the most
+        damage.
+ 
+    Because relative evaluation is relative to a player, it is less stable
+    than basic evaluation and will fluctuate naturally based on the
+    advancement of other players.  If, however, your relative eval drops
+    suddenly to 0 or 1 from say, 100, chances are someone has been patched.
+    Inform a wizard (not an Arch), and he/she will check on it.
+ 
+    Evaluation of any sort is not an approximation of the power of a 
+    character, only a ranking of the amount of experience they have spent.
+ 
+    Relative eval can be displayed instead of normal evaluation in the who
+    command.  See who for details.
+ 
+    In the score command, relative eval is the second number listed in the
+    Evaluation field.
+
+    Relative evaluation ranks the most powerful player as 100.  No one but
+    the most powerful player can hold this rank.
+
+SEE ALSO
+    who, score
+
+[ Last updated: Thu Feb 12 19:23:06 1998 ]
+

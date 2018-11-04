@@ -1,0 +1,17 @@
+Command : Wield
+Format  : wield <weapon> [in <number> <hands>]
+Examples: wield sword
+          wield gigantic telephone pole in one hand
+
+The 'wield' command will allow your player to wield weapons in
+preparation of battle against your opponents.  You may wield only
+one weapon at a time.
+
+Note that although you can wield some weapons in different styles
+(different numbers of hands) they usually act best under their
+defaults.
+
+See also: unwield, equip, unequip, weapons
+
+[ Last updated: Fri Jul 11 19:36:54 1997 ]
+

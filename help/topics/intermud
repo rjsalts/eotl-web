@@ -1,0 +1,20 @@
+Format  : intermud [/muds, /who[@mud], /last, ;<emote>, ]<emote>, <msg>]
+Example : channel intermud /who@kerovnia
+          channel intermud How do you clone something?
+
+  The intermud channel is connected between several muds and works similarly
+to how a normal EotL channel works in that you can use the /last, ;<emote>,
+and /who[@mud] options.  'intermud' alone toggles the channel on/off for you.
+To say something on the channel, simply use 'intermud <msg>.'  On EotL, the
+messages for the intermud channel are displayed like this:
+
+    [IM] -<mud>- <who>: <msg>
+
+  To see a list of muds that your message might reach, type 'help muds.'
+'channel intermud /last' displays a brief backlog of what's been going on on
+the channel so you can get caught up in the conversation.
+
+See also:  finger, tell, who
+
+[ Last updated: Mon Mar 17 02:12:34 1997 ]
+

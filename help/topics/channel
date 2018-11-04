@@ -1,0 +1,90 @@
+Command : Channel.
+Format  : channel [channel] [msg|/who|/last|/color <opts>|/norm <opts>]
+          channel [channel] /censor [on|off]
+Example : channel gossip I am a vicious pkiller!
+ 
+Several "channels" can be accessed by your player to communicate with groups
+of other players throughout the MUD.  Channels operate through a medium
+similar to shouting, but is selective, in that each player can decide whether
+or not to listen to a channel.  Type 'channel' alone to list the channels
+available to you.  To begin listening to a channel, type the channel name
+by itself, without any arguments.  To stop listening to a channel, again,
+type the channel name by itself, without arguments.
+ 
+    Example: channel gossip
+ 
+To say something on a channel, type the channel name, followed by the message
+to say, at the prompt.
+ 
+    Example: channel gossip Hey dudes, what's up?
+ 
+To get a list of players listening to a channel, type the channel name,
+followed by "/who".
+ 
+    Example: channel gossip /who
+ 
+To play back a recording of the last few messages sent over a channel, use
+the /last command.
+ 
+    Example: channel auction /last
+ 
+To simplify things even more, we suggest you alias the channel commands
+to their channel names in the fashion shown below:
+ 
+    Example: alias gossip channel gossip
+ 
+This will cause the command 'gossip' to be equivalent to 'channel gossip',
+cutting down the number of keystrokes to do the various functions
+associated with that channel.
+ 
+To set the color that you would like to see a certain channel in, type the
+name of the channel, followed by '/color <opts>' where <opts> can be one
+or more of the following:
+ 
+    off            -- Disable coloring of this channel.
+    default/norm   -- Sets the coloring for this channel to ^[[m.
+    default2/norm2 -- Sets the coloring for this channel to ^[[2;37;0m.
+    beep           -- Adds a beep (^G) to this channel.
+    whole          -- Colors the entire message instead of just the prefix.
+    flash/blink    -- Causes this channel to flash.
+    bold           -- Causes this channel to use high intensity colors.
+    underline      -- Uses the VT100 code for underlining for this channel.
+    reverse        -- Uses the VT100 code for reversing fore/backgrounds.
+    <fore>         -- Sets the foreground color for this channel to <color>.
+    <fore>,<back>  -- Sets the foreground color to <fore> and the background
+                      color to <back> for this channel.
+ 
+Valid colors for <fore> and <back> are:
+ 
+    black    red    green    yellow    blue    purple    cyan    white
+ 
+Some examples:
+ 
+    Example: channel gossip /color cyan,black beep
+    Example: channel auction /color beep bold yellow
+    Example: channel bogleg /color flash reverse
+ 
+The order of the options does not matter, except that those you type first
+will take precedence over the last ones, although there is no need to use
+conflicting options in the same command, bogleg.
+ 
+The above options and colors can also be used to set your 'norm,' or default
+colors, for the channel command to return your terminal colors to after
+coloring the channel message.  To do this, you might use:
+ 
+    Example: channel <any channel> /norm norm
+    Example: channel <any channel> /norm white,black
+
+This is where the norm/default and norm2/default2 options are useful.  Both
+are common strings used to return a terminal to its default colors.  Try
+each and see which works for you.
+
+Channel censorship can be toggled on and off for seperate channels by elders
+and above, providing that they can listen to the channel.  Anyone can use
+the /censor flag without arguments to check the status of the censor.
+
+ 
+See also 'alias' and 'shout'
+
+[ Last updated: Wed Aug  6 20:41:17 1997 ]
+

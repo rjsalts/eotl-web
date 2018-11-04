@@ -1,0 +1,17 @@
+Command : Set.
+Format  : set || set <variable> <value>
+Example : set brief on
+          set ansi off
+ 
+     The 'set' command allows you to customize parts of the way you see
+the player environment, and the way others see you.  Typing <set> will
+show a list of your current variables, and their values.
+     For an explanation of each of variables and what it represents,
+check their individual help pages.
+ 
+See also: anonymous, ansi, ansi-shorts, ansi-longs, brief, room-brief,
+          hit-level, hpw, nobeep, notify, notify-level, title, wimpy, 
+          wimpydir, wrap
+
+[ Last updated: Mon Apr  7 21:47:45 1997 ]
+

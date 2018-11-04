@@ -1,0 +1,3 @@
+#php_flag short_open_tag off
+ErrorDocument 404 /errors/404.html
+IndexIgnore *

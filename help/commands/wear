@@ -1,0 +1,11 @@
+Command : Wear
+Format  : wear <armor>
+Example : wear helmet
+
+The 'wear' command allows your player to don armor and other items
+of clothing and jewelry.
+
+See also: remove, locations, armor
+
+[ Last updated: Fri Jul 11 19:32:14 1997 ]
+

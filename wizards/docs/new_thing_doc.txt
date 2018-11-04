@@ -1,0 +1,160 @@
+/*]==================[ NewThingCode Documentation ]=================[*/
+
+        This is the documentation for the new ThingCode!  ThingCode 
+    is a module that can be used for anything you can think of.  It
+    can be used for objects that have a weight, a description, or
+    keywords they should identify to.  It is provided as a simple
+    way to create objects with similar sets of functionality.  With
+    it you can make a beer can, a boulder, or even a packet of
+    jell-o.  It's very easy!
+
+void set_short( string new_short )
+void set_ansi_short( string new_ansi_short )
+
+        These set the short description of the object.  If you want
+    the short description to include ANSI color codes you must use
+    the set_ansi_short() function.  Once set, the 'ansi_short' is
+    displayed to players to which a call to query_ansi() returns 1.
+    Don't forget to #include <ansi.h> in your file!
+
+    EXAMPLE:
+        set_short( "a blue tomato" );
+        set_ansi_short( BOLD_BLUE "a blue tomato" NORM );
+    
+    Be sure to put a NORM at the end of ansi shorts, or whever
+    appropriate.  Otherwise, the colors will bleed.
+
+void set_long( string new_long )
+void set_ansi_long( string new_ansi_long )
+
+        These set the long description of the object.  The long 
+    description is what a player sees when they look at your object.
+    It should be a more verbose description than the short
+    description.  The long should also contain clues to any actions
+    a player might use or any possible "descs". You may include
+    ANSI in the long description using set_ansi_long().
+
+    EXAMPLE:
+       set_long( "This is a decent-sized tomato ripened to the "
+           "perfect softness.  Strangely, this tomato is BLUE!" );
+       set_ansi_long( "This is a decent-sized tomato ripened to the "
+           "perfect softness.  Strangely, this tomato is "
+           BOLD_BLUE "BLUE!" NORM "\n");
+
+    Note that BOLD_BLUE is defined in /inc/global/ansi.h; you must
+    therefore #include <ansi.h> in your file.
+
+void set_id( string new_id )
+void add_id( string new_id )
+
+        The set_id() function sets the 'ids' array in your object to
+    ({ new_id }).  The add_id() function adds ({ new_id }) to 'ids'.
+
+    The 'ids' array is a list of valid identifiers.  When id() is
+    called in object 'ob', it returns 1 if the string passed matches
+    either the object's short description (the string returned by
+    query_short()) or is a member of the object's *ids array.
+
+    ob->id( string str ) is called whenever a player uses an action
+    to interact with 'ob'.  For example, if a player has 'ob' and
+    does "look tomato", ob->id( "tomato" ) will be called to
+    determine if 'ob' is a tomato.  If id() returns 1, the look
+    command will print the long of 'ob'.
+
+    EXAMPLE:
+        set_id( "tomato" );
+        add_id( "blue tomato" );
+
+    EXPERIMENT:
+        clone NewThingCode
+        patch object add_id(tomato)
+        patch object query_ids() || patch tomato query_ids()
+        look tomato
+    (these commands can by executed by anybody with a wizard body)
+
+    NOTE: If you use set_id(), all other ids will be removed and
+    the id passed will be the only valid id.  add_id() will simply
+    add new_id to the existing ids.  
+
+void set_ids( string *new_ids )
+void add_ids( string *new_ids )
+
+        Use these functions to set/add more than one id at a time.
+
+    EXAMPLE:
+        set_ids( ({ "blue tomato", "tomato" }) );
+        add_ids( ({ "a really big tomato", "a big tomato" }) );
+            
+void set_descs( mapping new_descs )
+void add_descs( mapping new_descs )
+void add_desc( string new_item, string new_desc )
+
+        Descriptions are characteristics of the object that are less
+    obvious to players.  If the blue tomato had a label on it, the
+    label would be refered to in the long description of the tomato.
+    A description would be used to allow a player to get more
+    information about the label.
+
+    As a general rule, all descriptions should be mentioned in the
+    object's long description.  Good objects have lots of descs.
+    
+    EXAMPLE:
+        set_descs( ([ "label" : "WARNING - contents under pressure!" ]) );
+    
+    The above line would set the label as the tomato's only description
+    and overwrite any other descriptions the tomato had.
+    
+        add_desc( "logo", "Leinenkeugals Berry Weis" );
+   
+    The above line would add the logo description that printed the name
+    of the tomato.  The label description would still be there since we
+    used the add_desc() function.  To add multiple descs at once, you
+    can use the add_descs() function.
+
+    NOTE: The index of the descs mapping can be an array.  For example:
+    add_desc( ({ "bug", "tomato bug" }), "Eek, the tomato has a bug!" );
+ 
+void set_value( int new_value )
+
+        This function is used to assign a specific coin value to an
+    object.  An object's value should reflect any advantages it may
+    offer a player.  Weapons with special attacks should be worth more
+    than those without.  Moreover, a diamond should be worth more than
+    a hunk of rock.
+
+    EXAMPLE:
+        set_value( 50 );
+      
+void set_weight( int new_weight )
+
+        Use this function to assign a specific weight to an object.
+    In general, 50 units of weight is equivalent to a pound.
+  
+    EXAMPLE:
+        set_weight( 38 );
+    
+void set_gettable( status new_gettable )
+void set_droppable( status new_droppable )
+
+        These two functions are used to determine whether or not players
+    are able to pick up or drop the object.  Players are able to get an
+    object as long as query_gettable() returns 1.  Likewise, players can
+    drop an object if query_droppable() returns 1.
+
+    EXAMPLE:
+        set_gettable( 1 );
+        set_droppable( 1 );
+    
+void set_material( string new_material )
+
+        Use this function to set the material of an object.  You are
+    not restricted to any specific materials but for consistency,
+    please assure that you use a material recorded in the MATERIALDAEMON.
+    For a list of all valid materials, use the following command:
+    
+    patch /obj/daemon/material do_list()
+
+/*]===[  Written by:     ]
+      [      GANDALF     ]
+      [      & HODGE     ]=========================================[*/
+

@@ -1,0 +1,179 @@
+# INETD_HOSTS file from EotL
+#
+# Originally distributed by James of Realmsmud (lemay@cs.umn.edu)
+# 7/30/96  100 host entries.
+#
+# Last updated 5/4/99, 143 host entries.
+# All sites were accessed at least once between 2/11/98 and 4/29/98.
+# Sites that could not be accessed before 2/11/98 have been removed from this
+# list.
+#
+# This file contains site information and privs used by the inetd.
+# It lists the sites that can be contacted and the commands they are
+# allowed to use / receive in the form:
+#       mudname:host_address:udp_port:incoming_cmds:remote_cmds
+# PING, QUERY and REPLY are included automatically.
+# A * in the incoming_cmds denotes the list of public commands as defined in
+# inetd.c (COMMANDS)
+#
+#
+#
+3k:209.142.192.46:9999:*:*
+AbandonedMud:206.20.217.9:5001:*:*
+Adamant:130.83.9.19:4246:*:*
+AetherMud:140.254.96.152:7683:*:*
+AfterHours:205.186.76.77:4246:*:*
+Alatia:207.96.1.31:4246:*:*
+Aldebaran:194.162.200.15:4246:*:*
+Alnwick:129.27.130.50:2112:*:*
+AncientAnguish:208.25.49.5:4246:*:channel,finger,man,tell,who
+Anderland:194.94.224.181:4246:*:*
+Angalon:165.91.110.201:2500:*:*
+Archon:198.240.3.15:4246:*:*
+Artus:141.82.16.184:4246:*:*
+ASTERIX:128.130.109.51:5563:*:*
+Atlantis:192.109.44.65:4246:*:*
+Avalon:141.82.16.188:4246:*:*
+Aventurien:193.154.237.5:4246:*:*
+Babylon:193.164.179.202:4241:*:*
+BattleRealms:205.229.54.184:3000:*:*
+Bowl:194.117.157.68:4241:*:*
+BrokenPromises:157.91.1.253:4246:*:*
+Caladhan:195.37.216.160:4246:*:*
+Calvins'_Bedlam!:193.237.190.143:3999:*:*
+campari:193.170.110.164:4246:*:*
+Chamber.Of.The.Damned:62.0.210.2:4241:*:*
+ChaosMUD:209.140.34.152:7683:*:*
+ConqueredKingdoms:207.99.85.77:2425:*:*
+Core:132.199.3.66:4246:*:*
+Cosmos:207.67.85.3:5001:*:*
+CyberNet:193.226.51.3:4999:*:*
+Cybertronics:209.140.34.152:7683:*:*
+Darkside:132.199.136.35:4246:*:*
+DarkSun:194.64.181.157:4246:*:*
+Darkworld:204.71.157.202:6970:*:*
+DeadofNight:204.71.156.4:4242:*:*
+Death&Dream:193.196.16.130:4246:*:*
+DeathsCall:207.217.88.31:4246:*:*
+DeeperTrouble:130.225.51.30:8889:*:*
+Defiance:130.205.70.4:6888:*:*
+DefianceII:130.205.70.4:5100:*:*
+Dimension:194.203.23.60:4241:*:*
+DontPanic:207.49.240.62:4243:*:*
+DragonHeart:207.71.213.246:8889:*:*
+DragonStorm:209.4.217.204:4246:*:*
+Dreamscape:206.97.195.10:4246:*:*
+DreamWorld:137.108.40.99:4241:*:*
+Dune:209.50.225.14:9999:*:*
+Eastern.Jungle:148.176.233.87:4241:*:*
+EndlessRealms:141.212.136.25:4647:*:*
+EotL:171.64.12.30:4246:*:*
+ZEotL:171.64.12.30:4248:*:*
+Epic:206.30.144.11:7829:*:*
+EquinoxKnights:207.67.85.3:4246:*:*
+FallenNight:24.131.5.250:5151:*:*
+Fantasia:128.130.87.104:7683:*:*
+FateWheel:194.158.113.136:4246:*:*
+fear:195.48.69.120:4246:*:*
+FinalFrontier:134.147.216.104:7610:*:*
+FirstLight:134.176.139.60:4246:*:*
+FK:205.233.242.56:4320:*:*
+ForgottenKingdoms:207.99.85.77:2425:*:*
+GoldenEmpire:209.4.217.204:7683:*:*
+GueldenLand:194.163.252.41:4246:*:*
+Haven:207.227.188.40:2122:*:*
+Ice.World:204.200.98.160:5049:*:*
+ImmigrationMUD:141.212.136.25:4246:*:*
+Inferno:128.130.109.51:2000:*:*
+IntoTheLight:194.94.78.84:3335:*:*
+IntoTheLight_old:194.94.79.21:3335:*:*
+Ithacas'Mud:205.232.34.20:6977:*:*
+JeamLand:194.222.48.38:4241:*:*
+Kerovnia:204.71.156.66:1985:*:*
+kinstar:169.207.11.182:4246:*:*
+kiwi:209.54.66.70:8554:*:*
+ktt1:130.159.104.11:4241:*:*
+LaffLand:62.0.238.4:4241:*:*
+Legacy:207.243.60.18:5160:*:*
+Legends:206.112.202.178:4246:*:*
+Lemmings Paradise:141.2.28.2:4246:*:*
+Mal-J:207.156.183.3:5556:*:*
+MalderMud:207.156.183.3:2003:*:*
+Mayhem:141.218.40.76:3331:*:*
+MeechMud:216.111.160.138:7018:*:*
+MicroMud:130.149.17.215:7683:*:*
+Midnight:130.240.16.23:3001:*:*
+MysticDragons:204.71.157.202:4001:*:*
+Myths:194.119.129.222:4445:*:*
+MorgenGrauen:194.95.170.205:4246:*:*
+NativeLands:207.243.60.18:1233:*:*
+NewMoon:131.252.222.145:5756:*:*
+NewMoon2:131.252.222.145:5756:*:*
+NewWorldMud:204.252.20.9:4246:*:*
+Nexus:134.115.81.58:4246:*:*
+NF-eeetw9:141.30.231.139:4246:*:*
+Nightfall:134.2.170.99:4246:*:*
+OKSEE:209.140.34.152:7683:*:*
+OldRepublic:205.243.139.51:7160:*:*
+Orchard:212.21.2.157:4140:*:*
+OSB:192.124.28.80:4246:*:*
+OSB-vader:194.117.147.55:4246:*:*
+OuterSpace:131.155.141.166:2500:*:*
+phaedrus:195.50.91.38:4241:*:*
+PK-Mud:141.55.225.26:4246:*:*
+Pondlife:207.96.8.112:6999:*:*
+PoT:194.119.129.222:4246:*:*
+PotatoMud:141.212.99.5:4246:*:*
+Realmsmud:208.148.17.17:4246:*:*
+Realms:198.62.84.160:5999:*:*
+Regenbogen:141.76.1.2:4246:*:*
+RitualSacrifice:203.103.77.45:4246:*:*
+SagaMud:160.45.40.171:7776:*:*
+SeherMud:134.130.48.228:4246:*:*
+Seifenblase:141.7.1.39:4246:*:*
+Serendipity:130.149.19.19:7683:*:*
+ShadowGate:206.58.216.7:4246:*:*
+ShadowRealms:209.4.217.204:4247:*:*
+SilberLand:128.130.45.201:4246:*:*
+SiliconDream:194.95.209.17:4246:*:*
+SILKE:134.100.221.101:5563:*:*
+SILKE:AT:128.130.109.51:5563:*:*
+Sivao:141.22.194.135:4246:*:*
+Solitude:160.45.224.2:4246:*:*
+SonnyOven:205.243.139.51:7160:*:*
+Spuelwasser:141.7.15.10:4246:*:*
+Straylight:199.80.240.122:4246:*:*
+Sunrise 2700:130.75.148.207:4710:*:*
+Sushi:137.44.102.20:5502:*:who,tell,finger,channel
+TAPPMud:131.246.89.23:4246:*:*
+Tauros:199.184.188.17:1985:*:*
+TechMud:149.31.1.11:7683:*:*
+Terabithia:204.71.156.66:7686:*:*
+The Rock:193.164.179.202:4241:*:*
+TheRealms:204.71.157.202:6001:*:*
+ThirdAge:134.106.121.220:3342:*:*
+TidesofDarkness:203.57.129.2:4246:*:*
+TimesPeril:207.49.240.62:4322:*:*
+Timewarp:207.49.240.62:5152:*:*
+Timewarp-RENEGADE:204.89.144.23:4247:*:*
+TotalChaos:194.158.113.122:4246:*:*
+TotL:204.17.163.17:4246:*:*
+treffpunkt:194.126.117.130:6665:*:*
+Tron:141.241.84.65:4246:*:finger,locate,tell,who
+Tubmud:130.149.19.20:7683:*:*
+TubMud-clone:209.140.34.152:7683:*:*
+Turithil:193.170.192.74:4246:*:*
+UdpApp:137.44.102.1:5505:*:*
+Ulantris:206.109.153.66:4246:*:*
+Ulantris-Alpha:206.109.14.120:4246:*:*
+UNItopia:129.69.221.130:3335:*:*
+Venus:207.238.162.18:9998:*:*
+ViKaR:131.246.89.1:7777:*:*
+WarringNations:209.109.176.35:4001:*:*
+WinterKill:192.83.57.1:4246:*:*
+WooHooLand:204.200.98.200:2999:*:*
+Wormhole:128.243.216.249:2500:*:*
+Wunderland:139.18.11.161:4246:*:*
+Zeatoria:141.2.23.17:3335:*:*
+Zebedee:138.40.17.11:7002:*:*
+Zeittunnel:134.109.132.63:4246:*:*

@@ -1,0 +1,18 @@
+Command : Ansi.
+Format  : set ansi on || set ansi off
+
+     Ansi is a way of coloring specific parts of the text that you
+see on your screen.  Wizards can code ansi colors into the short
+and long descriptions of rooms and objects, and certain items, such
+as the Binford and the Highlighter, will color says, tells, etc
+to make them easier to see.  Channels can also be colored with ansi.
+     By using the <set ansi on> command, you are allowing the color to
+reach you.  Do not set this variable on if your terminal does not support c
+color.
+     Having ansi-shorts and ansi-longs set on will not affect your screen
+unless you also have ansi set on.
+
+See also: set, ansi-shorts, ansi-longs, channels, color
+
+[ Last updated: Mon Mar 17 01:06:38 1997 ]
+

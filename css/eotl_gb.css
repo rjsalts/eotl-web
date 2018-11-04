@@ -1,0 +1,125 @@
+BODY {
+  color      : #000000;    /* This line doesn't seem to work. */
+  background : #000000;
+}
+
+A:link    { color : #996699; }
+A:visited { color : #9966CC; }
+A:hover   { background: #FFEE99; }
+A:link.menu    { color : #FFFFFF; }
+A:visited.menu { color : #FFFFFF; }
+A:hover.menu   { background: #993399; }
+
+H1, H2, H3, H4, H5, H6 {
+  font-family : arial, helvetica, sans-serif;
+}
+
+H1.buck, H2.buck, H3.buck, H4.buck, H5.buck, H6.buck {
+  font-family : buckingham, arial, helvetica, sans-serif;
+}
+
+P, UL, OL, DL, DD, FORM, BLOCKQUOTE {
+/*  font-family : palatino, serif; */
+  font-family : arial, helvetica, sans-serif;
+  font-size   : 10pt;
+}
+
+P.ss {
+  font-family : arial, helvetica, sans-serif;
+  font-size   : 10pt;
+}
+
+
+TD.border {
+  color       : #FFFFFF;
+  background  : black;
+  font-family : arial, helvetica, sans-serif;
+  font-size   : 8pt;
+}
+
+TD.multicol {
+  color       : #000000;
+  background  : white;
+  font-family : verdana, arial, helvetica, sans-serif;
+  font-size   : 10pt;
+}
+
+PRE, .mono {
+  color       : #000000;
+  font-family : courier, monospace;
+  font-size   : 10pt;
+}
+
+.menu {  /* for menu links */
+  color          : #FFFFFF;
+  font-family    : verdana, arial, helvetica, geneva, sans-serif;
+  font-size      : 8pt;
+  text-decoration: none;
+}
+
+.menugrey {  /* for menu non-links */
+  color          : #999999;
+  font-family    : verdana, arial, helvetica, geneva, sans-serif;
+  font-size      : 8pt;
+}
+
+.menured {  /* for menu non-links */
+  color          : #FF0000;
+  font-family    : verdana, arial, helvetica, geneva, sans-serif;
+  font-size      : 8pt;
+}
+
+.ss8 {
+  color       : #000000;
+  font-family : verdana, arial, helvetica, geneva, sans-serif;
+  font-size   : 8pt;
+}
+
+.ss8w {
+  color       : #FFFFFF;
+  background  : black;
+  font-family : verdana, arial, helvetica, geneva, sans-serif;
+  font-size   : 8pt;
+}
+
+.ss10 {
+  color       : #000000;
+  background  : white;
+  font-family : arial, helvetica, geneva, sans-serif;
+  font-size   : 10pt;
+}
+
+.bignpurple {
+  color       : #660066;
+  background  : white;
+  font-family : verdana, arial, helvetica, geneva, sans-serif;
+  font-size   : 14pt;
+}
+
+.bignwhite {
+  color       : #FFFFFF;
+  background  : black;
+  font-family : verdana, arial, helvetica, geneva, sans-serif;
+  font-size   : 14pt;
+}
+
+.blue1 {
+  color       : #3333FF;
+}
+
+.entry {
+  font-family : verdana, arial, helvetica, sans-serif;
+  font-size   : 10pt;
+  color       : #990099;
+}
+
+.gname{
+  color       : #FF6600;
+}
+
+.ttop {
+  color       : #FFEE99;
+  font-family : verdana, arial, helvetica, geneva, sans-serif;
+  font-size   : 20pt;
+  font-weight : bold;
+}

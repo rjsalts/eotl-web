@@ -1,0 +1,14 @@
+Topic : Fleeing.
+
+     Should a battle become too much for you, you may flee from the combat.
+The monster or player you are fleeing from will be able to take a few 
+swings at you as you run away.
+
+NOTE: There is no flee bug.  It's a feature [tm].
+If you don't want to die through fleeing, don't use wimpy.
+
+See also: wimpy, wimpydir, combat
+[ Updated December 95 ]
+
+[ Last updated: Wed Apr 30 08:42:13 1997 ]
+

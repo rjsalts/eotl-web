@@ -1,0 +1,13 @@
+Command : Unallow.
+Format  : unallow <who> || unallow <all>
+
+     If you have players following you who you have allowed to do so,
+you may <unallow> them also.  Once a player is unallowed, there is a
+far greater chance they will lose you during your movements from room to 
+room.  Should you wish to unallow everybody that is following you, 
+<unallow all> can be used.
+
+See also: allow, follow, followers
+
+[ Last updated: Mon Mar 17 02:03:01 1997 ]
+

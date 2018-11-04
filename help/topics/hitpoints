@@ -1,0 +1,11 @@
+Topic : Hitpoints.
+
+     Hitpoints are a numerical representation of the damage your player
+can take before she / he / it dies.  If your player's hitpoints drop below
+1, you will become incapacitated, and if they drop below the negative
+value of your constitution, you will die.
+
+See also: stats, death
+
+[ Last updated: Mon Mar 17 02:12:14 1997 ]
+

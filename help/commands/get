@@ -1,0 +1,16 @@
+Command : Get
+Format  : get <item>, get <item> from <item2>, get all, get all from <item>
+Example : get small sack
+
+This command will allow you to get items from the room you are in or from
+an item in your inventory.  Simply typing 'get <item>' will get the <item>
+you have specified from the room you are in.  Typing 'get <item> from
+<item2>' will get the <item> from <item2> in your inventory.
+
+Some items are not gettable because they may either be permanant objects
+in the room or they may be too heavy for you to carry.
+
+See also: objects, encumbrance
+
+[ Last updated: Fri Jul 11 19:20:41 1997 ]
+

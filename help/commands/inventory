@@ -1,0 +1,10 @@
+Command : Inventory.
+Format  : inventory || i
+
+     The <inventory> command will list what you are carrying.  It may be
+shortened to <i>.
+
+See also: encumbrance
+
+[ Last updated: Mon Mar 17 01:36:23 1997 ]
+

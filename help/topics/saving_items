@@ -1,0 +1,19 @@
+Topic : Saving Items.
+
+-- Lockers:
+     Players may save and retrieve their items at any locker throughout
+the mud.  Lockers are generally located in inns, hotels and the like.
+Storage is not free, however, and the price of keeping an item increases
+vs. time at a linear rate until, at 15 days, the player must pay the full
+value of the item to retrieve it.
+
+     Locker thieves are known to exist.
+
+-- Banks:
+     Money may be deposited and withdrawn from any bank throughout the mud.
+EotL banks offer no interest, nor do they charge account-keeping fees.
+
+See also: quit
+
+[ Last updated: Mon Mar 17 02:18:21 1997 ]
+

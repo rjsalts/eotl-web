@@ -1,0 +1,83 @@
+<html>
+<head>
+<title>End of the Line LP Mud</title>
+<link rel=STYLESHEET href="/css/eotl_w.css">
+</head>
+
+<body bgcolor=#FFFFFF text=#000000 link=#FF0000 vlink=#CC88CC
+      background="/img/bgborder.jpg">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=140><img src="/img/clr.gif" alt="" hspace=69 width=1 height=1></td>
+<td rowspan=2 width=30><img src="/img/clr.gif" alt=""
+    hspace=14 width=1 height=1></td>
+<td valign=top width=400>
+  <h1 align=center><img src="/img/eotl.gif" width=364 height=60
+    border=0 alt="End of the Line LP Mud"></h1>
+</td>
+</tr>
+<tr>
+<td align=center valign=top width=140>
+
+  <img src="/img/clr.gif" alt="" vspace=14 width=1 height=1><br>
+
+  <p align=center
+  ><img src="/cgi-bin/counter/counter.pl"
+    alt="" width=65 height=20>
+  </p>
+
+<img src="/img/clr.gif" alt="" vspace=14 width=1 height=1>
+
+</td>
+<td rowspan=2 valign=top width=400>
+<p align=center>
+<font color="purple" size=+2>
+One of the oldest LP Muds in existence -- since 1989!
+</font>
+</p>
+
+<center>
+<p>
+EotL is <a href="http://www.mudconnect.com/">The Mud
+Connector</a>'s March Mud of the Month!<br>
+<a href="/news/cheesefest98.html">CheeseFest II
+is coming this summer!</a>
+</p>
+</center>
+<!-- a href="http://www.engr.csulb.edu/~lhychong/ds97/ds97.html">Doodlestock '97 -->
+
+<p>
+<img src="/img/clr.gif" alt="" width=1 height=1 hspace=10>
+<strong><font size=+3>E</font>nd of the Line</strong>, more
+affectionately known as <strong>EotL</strong> by its denizens, is a
+text-based game in which you play a character that adventures in a
+myriad of landscapes and realms.
+You can interact with many other players, many of whom connect
+from locations such as Hong Kong, Chile, Australia, Canada,
+Russia, England, and the United States (the San Francisco
+Bay area in particular).
+
+<br>
+
+<img src="/img/clr.gif" alt="" width=1 height=1 hspace=10>
+<font size=+3>E</font>otL is part of the LP-family of MUDs,
+which involves roleplaying and adventuring,
+and which is primarily combat-oriented
+(although there are many social players as well).
+</p>
+
+
+<hr noshade>
+<p>
+Last updated: March 21, 1998<br>
+Please send your comments and questions to:
+<a href="mailto:webmaster@eotl.org">webmaster@eotl.org</a><br>
+<font size=-2>Anonymous email without a valid return address
+will go directly to /dev/null.</font></p>
+</td>
+</tr>
+</table>
+
+</body>
+</html>

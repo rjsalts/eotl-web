@@ -1,0 +1,35 @@
+General: Objects.
+
+     Manipulating objects you come across on the mud.
+
+1.  Get                       Format: get <object>
+--  Attempt to pick up an item from the room you are in.
+You may also use <get all> to attempt to pick up every item in the room.
+
+2.  Get From                  Format: get <object> from <where>>
+--  Attempt to remove an item from inside another item.
+
+3.  Drop                      Format: drop <object>
+--  Attempt to drop an item you are carrying.  You may also use <drop all>
+to attempt to drop your entire inventory.
+
+4.  Give                      Format: give <object> to <who>
+--  Attempt to give an item to another player, or to a monster.  You 
+cannot give away items that can't be dropped.
+
+5.  Put                        Format: put <object> in <where>
+--  Attempt to put an item into another item.  You cannot put things into
+other players or monsters; use the 'give' command.
+
+6.  Junk                      Format: junk <object>
+--  Attempt to get rid of an item you are carrying and do not want.
+Items that contain other items, wielded or worn items, and items you cannot
+drop can't be junked.
+
+7.  Show                      Format: show <object> to <who>
+--  Show another player the description of an item you are carrying.
+
+See also: inventory, encumbrance, syntax
+
+[ Last updated: Mon Mar 17 01:04:34 1997 ]
+

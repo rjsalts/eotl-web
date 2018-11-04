@@ -1,0 +1,13 @@
+Command : Wimpy Direction
+Format  : wimpydir <direction> || wimpydir random
+Example : wimpydir east
+
+     If your player has a wimpy value set (not zero) then you may also
+specify a default direction for your player to attempt to flee in, should 
+wimpy be called.  Should you not have any preference, the direction
+may be set to 'random'.
+
+See also: wimpy, set
+
+[ Last updated: Mon Mar 17 02:05:54 1997 ]
+

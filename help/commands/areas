@@ -1,0 +1,11 @@
+Command : Areas.
+Format  : areas <armor>
+Example : areas helmet
+
+     The 'areas' command will show you which locations a particular piece
+of armor will protect.
+
+See also: locations
+
+[ Last updated: Mon Mar 17 01:07:17 1997 ]
+

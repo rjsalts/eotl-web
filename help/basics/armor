@@ -1,0 +1,21 @@
+General: Armor
+
+     Armor is used to protect yourself in combat.  The following commands
+may be used:
+
+1.  Wear                      Format: wear <item>
+--  Attempt to wear a piece of armor, clothing, or jewelry.
+
+2.  Remove                    Format: remove <item>
+--  Attempt to remove a piece of armor, clothing, or jewelry.
+
+3.  Equip                    Format: equip
+--  Attempt to wear or wield all wearable and wieldable items.
+
+4.  Unequip                   Format: unequip
+--  Attempt to remove or unwield all worn and wielded items.
+
+See also: locations, areas, weapons, combat
+
+[ Last updated: Mon Mar 17 01:03:59 1997 ]
+

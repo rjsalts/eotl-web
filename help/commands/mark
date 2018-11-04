@@ -1,0 +1,16 @@
+Command : Mark
+Format  : mark <object|all [id]|equip>
+ 
+     Marking an object prevents it from being sold -- handy to do with
+your healing or other items that aren't worn, wielded, or held.  Objects must
+be unmarked before storing.
+ 
+     <mark equip> will mark all the equipment you're wearing/wielding,
+<mark all> will mark your entire inventory, and <mark all [id]> will mark 
+everything matching "id" (so "mark all armor" will mark all the armor in 
+your inventory).
+ 
+See also: unmark
+
+[ Last updated: Mon Mar 17 01:47:54 1997 ]
+

@@ -1,0 +1,20 @@
+The Defend Command
+ 
+     The defend command is used to begin protecting a player from other
+players or monsters.  When you are defending a person and he/she/it is
+attacked, you automagically step in front and start taking hits.
+Syntax follows:
+ 
+defend <what>
+  Start defending what.  If you are already defending what you will stop
+  defending.
+ 
+defend
+  Lists what you are currently defending.
+ 
+  
+-Tyrus
+ 
+
+[ Last updated: Mon Jun  2 20:21:07 1997 ]
+

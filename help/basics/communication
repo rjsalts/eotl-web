@@ -1,0 +1,43 @@
+General: Communicating.
+     How to communicate with other players on EotL.
+
+1.  Say.                      Format: say <message>
+--  Everyone in the same room, including you, sees your message.
+
+2.  Tell.                     Format: tell <who> <message>
+--  Only the player <who> sees your message with a tell.  They do not need
+    to be in the same room as you.
+
+3.  Group Tell.               Format: tell <who>, <who>, <who> <message>
+--  Each player you include will see the message.  There is no limit to
+    the number of players you can group tell at the same time.
+
+4.  Whisper.                  Format: whisper <who> <message>
+--  You can only whisper to someone in the same room as you.  Other
+    players will see you whispering, but will not know what you've said.
+
+5.  Emote.                    Format: emote <message>
+--  And emote is shown to everyone who is in the room with you.
+    They will see your name, followed by the message.
+
+6.  Reply.                    Format: reply <message>
+--  The last person who sent you a tell will receive your message when you
+    use reply.  To reply to everyone in a group tell, use the format:
+    reply -a <message>.
+
+7.  Tell (dot).                Format: tell . <message>
+--  Tell (dot) will send your message to the same person you sent your last
+    tell to.
+
+8.  Converse.                 
+--  The old "converse" command has been replaced with "mode say".  See
+    "mode" for more information on how to use it.
+    
+9.  Shout.                    Format: shout <message>
+--  Only wizards can shout.  Should you wish to express your message
+    to a large number of players, use a channel.
+    
+See also: channel, feelings
+
+[ Last updated: Mon Mar 17 01:04:17 1997 ]
+

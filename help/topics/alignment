@@ -1,0 +1,28 @@
+Topic : Alignment.
+
+       The alignment of a player is a cummulative representation of how
+good or how evil that player is.  Your alignment is affected by the
+alignment of the monsters you kill, and certain objects on the mud.
+The alignment of a monster is set upon its creation, and generally
+does not change.
+
+     There are several guilds upon EotL in which alignment plays a 
+major part.  Alignment can also influence the armor you can wear, weapons
+you can wield, and even the areas you can enter.
+
+     Your alignment is a number, represented by the following scale:
+
+          Angelic
+          Saintly
+          Very Good
+          Good
+        - Neutral -
+          Evil
+          Very Evil
+          Devilish
+          Demonic
+
+     You can see your current alignment by using the <score> command.
+
+[ Last updated: Mon Mar 17 02:06:36 1997 ]
+

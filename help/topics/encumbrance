@@ -1,0 +1,14 @@
+Topic : Encumbrance.
+ 
+     Your encumbrance is the total weight you are able to carry in your
+inventory.  This value is dependent upon your strength.  Items carried
+in other items, such as backpacks, sacks, etc, are counted as 2/3rds of
+their true weight.
+ 
+     You may see how encumbered you are by using the 'score' command.
+You may not be able to collect any more items if your encumbrance is high.
+
+See also: objects
+
+[ Last updated: Mon Mar 17 02:09:25 1997 ]
+

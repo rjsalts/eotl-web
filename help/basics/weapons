@@ -1,0 +1,21 @@
+General: Weapons.
+
+     A weapon is used to do added damage in combat.  The following commands
+may be used:
+
+1.  Wield                     Format: wield <item>
+--  Attempt to wield a weapon.  You may only wield one weapon at a time.
+
+2.  Unwield                   Format: unwield <item>
+--  Attempt to unwield a weapon.
+
+3.  Equip                    Format: equip
+--  Attempt to wear or wield all wearable and wieldable items.
+
+4.  Unequip                   Format: unequip
+--  Attempt to remove or unwield all worn and wielded items.
+
+See also: proficiencies, armor, combat
+
+[ Last updated: Thu Jul 10 16:42:22 1997 ]
+

@@ -1,0 +1,11 @@
+Command : Unsubstitution.
+Format  : unsub <word>
+Example : unsub jim
+
+     This command removes the special meaning you assigned to a word
+with the 'sub' command.
+
+See also: sub, alias, and unalias
+
+[ Last updated: Mon Mar 17 02:05:00 1997 ]
+

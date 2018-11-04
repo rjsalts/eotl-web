@@ -1,0 +1,10 @@
+Topic : Mana.
+
+     Mana is a numerical representation of the mental and magical power your 
+player has to draw from.  Some races, such as andriods, have no mana.
+Mana is used when querying monsters, and in the casting of spells.
+
+See also: stats
+
+[ Last updated: Mon Mar 17 02:14:07 1997 ]
+

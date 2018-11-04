@@ -1,0 +1,100 @@
+Command : Prompt
+ 
+  Syntax
+    prompt
+    prompt <prompt_string>
+    prompt <format_string>
+    prompt <id>
+ 
+  Description
+    Typing prompt alone will restore your prompt to the last prompt you 
+    had set, or ``> '' if no previous prompt was set.
+    
+    prompt <prompt_string> will set your prompt to prompt_string.
+ 
+    If you are a wizard, prompt <id> will set your prompt to the value 
+    of the environment variable "id_prompt"
+  
+    The prompt formats expand as follows:
+      %%          The % character.
+      %0          Null.  Evaluates to "".
+      %A          Maximum hit points.
+      %a          Current hit points.
+      %B          Maximum fatigue.
+      %b          Current fatigue.
+      %c[color]   screen color will be changed to color.  Available 
+                  colors are:
+                  black  red  green  yellow  blue  purple  cyan  white
+                  hblack hred hgreen hyellow hblue hpurple hcyan hwhite
+                  bblack bred bgreen byellow bblue bpurple bcyan bwhite
+                  beep   bold flash  blink   norm
+      %D[xxx]     The ASCII character with decimal value xxx.
+      %G[<Gstr>]  If you are a member of a group, <Gstr> will be sent.
+      %G          Same as %G[(grouped) ].
+      %g[<gstr>]  If you are a ghost, <gstr> will be sent.
+      %g          Same as %g[(ghost) ].
+      %H          The current command number.
+      %I[<Istr>]  If you are incapacitated, <Istr> will be sent.
+      %I          Same as %I[(incap) ].
+      %J          Last command entered.
+      %K          Maximum mana.
+      %k          Current mana.
+      %M[<mstr>]  If you have new mail, <mstr> will be sent.
+      %M          Same as %M[(Mail) ].
+      %N[<nstr>]  If there are unread posts, <nstr> will be sent.
+      %N          Same as %N[(News) ].
+      %n          a newline.
+      %O[<Ostr>]  If you are following someone, <Ostr> will be sent.
+      %O          Same as %O[(following) ].
+      %o[<ostr>]  If you are being followed, <ostr> will be sent.
+      %o          Same as %o[(followed) ].
+      %Q          Total money holdings.
+      %q          Your current money holdings.
+      %R[<Rstr>]  If you are resting, <Rstr> will be sent.
+      %R          Same as %R[(resting) ].          
+      %r          The short description of your current environment.
+      %S          Your ip name.
+      %s          Your ip number.
+      %T[<tfmt>]  The current time as returned by strftime(tfmt, time)
+                  where time is the current time plus your time_zone 
+                  offset hours.
+      %T          Same as %T[%C].
+      %V          Your evaluation.
+      %W          Your wimpy chance.
+      %w          Your current mode.
+      %X          Your experience.
+ 
+    If you are a wizard, the following formats also expand:
+      %E          The evaluation cost of the last command.
+      %e          Remaining evaluation cost after last command.
+      %f[<fstr>]  If setv no_finger is on, <fstr> will be sent.
+      %f          Same as %f[(nf) ]      
+      %i[<istr>]  If setv invisible is on, <istr> will be sent.
+      %i          Same as %i[(I) ]
+      %L          Your current su'd level.
+      %l          Your current real level.
+      %P          Your compressed present working directory.
+      %p          Your present working directory.
+      %U          Your uid.
+      %u          Your euid.
+ 
+Examples
+    Here are some sample prompts:
+ 
+    prompt %c[cyan]%P%c[norm]> would give a prompt looking something like
+    this: 
+      ~iffy> 
+    where ~iffy is the color cyan.
+ 
+    setv debug_prompt 'Last command: %J%nEval Cost: %E%n> '
+    prompt debug would give a prompt looking something like this:
+      Last command: look
+      Eval Cost: 670
+      >
+    
+    prompt HP: %a/%A   Mana: %k/%K   Fatigue: %b/%B   Exp: %X>
+    would look something like this:
+    HP: 500/500   Mana: 500/500   Fatigue: 500/500   Exp:  206>
+
+[ Last updated: Mon Mar 17 01:48:56 1997 ]
+

@@ -1,0 +1,9 @@
+Variable : nobeep
+Format   : set nobeep on || set nobeep off
+ 
+   Set this on if you don't want other mortals to be able to beep you.
+ 
+See also: mbeep, set
+
+[ Last updated: Mon Apr  7 21:50:11 1997 ]
+

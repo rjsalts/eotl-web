@@ -1,0 +1,9 @@
+Command : Fail Message
+Format  : set fail-msg <something>
+Example : set fail-msg Huh?
+
+     This sets the default message you get when the mud doesn't
+understand what you typed.  Why is this settable?  Why not?
+
+[ Last updated: Mon Mar 17 01:24:22 1997 ]
+

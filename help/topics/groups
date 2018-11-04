@@ -1,0 +1,14 @@
+Topic : Groups.
+
+     Grouping allows several players to combine their strengths as they
+adventure thoughout the mud.  For the specific commands used to begin and
+run a group, please see the <help group> file.
+
+     When any group member kills a monster, the exp gained is split 
+among the members of the group who are present in the same room.
+This split is based upon the eval of each player.
+
+See also: group, follow
+
+[ Last updated: Mon Mar 17 02:11:42 1997 ]
+

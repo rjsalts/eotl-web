@@ -1,0 +1,4 @@
+ok:5
+tard:25
+nerd:2
+geek:3

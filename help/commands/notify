@@ -1,0 +1,92 @@
+Command : Notify
+Format  : notify || notify <command>
+
+     The notify command controls the login/logout notification 
+inside your player body.  The different commands are as follows:
+
+notify
+  Lists your categories.
+
+notify <on/off>
+  Turns on/off notification.
+
+notify <on/off> <category>
+  Turns notification on/off for <category>. (default is on)
+  
+notify level <level>
+  Sets your notification to watch for level <level> and above.
+  <level> can be a string (e.g. "wizard", "frob") or an ordinal
+  value.  (0 is Mortal, 1 is Guest, 2 is Frob)  You will then be
+  notified of everyone ranked <level> and above, whether they are
+  on your list or not.  Set <level> to 8 to turn off level notification.
+  
+notify beep <category> <on/off>
+  Marks a notification category for beeping.
+
+notify  <category>
+  Lists the contents of <category>.
+
+notify +c <category>
+  Adds <category> to your notify list.
+
+notify -c <category>
+  Deletes <category> from your notify list.
+
+notify +n <category> <name>
+  Adds <name> to <category>.
+
+notify -n <category> <name>
+  Deletes <name> from <category>.
+
+notify -n <name>
+  Deletes <name> from your notify list.
+
+notify color <category> <color>
+  Changes the color of <category> to <color>
+
+  Colors:
+    black
+    blue
+    green
+    cyan
+    red
+    purple or magenta
+    yellow or brown
+    white
+  Modifiers:
+    bold
+    blink
+  ( bold <color> can be abbreviated by adding "h" or "b" to the
+    beginning of the color.  ( "bold white" becomes "bwhite" ) )
+
+notify convert <bw|bw2|gen|iff>
+  Temporary command for converting other friends and foes lists to
+  this one.
+       bw  - Converts from Binford Wiztoy
+       bw2 - Converts from Binford Wiztoy Mark II
+       gen - Converts from the Gentool
+       iff - Converts from the SuperIFF
+
+notify RESET
+  Resets your friends/foes list to the default.
+
+notify *check
+  Fixes some problems you might be having with ansi who.
+ 
+notify move on/off
+  Sets movement notification on or off.
+ 
+notify move on/off <category>
+  Sets movement notification on or off for that category.
+ 
+notify move entrance/exit
+  Shows current status for default entrance or exit messagees.
+ 
+notify move entrance/exit <color>
+  Sets default entrance or exit message color.
+ 
+notify move entrance/exit off
+  Turns off default entrance or exit message.
+
+[ Last updated: Mon Mar 17 01:44:16 1997 ]
+

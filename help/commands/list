@@ -1,0 +1,12 @@
+Command : List.
+Format  : list || list <argument>
+Example : list locations
+
+     The 'list' command will display your hit locations, your proficiency 
+levels, your skill levels, or your stats.  Typing <list> by itself will
+show the valid arguments for the command.
+
+See also: locations, proficiencies, skills, stats
+
+[ Last updated: Mon Mar 17 01:37:22 1997 ]
+

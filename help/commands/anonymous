@@ -1,0 +1,10 @@
+Command : Anonymous.
+Format  : set anonymous on || set anonymous off
+
+     Unless anonymous is set on, your evaluation level will be displayed next
+to your name when other players use the "who" command.
+
+See also: evaluation, set
+
+[ Last updated: Mon Mar 17 01:06:24 1997 ]
+

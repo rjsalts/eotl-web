@@ -1,0 +1,60 @@
+8/31/00: EotL driver
+update: LDMud 3.2.9.
+
+2/25/00: EotL is running
+on a new driver, LDMud
+3.2.7.
+
+7/21 - 7/23/00:
+Cheesefest IV is now
+over.
+
+4/30/00: Player purge.
+
+2/25/00: EotL is running
+on a new driver, LDMud
+3.2.7.
+
+2/25/00: EotL is now
+running on a new driver,
+called LDMud 3.2.7.
+Technically the mud is
+no longer an LPMud.
+Lots of code is broken
+as a result. The player
+purge will come once the
+code is mostly stable
+again. Until then, it's
+safe to assume chaos is
+in effect. Ask your
+favorite wizard for a
+Duncan Sword.
+
+2/11/00: The machine
+was moved in the server
+room at Stanford on
+Wednesday. The mud
+came back up Thursday
+night with yet another
+new IP address!
+171.64.14.16 2010 (not
+171.64.12.30).
+
+1/27/00: Online help
+files have been fixed.
+
+10/30/99: Dear
+Reverend is back!
+Submit your personal
+question on our online
+form!
+
+EotL's IP address
+changed back in 1998.
+Stanford no longer has
+the 36.x.x.x IP address
+range. FYI
+
+EotL was The Mud
+Connector's March 1998
+Mud of the Month!

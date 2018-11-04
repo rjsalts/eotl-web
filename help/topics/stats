@@ -1,0 +1,35 @@
+Topic : Stats
+
+     There are six primary stats, and these represent your abilities.
+
+1.  Strength
+--  How strong you are.  Raising your strength allows you to carry more,
+deal a greater amount of damage in combat, and increases your maximum
+hitpoints and fatigue
+
+2. Intelligence
+--  How smart you are.  Raising your intelligence increases your maximum
+amount of mana and can make casting certain spells and skills more effective.
+
+3.  Willpower
+--  How strong your endurance is.  Raising your willpower helps you regain 
+hitpoints and fatigue back faster, and increases your maximum fatigue.
+
+4.  Constitution
+--  How healthy you are.  Raising your constitution will increase your 
+maximum hitpoints and fatigue.
+
+5.  Dexterity
+--  How agile you are.  Raising your dexterity allows you to dodge better
+in combat suitations.
+
+6. Charisma
+--  How charming you are.  Raising your charisma will result in lower
+prices in the shops when you buy items, and higher prices when you sell.  
+In fact, many shopkeepers will not deal with you unless a certain ratio of
+your total number of stats is charisma.
+
+See also: hitpoints, mana, fatigue
+
+[ Last updated: Mon Mar 17 02:20:37 1997 ]
+

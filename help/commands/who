@@ -1,0 +1,129 @@
+ ______________________________               ____________________________ 
+|            Name              |             |          Syntax            |
+|------------------------------|             |----------------------------|
+| who - list on-line player(s) |             |  who [-option(s)]          |
+|______________________________|             |  who [-option(s)] <player> |
+                                             |____________________________|
+
+ _________________________________________________________________________ 
+|                                Description                              |
+|-------------------------------------------------------------------------|
+|      This command with no name specified will produce a list of the     |
+|  players and wizards on-line.  For more detailed information on a       |
+|  player or wizard, type 'who <name>', where <name> is the name of a     |
+|  player or wizard.                                                      |
+|_________________________________________________________________________|
+
+ _________________________________________________________________________
+|                                  Options                                |
+|-------------------------------------------------------------------------|
+|                                                                         |
+|   -p          Displays people online with more detail.                  |
+|               (similar to "who -p <player>")                            |
+|                                                                         |
+|   -p <player> Displays compressed info on a player.                     |
+|               (see explanation below)                                   |
+|                                                                         |
+|   -l <group>  Displays laston information for a group of people in      |
+|               your notify list.                                         |
+|                                                                         |
+|   -l <player> Displays laston information for a person.                 |
+|                                                                         |
+|   -c          Displays people online in your notification list.         |
+|               (like chum -s in the iff)                                 |
+|                                                                         |
+|   -o          Displays people online by their short description.        |
+|               (old who)                                                 |
+|                                                                         |
+|   -i <player> Displays miscellaneous player info on a person.           |
+|               (like the gentool's "[info <player>")                     |
+|                                                                         |
+|   -w          Wizard list - lists only wizards.                         |
+|                                                                         |
+|   -m          Mortal list - lists only mortals.                         |
+|                                                                         |
+|   -g          Lists players and wizards separated by guild name.        |
+|                                                                         |
+|   -r          Lists players and wizards separated by race.              |
+|                                                                         |
+|   -s <sort>   Lists players, sorted by the specified sort               |
+|               <sort> can be one of the following:                       |
+|                 eval      age       level (default)                     |
+|                 guild     gender    specialization                      |
+|                 race                                                    |
+|                                                                         |
+|   -f <filter> Lists all players that match the filter.                  |
+|               They can be stacked for narrower output.                  |
+|               <filter> can be one of the following:                     |
+|                 high-eval  low-eval  mid-eval                           |
+|                 g:<guild>  r:<race>  e:<gender>                         |
+|                 wizard     mortal                                       |
+|               Where <guild>, <race>, and <gender> are                   |
+|               regular expressions.                                      |
+|                                                                         |
+|   -b <player> Like who <player>, but inserts page breaks.               |
+|                                                                         |
+|   -F <player> Like who <player>, but displays one's finger-plan.  Works |
+|               only for wizards; otherwise, it's the same as             |
+|               who <player>.                                             |
+|                                                                         |
+|   -R          Forces evaluation to be displayed relative to the most    |
+|               powerful player on the mud, who is displayed as 100 when  |
+|               logged on.  Wizards and test characters are not figured   |
+|               into the calculations, so their evals may be above 100    |
+|               (but are still relative to the most powerful player.)     |
+|               Relative eval, like evaluation, may be an inaccurate      |
+|               representation of a player's power.                       |
+|_________________________________________________________________________|
+
+ __________________________               ________________________________ 
+|        Evaluation        |             |              Age               |
+|  Title          Range    |             |  Title           Range (days)  |
+|--------------------------|             |--------------------------------|
+|  Insect         1        |             |  Newborn         0             |
+|  Newbie         2-3      |             |  Kid             1-2           |
+|  Novice         4-5      |             |  Teen            3-4           |
+|  Average        6-8      |             |  Young adult     5-8           |
+|  Better         9-11     |             |  Adult           9-14          |
+|  Skilled        12-14    |             |  Gettin' on      15-20         |
+|  Advanced       15-18    |             |  Old Fart        21-30         |
+|  Expert         19-22    |             |  Ancient         31-50         |
+|  Master         23-26    |             |  Ageless         51-100        |
+|  Terrific       27-30    |             |  > Ageless?      101-150       |
+|  Awesome        31-34    |             |  Oh My           151-200       |
+|  Radical        35-39    |             |  Ladylunar?      201+          |
+|  Coolness       40-49    |             |________________________________|
+|  Wow!           50-79    |
+|  Ugh            80-144   |
+|  Bleah          145-199  |
+|  Insane         200+     |
+|__________________________|
+
+
+who -p <name> explained:
+                 Linkdead   Idle:seconds  Online/Laston:time
+                      \           \         /
+  ____________________________________________________________________________
+ | [Wiz] Devo        |LD|ED|M:2  |I:30  |O:26m |G:Fighter     |S:Swordsman    |
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      |                  /    \                      |              |
+     Name            Editing  Mail:new letters     Guild        Specialization
+
+
+   Jimmy Wolf sez, "who.c: It's not crap anymore!"
+
+  
+                  ( It's not crap anymore! )
+   |\   /|       O
+    o   o    o
+      0    .
+    |_|_|
+   | |_| |
+
+
+ _________________________________________  
+|  See also 'anonymous' and 'evaluation'  |
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[ Last updated: Thu Feb 12 20:07:36 1998 ]
+

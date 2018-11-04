@@ -1,0 +1,18 @@
+Topic : Skills.
+
+     Players may train in a wide variety of skills to improve their chances
+of survival on the mud.  Skills are offered by guilds and subguilds.
+ 
+     Weapon-based skills are known as 'proficiencies'.  See
+<help proficiency> for further details.
+
+     To display your skills and their respective levels, use the 'list'
+command.
+
+     To display information about skills you are already trained in, 
+<help skill [skillname]> may be used.
+
+See also: list, proficiency, guilds, specs
+
+[ Last updated: Mon Mar 17 02:19:52 1997 ]
+

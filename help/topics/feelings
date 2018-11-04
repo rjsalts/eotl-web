@@ -1,0 +1,44 @@
+Topic: Feelings.
+Format : feelings
+         feelings <substring>
+ 
+This command will display a list of all of the available feelings to you.
+Feelings increase the variability of ways you can interact with other
+players or monsters on the mud.
+ 
+The second format of the feelings command will display all the available
+feelings that contain that substring.  For example: "feelings ab" will
+display all the feelings that contain the string "ab".  Note that doing
+"feelings a" does NOT produce all the feelings that begin with "a", but
+all the feelings that contain an "a".
+ 
+Feelings can be used in several ways.  Simply typing out the feeling
+without arguments will cause your player to act out that feeling.  By
+adding arguments, the feeling can be directed at another player or monster,
+or can be customized.
+ 
+    Example: smile awkwardly
+ 
+The above example will cause you to 'smile awkwardly' so that people in
+the same room as you will see a message stating that you are smiling
+awkwardly.
+ 
+    Example: smile <thing>
+ 
+The above example will cause you to smile that the <thing> you have written
+in.  You can direct feelings to other players and monsters in this fashion.
+ 
+    Example: smile <thing> awkwardly
+ 
+The above example will cause you to smile at the <thing> awkwardly.
+Everyone in the room will know that you are smiling at <thing> awkwardly,
+and the <thing> will know that it is being smiled at by you.
+
+If you want to preview what a feeling will produce, type "help <feeling>".
+
+Play around with the feelings on the Mud.  Have fun with them!
+
+See also: findemote, emote, random, suggest
+
+[ Last updated: Mon Mar 17 02:11:28 1997 ]
+

@@ -1,0 +1,5369 @@
+May  6 16:35: New mud.
+SILKE:AT:128.130.109.51:5563
+
+May  6 19:08: channel from Timewarp-RENEGADE failed.
+*Bad argument 1 to call_other()
+REQ:channel|channel:intermud|SND:Wakko|UDP:4247|NAME:Timewarp-RENEGADE|DATA:eek its a factor?
+
+May  6 19:09: channel from Timewarp-RENEGADE failed.
+*Bad argument 1 to call_other()
+REQ:channel|channel:intermud|SND:Wakko|UDP:4247|NAME:Timewarp-RENEGADE|DATA:well i have 2 people saying yes and 3 saying no
+
+May  6 19:10: channel from Timewarp-RENEGADE failed.
+*Bad argument 1 to call_other()
+REQ:channel|channel:intermud|SND:Wakko|UDP:4247|NAME:Timewarp-RENEGADE|DATA:im working on it *heh*
+
+May  9 01:27: tell from TotL failed.
+*Bad argument 1 to call_other()
+RCPNT:him|SND:zildjian|NAME:TotL|REQ:tell|UDP:4246|ID:181|DATA:hey;)
+
+May  9 01:28: tell from TotL failed.
+*Bad argument 1 to call_other()
+RCPNT:him|SND:zildjian|NAME:TotL|REQ:tell|UDP:4246|ID:182|DATA:hey;)
+
+May 10 22:03: channel from Timewarp-RENEGADE failed.
+*Bad argument 1 to call_other()
+REQ:channel|channel:intermud|SND:Wakko|NAME:Timewarp-RENEGADE|UDP:4247|DATA:Syn how many muds are you logged into?
+
+May 11 13:59: New mud.
+AL-Test-asterix:199.108.103.158:4246
+
+May 12 01:00: who from TotL failed.
+*Bad argument 2 to searcha()
+NAME:TotL|SND:ix|UDP:4246|REQ:who|ID:161
+
+May 12 09:13: Host change:
+Aldebaran: 194.162.200.15 -> 194.162.27.5
+
+May 13 12:15: New mud.
+SILKE:AT:128.130.109.51:5563
+
+May 13 14:59: Host change:
+Aldebaran: 194.162.200.15 -> 194.162.27.5
+
+May 13 15:05: New mud.
+AL-Test-asterix:199.108.103.158:4246
+
+May 13 17:09: New mud.
+SILKE:AT:128.130.109.51:5563
+
+May 13 20:59: Host change:
+Aldebaran: 194.162.200.15 -> 194.162.27.5
+
+May 14 07:28: New mud.
+AL-Test-asterix:199.108.103.158:4246
+
+May 15 11:27: channel from MorgenGrauen failed.
+*Bad argument 1 to call_other()
+REQ:channel|SND:Sky|UDP:4246|CHANNEL:intermud|NAME:MorgenGrauen|DATA:a
+
+May 15 16:15: New mud.
+AnderLAG:199.108.103.158:4246
+
+May 15 20:19: channel from DeadofNight failed.
+*Bad argument 1 to call_other()
+channel:intermud|SND:Thelan|cmd:emote|NAME:DeadofNight|REQ:channel|UDP:4242|DATA:yawns.
+
+May 16 18:27: New mud.
+SILKE:AT:128.130.109.51:5563
+
+May 16 19:55: channel from EquinoxKnights failed.
+*Bad argument 1 to call_other()
+NAME:EquinoxKnights|REQ:channel|channel:intermud|cmd:chat|UDP:4246|SND:Allaire|DATA:heh
+
+May 16 19:56: channel from Cosmos failed.
+*Bad argument 1 to call_other()
+UDP:5001|SND:Tiresius|NAME:Cosmos|REQ:channel|channel:intermud|DATA:of course, I'm pretending I actually HAVE mudders  =)
+
+May 16 19:56: channel from Cosmos failed.
+*Bad argument 1 to call_other()
+UDP:5001|SND:Tiresius|NAME:Cosmos|REQ:channel|channel:intermud|DATA:there goes allaire, invis as always
+
+May 16 19:56: channel from EquinoxKnights failed.
+*Bad argument 1 to call_other()
+NAME:EquinoxKnights|REQ:channel|channel:intermud|cmd:chat|UDP:4246|SND:Allaire|DATA:sorry just afk for a bit ;)
+
+May 16 19:58: channel from Cosmos failed.
+*Bad argument 1 to call_other()
+UDP:5001|SND:Tiresius|NAME:Cosmos|REQ:channel|channel:intermud|DATA:well get vis, intermud is so public  :)
+
+May 16 19:59: channel from EquinoxKnights failed.
+*Bad argument 1 to call_other()
+NAME:EquinoxKnights|REQ:channel|channel:intermud|cmd:emote|UDP:4246|SND:Allaire|DATA:vis's Just for Tiresius
+
+May 16 21:14: Host change:
+Aldebaran: 194.162.200.15 -> 194.162.27.5
+
+May 18 14:32: channel from Nightfall failed.
+*Bad argument 1 to call_other()
+NAME:Nightfall|REQ:channel|UDP:4246|SND:Krise|channel:intermud|CHANNEL:intermud|DATA:you should watch more sesame street
+
+May 18 17:29: channel from Seifenblase failed.
+*Bad argument 1 to call_other()
+cmd:emote|NAME:Seifenblase|REQ:channel|CHANNEL:intermud|SND:Suessop|UDP:4246|DATA:welcomes WeeHours on this channel.
+
+May 18 17:30: channel from Seifenblase failed.
+*Bad argument 1 to call_other()
+cmd:0|NAME:Seifenblase|REQ:channel|CHANNEL:intermud|SND:Suessop|UDP:4246|DATA:Did you have to shatter all my illusions, James? I thought it was really a new one ... *smirk*
+
+May 18 17:31: channel from Realmsmud failed.
+*Bad argument 1 to call_other()
+SND:James|UDP:4246|REQ:channel|CHANNEL:intermud|NAME:Realmsmud|DATA:nope. back when we were bringing afterhours back up, we needed a new site. someone said a fried could provide one, and then they talked that friend into giving them access, which they used to immediately steal a copy. of course, the code is very
+
+May 18 17:32: channel from Seifenblase failed.
+*Bad argument 1 to call_other()
+cmd:0|NAME:Seifenblase|REQ:channel|CHANNEL:intermud|SND:Suessop|UDP:4246|DATA:very what?
+
+May 18 17:33: channel from Wunderland failed.
+*Bad argument 1 to call_other()
+CHANNEL:intermud|NAME:Wunderland|UDP:4246|REQ:channel|SND:Holger|DATA:Hum. I just wanted to ask for ip&port of WeeHours, but I think, I do not want to know it anymore...
+
+May 18 17:34: channel from Seifenblase failed.
+*Bad argument 1 to call_other()
+cmd:0|NAME:Seifenblase|REQ:channel|CHANNEL:intermud|SND:Suessop|UDP:4246|DATA:Holger: 216.19.56.8, udp port 3001
+
+May 18 17:35: channel from Wunderland failed.
+*Bad argument 1 to call_other()
+CHANNEL:intermud|NAME:Wunderland|UDP:4246|REQ:channel|SND:Holger|DATA:aehm. Thanx. But I don't want to support thieves (if they are some) :-)
+
+May 18 17:35: channel from TubMud failed.
+*Bad argument 1 to call_other()
+CHANNEL:intermud|channel:intermud|CMD:0|REQ:channel|UDP:7683|NAME:TubMud|cmd:0|req:channel|snd:Surak|udp:7683|name:TubMud|SND:Surak|DATA:what was stolen...the mudlib only or the areas too?
+
+May 18 17:35: channel from Seifenblase failed.
+*Bad argument 1 to call_other()
+cmd:0|NAME:Seifenblase|REQ:channel|CHANNEL:intermud|SND:Suessop|UDP:4246|DATA:+i Ehat use is a second mud with just the same areas?
+
+May 18 17:36: channel from Seifenblase failed.
+*Bad argument 1 to call_other()
+cmd:0|NAME:Seifenblase|REQ:channel|CHANNEL:intermud|SND:Suessop|UDP:4246|DATA:That should be "What ..."
+
+May 18 17:36: channel from Realmsmud failed.
+*Bad argument 1 to call_other()
+SND:James|UDP:4246|REQ:channel|CHANNEL:intermud|NAME:Realmsmud|DATA:the whole thing. but since then, Huma spend over a year with a local copy opf the mudlib, updating and modernizing it. so though they do have teh complete old mud, afterhours has gone forward. the person who stole it was never a wizard though.
+
+May 18 17:38: channel from Wunderland failed.
+*Bad argument 1 to call_other()
+CHANNEL:intermud|NAME:Wunderland|UDP:4246|REQ:channel|SND:Holger|DATA:well, they are thieves in fact
+
+May 18 17:40: channel from Seifenblase failed.
+*Bad argument 1 to call_other()
+cmd:0|NAME:Seifenblase|REQ:channel|CHANNEL:intermud|SND:Suessop|UDP:4246|DATA:So if anyone wants to see all the old and long since fixed bugs of Afterhour, he has to go there. Right? ;)
+
+May 19 11:14: New mud.
+SILKE:AT:128.130.109.51:5563
+
+May 19 11:30: Host change:
+Aldebaran: 194.162.200.15 -> 194.162.27.5
+
+May 19 13:17: New mud.
+AnderLAG:199.108.103.158:4246
+
+May 21 08:50: channel from UNItopia failed.
+*Bad argument 1 to call_other()
+NAME:UNItopia|CHANNEL:intermud|UDP:3335|REQ:channel|SND:apollo|cmd:0|DATA:huh
+
+May 21 08:51: channel from TheRealms failed.
+*Bad argument 1 to call_other()
+NAME:TheRealms|channel:intermud|SND:Surge|REQ:channel|UDP:6001|DATA:agree... huh?
+
+May 24 08:56: finger from DeadofNight failed.
+*Bad argument 1 to implode()
+SND:rutog|ID:190739|NAME:DeadofNight|REQ:finger|UDP:4242|DATA:poi
+
+May 24 16:04: channel from DeadofNight failed.
+*Bad argument 1 to call_other()
+channel:intermud|SND:Havoc|NAME:DeadofNight|REQ:channel|UDP:4242|DATA:anyone running solaris 2.6
+
+May 24 16:07: channel from TAPPMud failed.
+*Bad argument 1 to call_other()
+UDP:4246|CHANNEL:intermud|NAME:TAPPMud|REQ:channel|SND:Boerigard|DATA:nope, sorry
+
+May 24 18:51: channel from NewWorldMud failed.
+*Bad argument 1 to call_other()
+NAME:NewWorldMud|REQ:channel|SND:Kain|UDP:4246|channel:intermud|DATA:firesoul?[0m
+
+May 24 22:09: channel from MysticDragons failed.
+*Bad argument 1 to call_other()
+channel:intermud|SND:Q|REQ:channel|NAME:MysticDragons|UDP:4001|DATA:anyone out there?
+
+May 24 22:09: channel from DeadofNight failed.
+*Bad argument 1 to call_other()
+channel:intermud|SND:Trinity|NAME:DeadofNight|REQ:channel|UDP:4242|DATA:no
+
+May 24 22:09: channel from Realmsmud failed.
+*Bad argument 1 to call_other()
+REQ:channel|SND:Bacho|UDP:4246|CHANNEL:intermud|NAME:Realmsmud|DATA:most definitly
+
+May 24 22:09: channel from DeadofNight failed.
+*Bad argument 1 to call_other()
+channel:intermud|SND:Trinity|NAME:DeadofNight|REQ:channel|UDP:4242|DATA:hey bacho do me a favor and see if geh is logged in
+
+May 24 22:09: channel from MysticDragons failed.
+*Bad argument 1 to call_other()
+channel:intermud|SND:Q|REQ:channel|NAME:MysticDragons|UDP:4001|DATA:How are all the party people tonight?
+
+May 24 22:10: channel from Realmsmud failed.
+*Bad argument 1 to call_other()
+REQ:channel|SND:Bacho|UDP:4246|CHANNEL:intermud|NAME:Realmsmud|DATA:heh you missed geh by over an hour ago
+
+May 24 22:10: channel from DeadofNight failed.
+*Bad argument 1 to call_other()
+channel:intermud|SND:Trinity|NAME:DeadofNight|REQ:channel|UDP:4242|DATA:doh!
+
+May 26 10:22: who from DeadofNight failed.
+*Bad argument 1 to call_other()
+SND:kellie|ID:190997|NAME:DeadofNight|UDP:4242|REQ:who
+
+May 26 19:09: New mud.
+SILKE:AT:128.130.109.51:5563
+
+May 26 19:31: Host change:
+Aldebaran: 194.162.200.15 -> 194.162.27.5
+
+May 26 23:41: New mud.
+SILKE:AT:128.130.109.51:5563
+
+May 27 00:31: Host change:
+Aldebaran: 194.162.200.15 -> 194.162.27.5
+
+May 27 08:50: channel from Regenbogen failed.
+*Bad argument 1 to call_other()
+CHANNEL:intermud|NAME:Regenbogen|UDP:4246|REQ:channel|SND:Ian|DATA:huhu
+
+May 27 08:50: channel from Regenbogen failed.
+*Bad argument 1 to call_other()
+CHANNEL:intermud|NAME:Regenbogen|UDP:4246|REQ:channel|SND:Ian|DATA:aehm, sorry, anyone from DRAGONSWORD out there
+
+May 27 17:05: channel from DeadofNight failed.
+*Bad argument 1 to call_other()
+channel:intermud|SND:Toona|NAME:DeadofNight|UDP:4242|REQ:channel|DATA:anyone have experience configuring a unix machine as a router/gateway thing?
+
+May 27 17:07: channel from MysticDragons failed.
+*Bad argument 1 to call_other()
+channel:intermud|SND:Arvhatte|REQ:channel|NAME:MysticDragons|UDP:4001|DATA:A bit
+
+May 27 17:07: channel from DeadofNight failed.
+*Bad argument 1 to call_other()
+channel:intermud|SND:Toona|NAME:DeadofNight|UDP:4242|REQ:channel|DATA:I've got a sparc with solaris 2.7 dialed-up
+
+May 27 17:08: channel from DeadofNight failed.
+*Bad argument 1 to call_other()
+channel:intermud|SND:Toona|NAME:DeadofNight|UDP:4242|REQ:channel|DATA:and I want the other machines to be able to use its connection
+
+May 27 17:09: channel from DeadofNight failed.
+*Bad argument 1 to call_other()
+channel:intermud|SND:Toona|NAME:DeadofNight|UDP:4242|REQ:channel|DATA:I tried to set ip_forwarding to on using ndd
+
+May 27 17:09: channel from MysticDragons failed.
+*Bad argument 1 to call_other()
+channel:intermud|SND:Arvhatte|REQ:channel|NAME:MysticDragons|UDP:4001|DATA:I'm off to bed.....Good luck Toona....you're in good hands with Renoir
+
+May 27 17:09: channel from MysticDragons failed.
+*Bad argument 1 to call_other()
+channel:intermud|SND:Arvhatte|cmd:emote|REQ:channel|NAME:MysticDragons|UDP:4001|DATA:waves happily.
+
+May 27 17:09: channel from DeadofNight failed.
+*Bad argument 1 to call_other()
+cmd:emote|channel:intermud|SND:Toona|NAME:DeadofNight|UDP:4242|REQ:channel|DATA:waves.
+
+May 27 17:11: channel from DeadofNight failed.
+*Bad argument 1 to call_other()
+channel:intermud|SND:Toona|NAME:DeadofNight|UDP:4242|REQ:channel|DATA:any clues?
+
+May 28 08:02: channel from MorgenGrauen failed.
+*Bad argument 1 to call_other()
+REQ:channel|SND:Padreic|UDP:4246|CHANNEL:intermud|NAME:MorgenGrauen|DATA:someone here, who can help us with a UDP problem with Java?
+
+May 28 13:41: New mud.
+SILKE:AT:128.130.109.51:5563
+
+May 28 16:31: Host change:
+Aldebaran: 194.162.200.15 -> 194.162.27.5
+
+May 28 21:20: finger from TotL failed.
+*Bad argument 1 to implode()
+SND:fringe|NAME:TotL|UDP:4246|REQ:finger|ID:153|DATA:smokey
+
+May 31 13:43: channel from DeadofNight failed.
+*Bad argument 1 to call_other()
+channel:intermud|SND:Thelan|NAME:DeadofNight|UDP:4242|REQ:channel|DATA:james, you out there?
+
+May 31 14:26: New mud.
+SILKE:AT:128.130.109.51:5563
+
+May 31 14:32: New mud.
+SILKE:AT:128.130.109.51:5563
+
+May 31 14:49: New mud.
+SILKE:AT:128.130.109.51:5563
+
+May 31 14:56: New mud.
+SILKE:AT:128.130.109.51:5563
+
+May 31 14:58: New mud.
+SILKE:AT:128.130.109.51:5563
+
+May 31 15:32: Host change:
+Aldebaran: 194.162.200.15 -> 194.162.27.5
+
+Jun  1 15:35: who from DeadofNight failed.
+*Bad argument 1 to environment()
+ID:191353|NAME:DeadofNight|SND:kellie|UDP:4242|REQ:who
+
+Jun  1 17:40: channel from Kerovnia failed.
+*Bad argument 1 to call_other()
+SND:Hosinfefer|NAME:Kerovnia|UDP:1985|REQ:channel|channel:intermud|DATA:BLAH!
+
+Jun  1 17:41: channel from Realmsmud failed.
+*Bad argument 1 to call_other()
+REQ:channel|SND:James|CHANNEL:intermud|UDP:4246|NAME:Realmsmud|DATA:indeed
+
+Jun  2 21:46: channel from DeadofNight failed.
+*Index out of bounds
+channel:intersex|SND:Keith|NAME:DeadofNight|UDP:4242|REQ:channel|DATA:hmm
+
+Jun  3 00:11: New mud.
+AnderLAG:199.108.103.158:4246
+
+Jun  3 14:54: channel from MorgenGrauen failed.
+*Bad argument 1 to call_other()
+CHANNEL:intermud|NAME:MorgenGrauen|UDP:4246|REQ:channel|SND:Sky|DATA:a
+
+Jun  4 00:29: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Jun  4 02:48: Host change:
+Aldebaran: 194.162.200.15 -> 194.162.27.5
+
+Jun  4 12:39: channel from Cosmos failed.
+*Bad argument 1 to call_other()
+REQ:channel|channel:intermud|UDP:5001|NAME:Cosmos|SND:Tiresius|DATA:is there anything like a "tab" for html?
+
+Jun  4 19:23: channel from Cosmos failed.
+*Bad argument 1 to call_other()
+REQ:channel|channel:intermud|UDP:5001|SND:Tiresius|NAME:Cosmos|DATA:would anybody find an HTML document listing the amylaar efuns helpful? complete with links and an index, etc.
+
+Jun  4 19:23: channel from MeechMud failed.
+*Bad argument 1 to call_other()
+UDP:7018|REQ:channel|SND:Jake|NAME:MeechMud|channel:intermud|DATA:shut the hell up, and take your mud of the list
+
+Jun  4 19:23: channel from Cosmos failed.
+*Bad argument 1 to call_other()
+REQ:channel|channel:intermud|UDP:5001|SND:Brutis|NAME:Cosmos|DATA:a
+
+Jun  4 19:23: channel from Cosmos failed.
+*Bad argument 1 to call_other()
+REQ:channel|channel:intermud|UDP:5001|SND:Tiresius|NAME:Cosmos|DATA:to be printable on company paper at no expense to yourself?
+
+Jun  4 19:23: channel from Cosmos failed.
+*Bad argument 1 to call_other()
+REQ:channel|channel:intermud|UDP:5001|SND:Brutis|NAME:Cosmos|DATA:this mud sucks!
+
+Jun  5 14:37: who from DeadofNight failed.
+*Bad argument 1 to environment()
+ID:191631|NAME:DeadofNight|SND:kellie|UDP:4242|REQ:who
+
+Jun  5 14:37: who from DeadofNight failed.
+*Bad argument 1 to environment()
+ID:191632|NAME:DeadofNight|SND:kellie|UDP:4242|REQ:who
+
+Jun  5 14:37: who from DeadofNight failed.
+*Bad argument 1 to environment()
+ID:191633|NAME:DeadofNight|SND:kellie|UDP:4242|REQ:who
+
+Jun  5 14:37: who from DeadofNight failed.
+*Bad argument 1 to environment()
+ID:191634|NAME:DeadofNight|SND:kellie|UDP:4242|REQ:who
+
+Jun  5 14:37: who from DeadofNight failed.
+*Bad argument 1 to environment()
+ID:191635|NAME:DeadofNight|SND:kellie|UDP:4242|REQ:who
+
+Jun  5 14:37: who from DeadofNight failed.
+*Bad argument 1 to environment()
+ID:191636|NAME:DeadofNight|SND:kellie|UDP:4242|REQ:who
+
+Jun  5 14:37: who from DeadofNight failed.
+*Bad argument 1 to environment()
+ID:191637|NAME:DeadofNight|SND:kellie|UDP:4242|REQ:who
+
+Jun  5 14:37: who from DeadofNight failed.
+*Bad argument 1 to environment()
+ID:191638|NAME:DeadofNight|SND:kellie|UDP:4242|REQ:who
+
+Jun  5 14:37: who from DeadofNight failed.
+*Bad argument 1 to environment()
+ID:191639|NAME:DeadofNight|SND:kellie|UDP:4242|REQ:who
+
+Jun  5 14:37: who from DeadofNight failed.
+*Bad argument 1 to environment()
+ID:191640|NAME:DeadofNight|SND:kellie|UDP:4242|REQ:who
+
+Jun  5 14:37: who from DeadofNight failed.
+*Bad argument 1 to environment()
+ID:191641|NAME:DeadofNight|SND:kellie|UDP:4242|REQ:who
+
+Jun  5 14:37: who from DeadofNight failed.
+*Bad argument 1 to environment()
+ID:191642|NAME:DeadofNight|SND:kellie|UDP:4242|REQ:who
+
+Jun  5 14:37: who from DeadofNight failed.
+*Bad argument 1 to environment()
+ID:191643|NAME:DeadofNight|SND:kellie|UDP:4242|REQ:who
+
+Jun  5 14:37: who from DeadofNight failed.
+*Bad argument 1 to environment()
+ID:191644|NAME:DeadofNight|SND:kellie|UDP:4242|REQ:who
+
+Jun  5 14:38: who from DeadofNight failed.
+*Bad argument 1 to environment()
+ID:191645|NAME:DeadofNight|SND:kellie|UDP:4242|REQ:who
+
+Jun  5 14:38: who from DeadofNight failed.
+*Bad argument 1 to environment()
+ID:191646|NAME:DeadofNight|SND:kellie|UDP:4242|REQ:who
+
+Jun  5 14:38: who from DeadofNight failed.
+*Bad argument 1 to environment()
+ID:191647|NAME:DeadofNight|SND:kellie|UDP:4242|REQ:who
+
+Jun  5 14:38: who from DeadofNight failed.
+*Bad argument 1 to environment()
+ID:191648|NAME:DeadofNight|SND:kellie|UDP:4242|REQ:who
+
+Jun  5 14:38: who from DeadofNight failed.
+*Bad argument 1 to environment()
+ID:191649|NAME:DeadofNight|SND:kellie|UDP:4242|REQ:who
+
+Jun  5 14:38: who from DeadofNight failed.
+*Bad argument 1 to environment()
+ID:191650|NAME:DeadofNight|SND:kellie|UDP:4242|REQ:who
+
+Jun  5 14:38: who from DeadofNight failed.
+*Bad argument 1 to environment()
+ID:191651|NAME:DeadofNight|SND:kellie|UDP:4242|REQ:who
+
+Jun  5 14:38: who from DeadofNight failed.
+*Bad argument 1 to environment()
+ID:191652|NAME:DeadofNight|SND:kellie|UDP:4242|REQ:who
+
+Jun  5 14:38: who from DeadofNight failed.
+*Bad argument 1 to environment()
+ID:191653|NAME:DeadofNight|SND:kellie|UDP:4242|REQ:who
+
+Jun  6 13:59: New mud.
+AnderLAG:199.108.103.158:4246
+
+Jun  6 16:17: New mud.
+AnderLAG:199.108.103.158:4246
+
+Jun  6 16:17: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Jun  6 19:19: channel from Cosmos failed.
+*Bad argument 1 to call_other()
+UDP:5001|SND:Tiresius|NAME:Cosmos|REQ:channel|channel:intermud|DATA:listening to Irish music on PBS makes me feel like Dancin!
+
+Jun  6 19:34: Host change:
+Aldebaran: 194.162.200.15 -> 194.162.27.5
+
+Jun  6 20:05: channel from MysticDragons failed.
+*Bad argument 1 to call_other()
+channel:intermud|SND:Elric|REQ:channel|NAME:MysticDragons|UDP:4001|DATA:is http://www.imaginary.com gone or just broken?
+
+Jun  6 20:06: channel from MysticDragons failed.
+*Bad argument 1 to call_other()
+channel:intermud|SND:Elric|REQ:channel|NAME:MysticDragons|UDP:4001|DATA:heh i was gonna download mudos and look at it so i could start bitching about it again
+
+Jun  6 20:11: channel from Realmsmud failed.
+*Bad argument 1 to call_other()
+REQ:channel|SND:James|CHANNEL:intermud|UDP:4246|NAME:Realmsmud|DATA:it might be down. 6000 homes in minneapolis, and 8,400 in st paul are without power due to a storm that passed through
+
+Jun  6 20:48: channel from MysticDragons failed.
+*Bad argument 1 to call_other()
+channel:intermud|SND:Q|cmd:emote|REQ:channel|NAME:MysticDragons|UDP:4001|DATA:vibrates the intermud with the sounds of love and harmony...(hack n' slash)
+
+Jun  7 10:15: channel from Terabithia failed.
+*Bad argument 1 to call_other()
+UDP:7686|REQ:channel|channel:intermud|SND:Zarlock|NAME:Terabithia|DATA:anyone familiar with file upload methods via html forms?
+
+Jun  7 10:34: New mud.
+AnderLAG:199.108.103.158:4246
+
+Jun  7 10:35: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Jun  7 12:04: Host change:
+Aldebaran: 194.162.200.15 -> 194.162.27.5
+
+Jun  7 12:19: Host change:
+TotL: 204.17.163.17 -> 24.4.188.13
+
+Jun  7 19:19: Host change:
+TotL: 24.4.188.13 -> 204.17.163.17
+
+Jun  7 20:56: channel from DeadofNight failed.
+*Bad argument 1 to call_other()
+channel:intermud|SND:Thelan|NAME:DeadofNight|UDP:4242|REQ:channel|cmd:emote|DATA:pulls Sythis close and says 'Uno me baby!'.
+
+Jun  7 20:56: channel from DeadofNight failed.
+*Bad argument 1 to call_other()
+channel:intermud|SND:Thelan|NAME:DeadofNight|UDP:4242|REQ:channel|DATA:anyone up to a game of uno?
+
+Jun  8 04:31: channel from SilberLand failed.
+*Bad argument 1 to call_other()
+NAME:SilberLand|CHANNEL:intermud|REQ:channel|SND:Cohen|UDP:4246|DATA:go ask altavista :)
+
+Jun  8 04:32: channel from MorgenGrauen failed.
+*Bad argument 1 to call_other()
+REQ:channel|SND:Grimman|UDP:4246|CHANNEL:intermud|NAME:MorgenGrauen|DATA:oh wie nett vormuliert ;)
+
+Jun  8 04:32: channel from MorgenGrauen failed.
+*Bad argument 1 to call_other()
+REQ:channel|SND:Grimman|UDP:4246|CHANNEL:intermud|NAME:MorgenGrauen|DATA:oh wie nett formuliert ;)
+
+Jun  8 04:32: channel from SilberLand failed.
+*Bad argument 1 to call_other()
+NAME:SilberLand|CHANNEL:intermud|REQ:channel|SND:Dobob|UDP:4246|DATA:allergy?
+
+Jun  8 04:32: channel from SilberLand failed.
+*Bad argument 1 to call_other()
+NAME:SilberLand|CHANNEL:intermud|REQ:channel|SND:Dobob|UDP:4246|DATA:(c:
+
+Jun  8 13:10: New mud.
+WL-Pinguin:139.18.38.246:4246
+
+Jun  8 15:42: Host change:
+TotL: 204.17.163.17 -> 24.4.188.13
+
+Jun  8 19:31: Host change:
+TotL: 24.4.188.13 -> 204.17.163.17
+
+Jun  9 00:15: Host change:
+Wunderland: 139.18.11.161 -> 139.18.38.246
+
+Jun  9 10:05: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Jun  9 10:20: Host change:
+Wunderland: 139.18.11.161 -> 139.18.38.246
+
+Jun  9 13:49: Host change:
+Aldebaran: 194.162.200.15 -> 194.162.27.5
+
+Jun  9 15:04: New mud.
+Test-DW-falbala:134.155.17.45:4748
+
+Jun 10 07:16: New mud.
+DrachenWelt:134.96.240.42:5256
+
+Jun 10 11:00: New mud.
+AnderLAG:199.108.103.158:4246
+
+Jun 10 12:46: Host change:
+Test-DW-falbala: 134.155.17.45 -> 134.155.17.57
+
+Jun 10 14:22: New mud.
+NeueDrachenWelt:134.96.240.42:5256
+
+Jun 10 14:24: channel from AnderLand failed.
+*Bad argument 1 to call_other()
+NAME:AnderLand|UDP:4246|CHANNEL:d-adm|REQ:channel|SND:Mupfel|DATA:Test :-)
+
+Jun 10 14:25: channel from NeueDrachenWelt failed.
+*Bad argument 1 to call_other()
+REQ:channel|CHANNEL:d-adm|SND:ilariel|NAME:NeueDrachenWelt|cmd:0|UDP:5256|DATA:Hmm, hier lebt ja wirklich wer ;-)
+
+Jun 10 14:25: channel from AnderLand failed.
+*Bad argument 1 to call_other()
+NAME:AnderLand|UDP:4246|CHANNEL:d-adm|REQ:channel|SND:Mupfel|DATA:na was denn nu? dw oder nwd ? hihi... ndw dascha witzisch...:-)
+
+Jun 10 14:28: channel from AnderLand failed.
+*Bad argument 1 to call_other()
+NAME:AnderLand|UDP:4246|CHANNEL:d-adm|REQ:channel|SND:Mupfel|DATA:ahsso
+
+Jun 10 21:52: channel from MysticDragons failed.
+*Bad argument 1 to call_other()
+channel:intermud|SND:Q|REQ:channel|NAME:MysticDragons|UDP:4001|DATA:move_object(blah, this_player())
+
+Jun 10 21:52: channel from MysticDragons failed.
+*Bad argument 1 to call_other()
+channel:intermud|SND:Q|REQ:channel|NAME:MysticDragons|UDP:4001|DATA:move_object(obj1, obj2)
+
+Jun 10 21:53: channel from MysticDragons failed.
+*Bad argument 1 to call_other()
+channel:intermud|SND:Q|REQ:channel|NAME:MysticDragons|UDP:4001|DATA:move_object(clone_object(filename), player_ob)
+
+Jun 10 21:53: channel from MysticDragons failed.
+*Bad argument 1 to call_other()
+channel:intermud|SND:Q|REQ:channel|NAME:MysticDragons|UDP:4001|DATA:depending on the mud, man move_object
+
+Jun 10 21:55: channel from MysticDragons failed.
+*Bad argument 1 to call_other()
+channel:intermud|SND:Q|cmd:emote|REQ:channel|NAME:MysticDragons|UDP:4001|DATA:wibbles so violently it shakes the intermud.
+
+Jun 10 21:58: channel from MysticDragons failed.
+*Bad argument 1 to call_other()
+channel:intermud|SND:Q|REQ:channel|NAME:MysticDragons|UDP:4001|DATA:depends on what you want, doesn't it?
+
+Jun 10 21:58: channel from Cosmos failed.
+*Bad argument 1 to call_other()
+UDP:5001|NAME:Cosmos|SND:Tiresius|REQ:channel|channel:intermud|DATA:I think you can only move a clone, not the blueprint
+
+Jun 10 21:59: channel from MysticDragons failed.
+*Bad argument 1 to call_other()
+channel:intermud|SND:Q|REQ:channel|NAME:MysticDragons|UDP:4001|DATA:you can move whatever you want
+
+Jun 10 21:59: channel from Cosmos failed.
+*Bad argument 1 to call_other()
+UDP:5001|NAME:Cosmos|SND:Tiresius|REQ:channel|channel:intermud|DATA:ah
+
+Jun 10 21:59: channel from MysticDragons failed.
+*Bad argument 1 to call_other()
+channel:intermud|SND:Q|REQ:channel|NAME:MysticDragons|UDP:4001|DATA:move_object("/secure/master.c", find_player("q"))
+
+Jun 10 21:59: channel from MysticDragons failed.
+*Bad argument 1 to call_other()
+channel:intermud|SND:Q|REQ:channel|NAME:MysticDragons|UDP:4001|DATA:however
+
+Jun 10 22:00: channel from MysticDragons failed.
+*Bad argument 1 to call_other()
+channel:intermud|SND:Q|REQ:channel|NAME:MysticDragons|UDP:4001|DATA:most of the time you want to move a cloned object...it's essential if there will be more than one of this object
+
+Jun 10 22:02: channel from Terabithia failed.
+*Bad argument 1 to call_other()
+UDP:7686|REQ:channel|channel:intermud|SND:Savannah|NAME:Terabithia|DATA:What about making it so that the person can't give the object to anyone?
+
+Jun 10 22:03: channel from MysticDragons failed.
+*Bad argument 1 to call_other()
+channel:intermud|SND:Q|REQ:channel|NAME:MysticDragons|UDP:4001|DATA:well
+
+Jun 10 22:03: channel from MysticDragons failed.
+*Bad argument 1 to call_other()
+channel:intermud|SND:Q|REQ:channel|NAME:MysticDragons|UDP:4001|DATA:make it so it can't be dropped is usually one way to do it...though we do not work that way here.
+
+Jun 10 22:03: channel from Terabithia failed.
+*Bad argument 1 to call_other()
+UDP:7686|REQ:channel|channel:intermud|SND:Savannah|cmd:emote|NAME:Terabithia|DATA:hmms.
+
+Jun 10 22:04: channel from Terabithia failed.
+*Bad argument 1 to call_other()
+UDP:7686|REQ:channel|channel:intermud|SND:Savannah|NAME:Terabithia|DATA:how do you mean?  (that you don't work that way...?)
+
+Jun 10 22:04: channel from MysticDragons failed.
+*Bad argument 1 to call_other()
+channel:intermud|SND:Q|REQ:channel|NAME:MysticDragons|UDP:4001|DATA:we don't deal with objects
+
+Jun 10 22:04: channel from Terabithia failed.
+*Bad argument 1 to call_other()
+UDP:7686|REQ:channel|channel:intermud|SND:Savannah|NAME:Terabithia|DATA:?
+
+Jun 10 22:04: channel from Cosmos failed.
+*Bad argument 1 to call_other()
+UDP:5001|NAME:Cosmos|SND:Tiresius|REQ:channel|channel:intermud|DATA:don't deal with objects?
+
+Jun 10 22:05: channel from MysticDragons failed.
+*Bad argument 1 to call_other()
+channel:intermud|SND:Q|REQ:channel|NAME:MysticDragons|UDP:4001|DATA:only 3 types of objects on our mud, room, living and daemons
+
+Jun 10 22:05: channel from Cosmos failed.
+*Bad argument 1 to call_other()
+UDP:5001|NAME:Cosmos|SND:Tiresius|REQ:channel|channel:intermud|DATA:no equipment?
+
+Jun 10 22:05: channel from MysticDragons failed.
+*Bad argument 1 to call_other()
+channel:intermud|SND:Q|REQ:channel|NAME:MysticDragons|UDP:4001|DATA:so give/get/drop etc...don't use the same thing as you other muds
+
+Jun 10 22:06: channel from MysticDragons failed.
+*Bad argument 1 to call_other()
+channel:intermud|SND:Q|REQ:channel|NAME:MysticDragons|UDP:4001|DATA:equipment yes, they just aren't objects.
+
+Jun 10 22:06: channel from Terabithia failed.
+*Bad argument 1 to call_other()
+UDP:7686|REQ:channel|channel:intermud|SND:Savannah|cmd:emote|NAME:Terabithia|DATA:looks bewildered.
+
+Jun 10 22:06: channel from Cosmos failed.
+*Bad argument 1 to call_other()
+UDP:5001|NAME:Cosmos|SND:Tiresius|REQ:channel|channel:intermud|DATA:never heard of that before... itneresting
+
+Jun 10 22:07: channel from MysticDragons failed.
+*Bad argument 1 to call_other()
+channel:intermud|SND:Q|REQ:channel|NAME:MysticDragons|UDP:4001|DATA:try looking at your give command
+
+Jun 10 22:07: channel from MysticDragons failed.
+*Bad argument 1 to call_other()
+channel:intermud|SND:Q|REQ:channel|NAME:MysticDragons|UDP:4001|DATA:see which function it calls in the object to determine if it is okay to give.
+
+Jun 10 22:07: channel from MysticDragons failed.
+*Bad argument 1 to call_other()
+channel:intermud|SND:Q|REQ:channel|NAME:MysticDragons|UDP:4001|DATA:if there isn't one, add one
+
+Jun 10 22:08: channel from MysticDragons failed.
+*Bad argument 1 to call_other()
+channel:intermud|SND:Q|REQ:channel|NAME:MysticDragons|UDP:4001|DATA:then code that function in the object itself to return 0
+
+Jun 10 22:08: channel from MysticDragons failed.
+*Bad argument 1 to call_other()
+channel:intermud|SND:Q|REQ:channel|NAME:MysticDragons|UDP:4001|DATA:1 rather
+
+Jun 10 22:08: channel from Cosmos failed.
+*Bad argument 1 to call_other()
+UDP:5001|NAME:Cosmos|SND:Tiresius|REQ:channel|channel:intermud|DATA:Q, how do you store equipment on the mud? in mappings?
+
+Jun 12 02:25: channel from Seifenblase failed.
+*Bad argument 1 to call_other()
+CHANNEL:intermud|cmd:0|REQ:channel|UDP:4246|SND:Edward|NAME:Seifenblase|DATA:Hello good morning
+
+Jun 12 02:25: channel from Seifenblase failed.
+*Bad argument 1 to call_other()
+CHANNEL:intermud|cmd:0|REQ:channel|UDP:4246|SND:Edward|NAME:Seifenblase|DATA:Is there anybody?
+
+Jun 12 02:26: channel from Nightfall failed.
+*Bad argument 1 to call_other()
+REQ:channel|SND:Roo|channel:intermud|UDP:4246|CHANNEL:intermud|NAME:Nightfall|DATA:someone here at least ;)
+
+Jun 12 02:26: channel from Seifenblase failed.
+*Bad argument 1 to call_other()
+CHANNEL:intermud|cmd:0|REQ:channel|UDP:4246|SND:Edward|NAME:Seifenblase|DATA:i am here just alone in a mud
+
+Jun 12 02:27: channel from Nightfall failed.
+*Bad argument 1 to call_other()
+REQ:channel|SND:Roo|channel:intermud|UDP:4246|CHANNEL:intermud|NAME:Nightfall|DATA:no-one else on your mud?
+
+Jun 12 02:27: channel from Seifenblase failed.
+*Bad argument 1 to call_other()
+CHANNEL:intermud|cmd:0|REQ:channel|UDP:4246|SND:Edward|NAME:Seifenblase|DATA:yes thats right
+
+Jun 12 02:27: channel from Nightfall failed.
+*Bad argument 1 to call_other()
+REQ:channel|SND:Roo|channel:intermud|UDP:4246|CHANNEL:intermud|NAME:Nightfall|DATA:hehe, change muds ;)
+
+Jun 12 02:28: channel from Seifenblase failed.
+*Bad argument 1 to call_other()
+CHANNEL:intermud|cmd:0|REQ:channel|UDP:4246|SND:Edward|NAME:Seifenblase|DATA:ithink i am i mud for little children
+
+Jun 12 02:29: channel from Nightfall failed.
+*Bad argument 1 to call_other()
+REQ:channel|SND:Roo|channel:intermud|UDP:4246|CHANNEL:intermud|NAME:Nightfall|DATA:come to nightfall!
+
+Jun 12 02:29: channel from Seifenblase failed.
+*Bad argument 1 to call_other()
+CHANNEL:intermud|cmd:0|REQ:channel|UDP:4246|SND:Edward|NAME:Seifenblase|DATA:is it good ?
+
+Jun 12 02:30: channel from Nightfall failed.
+*Bad argument 1 to call_other()
+REQ:channel|SND:Roo|channel:intermud|UDP:4246|CHANNEL:intermud|NAME:Nightfall|DATA:been playing near 3 years, lots of people, lots of quests and adventuring
+
+Jun 13 21:04: channel from Cosmos failed.
+*Bad argument 1 to call_other()
+UDP:5001|SND:Tiresius|NAME:Cosmos|REQ:channel|channel:intermud|DATA:how would I do modulo in an equation for LPC?
+
+Jun 13 21:04: channel from Cosmos failed.
+*Bad argument 1 to call_other()
+UDP:5001|SND:Tiresius|NAME:Cosmos|REQ:channel|channel:intermud|DATA:is it \  ?
+
+Jun 14 13:46: channel from MorgenGrauen failed.
+*Bad argument 1 to call_other()
+REQ:channel|SND:Alboin|CHANNEL:intermud|NAME:MorgenGrauen|UDP:4246|DATA:I see
+
+Jun 14 13:48: channel from OSB failed.
+*Bad argument 1 to call_other()
+SND:Cadderly|NAME:OSB|channel:intermud|UDP:4246|REQ:channel|CHANNEL:intermud|DATA:Yeah, who the hell are you guys? ;)
+
+Jun 14 13:48: channel from MorgenGrauen failed.
+*Bad argument 1 to call_other()
+REQ:channel|SND:Alboin|CHANNEL:intermud|NAME:MorgenGrauen|UDP:4246|DATA:where do you come from, ed?
+
+Jun 14 13:49: channel from OSB failed.
+*Bad argument 1 to call_other()
+SND:Cadderly|NAME:OSB|channel:intermud|UDP:4246|REQ:channel|CHANNEL:intermud|DATA:Yeah, we are all just voices in your head, Nightdemon ;)
+
+Jun 14 13:51: channel from OSB failed.
+*Bad argument 1 to call_other()
+SND:Cadderly|NAME:OSB|channel:intermud|UDP:4246|REQ:channel|CHANNEL:intermud|DATA:We are the voices that speak in your head.  And we command you, Nightdemon.  We command you to do some massive PK.
+
+Jun 14 13:51: channel from MorgenGrauen failed.
+*Bad argument 1 to call_other()
+REQ:channel|SND:Alboin|CHANNEL:intermud|NAME:MorgenGrauen|UDP:4246|DATA:ja tosche gawarju parusskij ;-)
+
+Jun 14 13:52: channel from OSB failed.
+*Bad argument 1 to call_other()
+SND:Cadderly|NAME:OSB|channel:intermud|UDP:4246|REQ:channel|CHANNEL:intermud|DATA:You cannot resist, Nightdemon.  Noone can resist The Voices.
+
+Jun 14 13:54: channel from Nightfall failed.
+*Bad argument 1 to call_other()
+REQ:channel|SND:Nightdemon|CHANNEL:intermud|UDP:4246|channel:intermud|NAME:Nightfall|DATA:*thinks all we need is a good song!*
+
+Jun 14 13:54: channel from OSB failed.
+*Bad argument 1 to call_other()
+SND:Cadderly|NAME:OSB|channel:intermud|UDP:4246|REQ:channel|CHANNEL:intermud|DATA:Don't listen to him, Nightdemon.  Edward is just a very confused Voice.  You must begin preparing for your PK trip.
+
+Jun 14 13:54: channel from Nightfall failed.
+*Bad argument 1 to call_other()
+REQ:channel|SND:Nightdemon|CHANNEL:intermud|UDP:4246|channel:intermud|NAME:Nightfall|DATA:*watches as a mountain falls on his head*
+
+Jun 14 13:54: channel from Nightfall failed.
+*Bad argument 1 to call_other()
+REQ:channel|SND:Nightdemon|CHANNEL:intermud|UDP:4246|channel:intermud|NAME:Nightfall|DATA:ok....
+
+Jun 14 13:56: channel from OSB failed.
+*Bad argument 1 to call_other()
+SND:Cadderly|NAME:OSB|channel:intermud|UDP:4246|REQ:channel|CHANNEL:intermud|DATA:Killing other PCs *is* the adventure, Nightdemon.
+
+Jun 14 13:57: channel from Nightfall failed.
+*Bad argument 1 to call_other()
+REQ:channel|SND:Krise|CHANNEL:intermud|UDP:4246|channel:intermud|NAME:Nightfall|DATA:hey nightdemon what is the problem my friend ?
+
+Jun 14 13:57: channel from Nightfall failed.
+*Bad argument 1 to call_other()
+REQ:channel|SND:Krise|CHANNEL:intermud|UDP:4246|channel:intermud|NAME:Nightfall|DATA:im sorry im not a native english speaker
+
+Jun 14 13:57: channel from Nightfall failed.
+*Bad argument 1 to call_other()
+REQ:channel|SND:Naula|CHANNEL:intermud|UDP:4246|channel:intermud|NAME:Nightfall|DATA:sure......
+
+Jun 14 13:57: channel from Nightfall failed.
+*Bad argument 1 to call_other()
+REQ:channel|SND:Bellanca|CHANNEL:intermud|UDP:4246|channel:intermud|NAME:Nightfall|DATA:yes...
+
+Jun 14 13:57: channel from Nightfall failed.
+*Bad argument 1 to call_other()
+REQ:channel|SND:Nightdemon|CHANNEL:intermud|UDP:4246|channel:intermud|NAME:Nightfall|DATA:Hriibit! Hriiibit!
+
+Jun 14 13:57: channel from Nightfall failed.
+*Bad argument 1 to call_other()
+REQ:channel|SND:Bellanca|CHANNEL:intermud|cmd:emote|UDP:4246|channel:intermud|NAME:Nightfall|DATA:laughs
+
+Jun 14 13:57: channel from Nightfall failed.
+*Bad argument 1 to call_other()
+REQ:channel|SND:Nightdemon|CHANNEL:intermud|UDP:4246|channel:intermud|NAME:Nightfall|DATA:Hriibit! Hriiibit!
+
+Jun 14 13:57: channel from Nightfall failed.
+*Bad argument 1 to call_other()
+REQ:channel|SND:Naula|CHANNEL:intermud|UDP:4246|channel:intermud|NAME:Nightfall|DATA:*laugh laugh laugh*
+
+Jun 14 13:58: channel from Nightfall failed.
+*Bad argument 1 to call_other()
+REQ:channel|SND:Nightdemon|CHANNEL:intermud|cmd:emote|UDP:4246|channel:intermud|NAME:Nightfall|DATA:hops up into the air.
+
+Jun 14 13:58: channel from Nightfall failed.
+*Bad argument 1 to call_other()
+REQ:channel|SND:Nightdemon|CHANNEL:intermud|UDP:4246|channel:intermud|NAME:Nightfall|DATA:Hriibit! Hriiibit!
+
+Jun 14 14:19: channel from RitualSacrifice failed.
+*Bad argument 1 to call_other()
+REQ:channel|SND:Solarus|channel:intermud|UDP:4246|NAME:RitualSacrifice|DATA:off
+
+Jun 14 19:07: New mud.
+Ivy&Chrome:206.109.14.120:4246
+
+Jun 14 19:07: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Jun 14 19:15: New mud.
+Ivy&Chrome:206.109.14.120:4246
+
+Jun 14 19:15: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Jun 14 19:23: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Jun 14 19:23: New mud.
+Ivy&Chrome:206.109.14.120:4246
+
+Jun 14 19:31: New mud.
+Ivy&Chrome:206.109.14.120:4246
+
+Jun 14 19:31: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Jun 14 20:36: Host change:
+Aldebaran: 194.162.200.15 -> 194.162.27.5
+
+Jun 14 23:29: Host change:
+Wunderland: 139.18.11.161 -> 139.18.38.246
+
+Jun 15 19:08: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Jun 15 19:08: New mud.
+Ivy&Chrome:206.109.14.120:4246
+
+Jun 15 19:16: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Jun 15 19:16: New mud.
+Ivy&Chrome:206.109.14.120:4246
+
+Jun 15 19:24: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Jun 15 19:24: New mud.
+Ivy&Chrome:206.109.14.120:4246
+
+Jun 15 19:32: New mud.
+Ivy&Chrome:206.109.14.120:4246
+
+Jun 15 19:40: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Jun 15 19:40: New mud.
+Ivy&Chrome:206.109.14.120:4246
+
+Jun 15 19:48: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Jun 15 19:48: New mud.
+Ivy&Chrome:206.109.14.120:4246
+
+Jun 15 20:50: New mud.
+Ivy&Chrome:206.109.14.120:4246
+
+Jun 15 22:36: Host change:
+Aldebaran: 194.162.200.15 -> 194.162.27.5
+
+Jun 16 00:53: Host change:
+Wunderland: 139.18.11.161 -> 139.18.38.246
+
+Jun 16 04:25: Host change:
+Wunderland: 139.18.38.246 -> 139.18.11.86
+
+Jun 16 07:31: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Jun 16 17:22: New mud.
+WL-Development:139.18.11.86:5555
+
+Jun 16 18:02: channel from OSB failed.
+*Bad argument 1 to call_other()
+SND:Cadderly|NAME:OSB|channel:intermud|UDP:4246|REQ:channel|CHANNEL:intermud|DATA:Kill, kill, kill.
+
+Jun 16 18:04: channel from OSB failed.
+*Bad argument 1 to call_other()
+SND:Cadderly|NAME:OSB|channel:intermud|UDP:4246|REQ:channel|CHANNEL:intermud|DATA:I just try to remind people about the fun of PK.
+
+Jun 16 18:04: channel from Cosmos failed.
+*Bad argument 1 to call_other()
+UDP:5001|SND:Tiresius|NAME:Cosmos|REQ:channel|channel:intermud|DATA:you guys at FinalFrontier, how did you get Amylaar 3.2.7 ?
+
+Jun 16 18:06: channel from OSB failed.
+*Bad argument 1 to call_other()
+SND:Cadderly|NAME:OSB|channel:intermud|UDP:4246|REQ:channel|CHANNEL:intermud|DATA:Come on, get the adrenaline pumping.. go on a PK trip!
+
+Jun 16 18:08: channel from OSB failed.
+*Bad argument 1 to call_other()
+SND:Cadderly|NAME:OSB|channel:intermud|UDP:4246|REQ:channel|CHANNEL:intermud|DATA:Oh no.. a divine force prevents you from killing certain characters coz they are player operated?
+
+Jun 16 18:21: channel from Cosmos failed.
+*Bad argument 1 to call_other()
+UDP:5001|SND:Tiresius|NAME:Cosmos|REQ:channel|channel:intermud|DATA:that's what I thought, but there isn't a 3.2.7 yet...
+
+Jun 17 09:16: New mud.
+DrachenWelt:134.96.240.42:4246
+
+Jun 17 09:16: channel from DrachenWelt failed.
+*Bad argument 1 to call_other()
+CHANNEL:d-adm|cmd:0|SND:ialdar|NAME:DrachenWelt|REQ:channel|UDP:4246|DATA:Und mal wieder ein Test ...
+
+Jun 17 09:17: channel from MorgenGrauen failed.
+*Bad argument 1 to call_other()
+REQ:channel|SND:Paracelsus|CHANNEL:d-adm|NAME:MorgenGrauen|UDP:4246|DATA:Immer diese Tests ;)
+
+Jun 17 09:18: channel from SilberLand failed.
+*Bad argument 1 to call_other()
+NAME:SilberLand|CHANNEL:d-adm|REQ:channel|SND:/std/npc|UDP:4246|DATA:Gegentest :)
+
+Jun 17 09:19: channel from DrachenWelt failed.
+*Bad argument 1 to call_other()
+CHANNEL:d-adm|cmd:emote|SND:ialdar|NAME:DrachenWelt|REQ:channel|UDP:4246|DATA: hat doch nur einen kleinen, harmlosen Test gemacht - das muss man doch, wenn man die Libs austauscht :)
+
+Jun 17 15:34: channel from MysticDragons failed.
+*Bad argument 1 to call_other()
+channel:intermud|SND:Elric|cmd:emote|REQ:channel|NAME:MysticDragons|UDP:4001|DATA:yawns.
+
+Jun 17 15:34: channel from MysticDragons failed.
+*Bad argument 1 to call_other()
+channel:intermud|SND:Elric|cmd:emote|REQ:channel|NAME:MysticDragons|UDP:4001|DATA:rolls on the floor laughing.
+
+Jun 17 15:35: channel from MysticDragons failed.
+*Bad argument 1 to call_other()
+channel:intermud|SND:Elric|cmd:emote|REQ:channel|NAME:MysticDragons|UDP:4001|DATA:thinks Stryfe's blow-up girlfriend went flat again....
+
+Jun 17 15:36: channel from MysticDragons failed.
+*Bad argument 1 to call_other()
+channel:intermud|SND:Elric|cmd:emote|REQ:channel|NAME:MysticDragons|UDP:4001|DATA:grins and goes : Heh heh heh.
+
+Jun 17 15:36: channel from MysticDragons failed.
+*Bad argument 1 to call_other()
+channel:intermud|SND:Elric|REQ:channel|NAME:MysticDragons|UDP:4001|DATA:you need an industrial strength one
+
+Jun 17 15:37: channel from MysticDragons failed.
+*Bad argument 1 to call_other()
+channel:intermud|SND:Elric|REQ:channel|NAME:MysticDragons|UDP:4001|DATA:I have seen blow up sheep here in new orleans
+
+Jun 17 15:37: channel from MysticDragons failed.
+*Bad argument 1 to call_other()
+channel:intermud|SND:Elric|REQ:channel|NAME:MysticDragons|UDP:4001|DATA:dunno, didnt get that close to it
+
+Jun 17 15:37: channel from MysticDragons failed.
+*Bad argument 1 to call_other()
+channel:intermud|SND:Elric|REQ:channel|NAME:MysticDragons|UDP:4001|DATA:yes blow up sheep sex dolls
+
+Jun 17 15:38: channel from MysticDragons failed.
+*Bad argument 1 to call_other()
+channel:intermud|SND:Elric|REQ:channel|NAME:MysticDragons|UDP:4001|DATA:i woder how the male sheep pay for them? in wool maybe?
+
+Jun 17 23:37: Host change:
+Ulantris: 206.109.153.66 -> 208.2.27.9
+
+Jun 20 04:07: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Jun 20 04:08: Host change:
+Ulantris: 206.109.153.66 -> 208.2.27.9
+
+Jun 20 08:22: Host change:
+Aldebaran: 194.162.200.15 -> 194.162.27.5
+
+Jun 20 12:12: Host change:
+Wunderland: 139.18.11.161 -> 139.18.11.86
+
+Jun 21 06:10: New mud.
+DrachenWelt:134.96.240.42:4246
+
+Jun 23 00:58: Host change:
+Ulantris: 206.109.153.66 -> 208.2.27.9
+
+Jun 23 00:58: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Jun 23 01:48: New mud.
+DrachenWelt:134.96.240.42:4246
+
+Jun 23 02:26: Host change:
+Ulantris: 206.109.153.66 -> 208.2.27.9
+
+Jun 23 02:27: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Jun 23 04:10: Host change:
+Wunderland: 139.18.11.161 -> 139.18.11.86
+
+Jun 23 05:23: Host change:
+Aldebaran: 194.162.200.15 -> 194.162.27.5
+
+Jun 23 05:55: New mud.
+DrachenWelt:134.96.240.42:4246
+
+Jun 25 14:53: Host change:
+Artus: 141.82.16.184 -> 129.187.26.183
+
+Jun 27 05:15: Host change:
+Artus: 129.187.26.183 -> 129.187.26.108
+
+Jun 28 03:45: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Jun 28 03:46: Host change:
+Ulantris: 206.109.153.66 -> 208.2.27.9
+
+Jun 28 05:20: New mud.
+Cogent:194.153.18.114:4241
+
+Jun 28 06:21: Host change:
+Wunderland: 139.18.11.161 -> 139.18.11.86
+
+Jun 28 07:09: Host change:
+Aldebaran: 194.162.200.15 -> 194.162.27.5
+
+Jun 29 14:56: New mud.
+DrachenWelt:134.96.240.42:4246
+
+Jun 29 18:48: Host change:
+TotL: 204.17.163.17 -> 204.17.163.11
+
+Jul  2 09:04: Host change:
+Ulantris: 206.109.153.66 -> 208.2.27.9
+
+Jul  2 09:05: Host change:
+TotL: 204.17.163.17 -> 204.17.163.11
+
+Jul  2 09:05: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Jul  2 10:09: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Jul  2 10:09: Host change:
+TotL: 204.17.163.17 -> 204.17.163.11
+
+Jul  2 10:17: Host change:
+Ulantris: 206.109.153.66 -> 208.2.27.9
+
+Jul  2 11:05: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Jul  2 11:05: Host change:
+TotL: 204.17.163.17 -> 204.17.163.11
+
+Jul  2 11:05: Host change:
+Ulantris: 206.109.153.66 -> 208.2.27.9
+
+Jul  2 12:56: Host change:
+Aldebaran: 194.162.200.15 -> 194.162.27.5
+
+Jul  2 14:31: Host change:
+Wunderland: 139.18.11.161 -> 139.18.11.86
+
+Jul  3 13:14: New mud.
+AnderLAG:199.108.103.158:4246
+
+Jul  6 02:09: New mud.
+Cogent:194.153.18.114:4241
+
+Jul  6 12:35: Host change:
+OuterSpace: 131.155.141.166 -> 131.155.141.2
+
+Jul  6 23:36: New mud.
+DrachenWelt:134.96.240.42:4246
+
+Jul  6 23:42: Host change:
+TotL: 204.17.163.17 -> 204.17.163.11
+
+Jul  6 23:43: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Jul  6 23:43: Host change:
+OuterSpace: 131.155.141.166 -> 131.155.141.2
+
+Jul  6 23:48: Host change:
+Ulantris: 206.109.153.66 -> 208.2.27.9
+
+Jul  7 00:12: Host change:
+Aldebaran: 194.162.200.15 -> 194.162.27.5
+
+Jul  7 02:39: Host change:
+Wunderland: 139.18.11.161 -> 139.18.11.86
+
+Jul  7 04:56: New mud.
+Cogent:194.153.18.114:4241
+
+Jul  7 04:57: New mud.
+DrachenWelt:134.96.240.42:4246
+
+Jul  7 07:35: Host change:
+TotL: 204.17.163.17 -> 204.17.163.11
+
+Jul  7 07:35: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Jul  7 07:35: Host change:
+OuterSpace: 131.155.141.166 -> 131.155.141.2
+
+Jul  7 07:35: Host change:
+Ulantris: 206.109.153.66 -> 208.2.27.9
+
+Jul  7 07:57: Host change:
+Wunderland: 139.18.11.161 -> 139.18.11.86
+
+Jul  7 10:57: Host change:
+Aldebaran: 194.162.200.15 -> 194.162.27.5
+
+Jul  7 12:19: New mud.
+Toast:212.83.81.66:2500
+
+Jul  8 02:42: New mud.
+DrachenWelt:134.96.240.42:4246
+
+Jul  8 04:59: New mud.
+Cogent:194.153.18.114:4241
+
+Jul 10 15:36: who from DeadofNight failed.
+*Failed to load file.
+UDP:4242|SND:kellie|NAME:DeadofNight|REQ:who|ID:196015
+
+Jul 11 13:16: New mud.
+HoG:195.21.163.104:7683
+
+Jul 11 16:22: New mud.
+MidDev:24.128.101.221:4002
+
+Jul 12 06:14: Host change:
+Aldebaran: 194.162.200.15 -> 194.162.27.5
+
+Jul 12 06:15: Host change:
+TotL: 204.17.163.17 -> 204.17.163.11
+
+Jul 12 06:16: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Jul 12 06:16: Host change:
+OuterSpace: 131.155.141.166 -> 131.155.141.2
+
+Jul 12 06:19: Host change:
+Ulantris: 206.109.153.66 -> 208.2.27.9
+
+Jul 12 07:47: New mud.
+Cogent:194.153.18.114:4241
+
+Jul 12 08:45: New mud.
+DrachenWelt:134.96.240.42:4246
+
+Jul 12 11:19: Host change:
+Wunderland: 139.18.11.161 -> 139.18.11.86
+
+Jul 12 12:57: New mud.
+AnderLAG:199.108.103.158:4246
+
+Jul 12 13:49: New mud.
+Toast:212.83.81.66:2500
+
+Jul 12 17:24: New mud.
+MidDev:24.128.101.221:4002
+
+Jul 13 12:47: Host change:
+TotL: 204.17.163.17 -> 204.17.163.11
+
+Jul 13 12:47: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Jul 13 12:47: Host change:
+OuterSpace: 131.155.141.166 -> 131.155.141.2
+
+Jul 13 12:49: Host change:
+Ulantris: 206.109.153.66 -> 208.2.27.9
+
+Jul 13 13:43: Host change:
+TotL: 204.17.163.17 -> 204.17.163.11
+
+Jul 13 13:43: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Jul 13 13:43: Host change:
+OuterSpace: 131.155.141.166 -> 131.155.141.2
+
+Jul 13 13:49: Host change:
+Ulantris: 206.109.153.66 -> 208.2.27.9
+
+Jul 13 13:49: New mud.
+Toast:212.83.81.66:2500
+
+Jul 13 14:02: Host change:
+Wunderland: 139.18.11.161 -> 139.18.11.86
+
+Jul 13 14:07: Host change:
+TotL: 204.17.163.17 -> 204.17.163.11
+
+Jul 13 14:07: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Jul 13 14:07: Host change:
+OuterSpace: 131.155.141.166 -> 131.155.141.2
+
+Jul 13 14:13: Host change:
+Aldebaran: 194.162.200.15 -> 194.162.27.5
+
+Jul 13 14:19: Host change:
+Ulantris: 206.109.153.66 -> 208.2.27.9
+
+Jul 13 19:49: New mud.
+Toast:212.83.81.66:2500
+
+Jul 13 23:22: New mud.
+DrachenWelt:134.96.240.42:4246
+
+Jul 13 23:46: Host change:
+Wunderland: 139.18.11.161 -> 139.18.11.86
+
+Jul 15 19:11: New mud.
+MidDev:24.128.101.221:4002
+
+Jul 18 18:54: Host change:
+Ulantris: 206.109.153.66 -> 208.2.27.9
+
+Jul 18 18:54: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Jul 18 18:54: Host change:
+TotL: 204.17.163.17 -> 204.17.163.11
+
+Jul 18 18:55: Host change:
+OuterSpace: 131.155.141.166 -> 131.155.141.2
+
+Jul 18 19:14: Host change:
+Wunderland: 139.18.11.161 -> 139.18.11.86
+
+Jul 18 19:58: New mud.
+Toast:212.83.81.66:2500
+
+Jul 18 23:30: Host change:
+Aldebaran: 194.162.200.15 -> 194.162.27.5
+
+Jul 19 18:34: New mud.
+MidDev:24.128.101.221:4002
+
+Jul 20 02:42: New mud.
+DrachenWelt:134.96.240.42:4246
+
+Jul 20 12:49: finger from DeadofNight failed.
+*Bad argument 1 to implode()
+NAME:DeadofNight|SND:kellie|ID:197362|UDP:4242|REQ:finger|DATA:satan
+
+Jul 21 11:33: Host change:
+MidDev: 24.128.101.221 -> 24.218.145.109
+
+Jul 21 12:43: New mud.
+OSB-mud:194.119.129.222:4246
+
+Jul 21 14:52: Host change:
+OuterSpace: 131.155.141.2 -> 131.155.141.166
+
+Jul 22 07:44: Host change:
+OuterSpace: 131.155.141.166 -> 131.155.141.2
+
+Jul 23 12:05: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Jul 23 12:05: Host change:
+TotL: 204.17.163.17 -> 204.17.163.11
+
+Jul 23 12:05: Host change:
+OuterSpace: 131.155.141.166 -> 131.155.141.2
+
+Jul 23 12:05: Host change:
+Ulantris: 206.109.153.66 -> 208.2.27.9
+
+Jul 23 12:12: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Jul 23 12:12: Host change:
+TotL: 204.17.163.17 -> 204.17.163.11
+
+Jul 23 12:12: Host change:
+OuterSpace: 131.155.141.166 -> 131.155.141.2
+
+Jul 23 12:20: Host change:
+Ulantris: 206.109.153.66 -> 208.2.27.9
+
+Jul 23 13:21: Host change:
+Aldebaran: 194.162.200.15 -> 194.162.27.5
+
+Jul 23 14:42: New mud.
+Toast:212.83.81.66:2500
+
+Jul 23 16:51: Host change:
+Wunderland: 139.18.11.161 -> 139.18.11.86
+
+Jul 23 16:55: Host change:
+Cosmos: 207.67.85.3 -> 206.230.220.4
+
+Jul 23 16:55: Port change:
+Cosmos (206.230.220.4): 5001 -> 5556
+
+Jul 23 17:53: Port change:
+Cosmos (206.230.220.4): 5556 -> 5001
+
+Jul 24 06:56: New mud.
+DrachenWelt:134.96.240.42:4246
+
+Jul 26 11:28: who from DeadofNight failed.
+*Bad argument 1 to environment()
+NAME:DeadofNight|SND:kellie|ID:197975|UDP:4242|REQ:who
+
+Jul 27 14:32: New mud.
+AL-Test-asterix:199.108.103.158:4246
+
+Jul 28 05:06: New mud.
+Cogent:194.153.18.114:4241
+
+Jul 28 06:45: Host change:
+TotL: 204.17.163.17 -> 204.17.163.11
+
+Jul 28 06:45: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Jul 28 06:51: Host change:
+Ulantris: 206.109.153.66 -> 208.2.27.9
+
+Jul 28 10:46: New mud.
+AL-Test-asterix:199.108.103.158:4246
+
+Jul 28 12:20: Illegal packet.
+Sender: 131.155.141.2
+Packet:
+ID:1|UDP:0|REQ:query|NAME:OuterSpace|SND:UDP-manager|DATA:commands
+
+Jul 28 12:20: Illegal packet.
+Sender: 131.155.141.2
+Packet:
+ID:2|UDP:0|REQ:query|NAME:OuterSpace|SND:UDP-manager|DATA:commands
+
+Jul 28 12:21: Illegal packet.
+Sender: 131.155.141.2
+Packet:
+ID:2|UDP:0|REQ:query|NAME:OuterSpace|SND:UDP-manager|DATA:commands
+
+Jul 28 12:22: Illegal packet.
+Sender: 131.155.141.2
+Packet:
+ID:3|UDP:0|REQ:who|NAME:OuterSpace|SND:koresh|DATA:0
+
+Jul 28 12:29: Illegal packet.
+Sender: 131.155.141.2
+Packet:
+ID:2|UDP:0|REQ:query|NAME:OuterSpace|SND:UDP-manager|DATA:commands
+
+Jul 28 12:32: Illegal packet.
+Sender: 131.155.141.2
+Packet:
+ID:3|UDP:0|REQ:ping|NAME:OuterSpace|SND:koresh|DATA:0
+
+Jul 28 12:34: Illegal packet.
+Sender: 131.155.141.2
+Packet:
+ID:7|UDP:0|REQ:ping|NAME:OuterSpace|SND:koresh|DATA:0
+
+Jul 28 12:43: Illegal packet.
+Sender: 131.155.141.2
+Packet:
+ID:1|UDP:0|REQ:query|NAME:OuterSpace|SND:UDP-manager|DATA:commands
+
+Jul 28 12:44: Illegal packet.
+Sender: 131.155.141.2
+Packet:
+ID:2|UDP:0|REQ:query|NAME:OuterSpace|SND:UDP-manager|DATA:commands
+
+Jul 28 12:53: Illegal packet.
+Sender: 131.155.141.2
+Packet:
+ID:1|UDP:0|REQ:query|NAME:OuterSpace|SND:UDP-manager|DATA:commands
+
+Jul 28 12:53: Illegal packet.
+Sender: 131.155.141.2
+Packet:
+ID:2|UDP:0|REQ:query|NAME:OuterSpace|SND:UDP-manager|DATA:commands
+
+Jul 28 13:59: Host change:
+Wunderland: 139.18.11.161 -> 139.18.11.86
+
+Jul 28 16:25: Host change:
+OuterSpace: 131.155.141.166 -> 131.155.141.2
+
+Jul 29 04:00: Host change:
+Cosmos: 207.67.85.3 -> 206.230.220.4
+
+Jul 30 07:51: New mud.
+Cogent:194.153.18.114:4241
+
+Jul 30 12:22: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Jul 30 12:22: Host change:
+Ulantris: 206.109.153.66 -> 208.2.27.9
+
+Jul 30 12:22: Host change:
+TotL: 204.17.163.17 -> 204.17.163.11
+
+Jul 30 18:57: New mud.
+WL-csmd63:141.44.21.63:4246
+
+Jul 30 19:58: New mud.
+M.D.:141.44.21.63:4246
+
+Jul 30 20:22: Host change:
+Wunderland: 139.18.11.161 -> 139.18.11.86
+
+Jul 31 04:00: Host change:
+Cosmos: 207.67.85.3 -> 206.230.220.4
+
+Jul 31 07:45: Host change:
+OuterSpace: 131.155.141.166 -> 212.83.81.8
+
+Aug  2 06:11: New mud.
+M.D.-csmd42:141.44.22.42:4246
+
+Aug  2 06:24: Host change:
+M.D.: 141.44.21.63 -> 141.44.22.42
+
+Aug  2 07:13: New mud.
+DrachenWelt:134.96.240.42:4246
+
+Aug  3 05:07: Host change:
+GueldenLand: 194.163.252.41 -> 194.64.239.49
+
+Aug  3 05:16: New mud.
+Cogent:194.153.18.114:4241
+
+Aug  3 18:35: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Aug  3 18:35: Host change:
+TotL: 204.17.163.17 -> 204.17.163.11
+
+Aug  3 18:37: Host change:
+Ulantris: 206.109.153.66 -> 208.2.27.9
+
+Aug  4 00:13: Host change:
+GueldenLand: 194.163.252.41 -> 194.64.239.49
+
+Aug  4 00:18: New mud.
+M.D.:141.44.22.42:4246
+
+Aug  4 00:30: Host change:
+Wunderland: 139.18.11.161 -> 139.18.11.86
+
+Aug  4 04:00: Host change:
+Cosmos: 207.67.85.3 -> 206.230.220.4
+
+Aug  4 04:52: Host change:
+Aldebaran: 194.162.200.15 -> 194.162.27.5
+
+Aug  4 04:54: New mud.
+Cogent:194.153.18.114:4241
+
+Aug  4 13:07: Invalid request.
+Sender: 204.71.156.66
+Packet:
+udpm_spool_name:0|udpm_status:0|udpm_subject:rob|NAME:Terabithia|ID:162303|UDP:7686|REQ:mail|RCPNT:zapper|SND:secure/mail/bim_imud|udpm_writer:obrab|DATA:Does this roomie of yours have an email address ?
+I think that might be easier.  I know the guys also might
+have a comment or question, and its impossible to have
+even 2 of us near the phone at the same time.  Schedule around
+here right now is nuts... right now the sales VP guy is
+going ballistic cuz the project isnt being cake for him.
+argh
+anyways, btw, this be kellie's tester.  I'm on another machine,
+and if I reconnect Kellie, it will make noise on my machine ;)
+Umm, argh dammit, I cant even concetrate...
+what do you think ?
+kel
+
+Aug  6 05:32: Host change:
+OuterSpace: 131.155.141.166 -> 131.155.141.2
+
+Aug  7 03:17: Port change:
+OuterSpace (131.155.141.2): 2500 -> 3002
+
+Aug  8 14:05: New mud.
+HoG:195.21.37.26:7683
+
+Aug  8 23:48: New mud.
+MD:141.44.22.42:4246
+
+Aug  8 23:58: New mud.
+DrachenWelt:134.96.240.42:4246
+
+Aug  9 06:11: Host change:
+Ulantris: 206.109.153.66 -> 208.2.27.9
+
+Aug  9 06:12: Host change:
+TotL: 204.17.163.17 -> 204.17.163.11
+
+Aug  9 06:15: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Aug  9 06:50: New mud.
+MD:141.44.22.42:4246
+
+Aug  9 07:54: Host change:
+Aldebaran: 194.162.200.15 -> 194.162.27.5
+
+Aug  9 10:16: Host change:
+OuterSpace: 131.155.141.166 -> 131.155.141.2
+
+Aug  9 10:16: Port change:
+OuterSpace (131.155.141.2): 2500 -> 3002
+
+Aug  9 12:31: Host change:
+Wunderland: 139.18.11.161 -> 139.18.11.86
+
+Aug  9 14:24: Invalid request.
+Sender: 204.71.156.66
+Packet:
+udpm_spool_name:0|udpm_status:0|udpm_subject:if youre around...|NAME:Terabithia|ID:162771|UDP:7686|REQ:mail|RCPNT:zapper|SND:secure/mail/bim_imud|udpm_writer:kellie|DATA:Get my attention if youre around anytime soonish.
+A who@terabithia will work just fine.
+
+Aug 10 04:00: Host change:
+Cosmos: 207.67.85.3 -> 206.230.220.4
+
+Aug 10 05:16: New mud.
+Cogent:194.153.18.114:4241
+
+Aug 11 00:09: who from Aldebaran failed.
+*Bad argument 1 to call_other()
+SND:server/cmd_inetd|UDP:4246|NAME:Aldebaran|REQ:who|ID:1261
+
+Aug 11 05:43: Host change:
+GueldenLand: 194.163.252.41 -> 194.64.239.49
+
+Aug 11 13:03: New mud.
+DrachenWelt:134.96.240.42:4246
+
+Aug 12 15:50: Host change:
+Artus: 141.82.16.184 -> 141.82.16.188
+
+Aug 12 16:01: New mud.
+Avalon-Dev:141.82.16.188:4246
+
+Aug 12 20:40: Port change:
+Avalon-Dev (141.82.16.188): 4246 -> 4247
+
+Aug 15 09:23: Host change:
+TotL: 204.17.163.17 -> 204.17.163.11
+
+Aug 15 09:23: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Aug 15 09:24: Host change:
+Ulantris: 206.109.153.66 -> 208.2.27.9
+
+Aug 15 09:39: Host change:
+Aldebaran: 194.162.200.15 -> 194.162.27.5
+
+Aug 15 10:18: Host change:
+OuterSpace: 131.155.141.166 -> 131.155.141.2
+
+Aug 15 10:18: Port change:
+OuterSpace (131.155.141.2): 2500 -> 3002
+
+Aug 15 11:06: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Aug 15 11:06: Host change:
+TotL: 204.17.163.17 -> 204.17.163.11
+
+Aug 15 11:09: Host change:
+Ulantris: 206.109.153.66 -> 208.2.27.9
+
+Aug 15 13:17: Host change:
+Wunderland: 139.18.11.161 -> 139.18.11.86
+
+Aug 15 13:19: Host change:
+Aldebaran: 194.162.200.15 -> 194.162.27.5
+
+Aug 15 15:08: New mud.
+Avalon-Dev:141.82.16.188:4247
+
+Aug 15 16:14: Host change:
+OuterSpace: 131.155.141.166 -> 131.155.141.2
+
+Aug 15 16:14: Port change:
+OuterSpace (131.155.141.2): 2500 -> 3002
+
+Aug 16 01:24: New mud.
+MD:141.44.22.42:4246
+
+Aug 16 04:00: Host change:
+Cosmos: 207.67.85.3 -> 206.230.220.4
+
+Aug 17 00:42: New mud.
+Avalon-Dev:141.82.16.188:4247
+
+Aug 17 00:43: Host change:
+Ulantris: 206.109.153.66 -> 208.2.27.9
+
+Aug 17 00:43: Host change:
+TotL: 204.17.163.17 -> 204.17.163.11
+
+Aug 17 00:43: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Aug 17 01:48: Host change:
+Wunderland: 139.18.11.161 -> 139.18.11.86
+
+Aug 17 04:00: Host change:
+Cosmos: 207.67.85.3 -> 206.230.220.4
+
+Aug 17 04:15: Host change:
+OuterSpace: 131.155.141.166 -> 131.155.141.2
+
+Aug 17 04:15: Port change:
+OuterSpace (131.155.141.2): 2500 -> 3002
+
+Aug 17 04:25: Host change:
+Aldebaran: 194.162.200.15 -> 194.162.27.5
+
+Aug 17 06:14: New mud.
+MD:141.44.22.42:4246
+
+Aug 17 14:00: New mud.
+DrachenWelt:134.96.240.42:4246
+
+Aug 17 23:32: finger from MorgenGrauen failed.
+*Bad argument 1 to lower_case()
+ID:1297|UDP:4246|NAME:MorgenGrauen|SND:/secure/udp/www.intermud|REQ:finger|DATA:0
+
+Aug 17 23:32: finger from MorgenGrauen failed.
+*Bad argument 1 to lower_case()
+REQ:finger|SND:/secure/udp/www.intermud|ID:1297|UDP:4246|NAME:MorgenGrauen|DATA:0
+
+Aug 19 13:33: Host change:
+GueldenLand: 194.163.252.41 -> 194.64.239.49
+
+Aug 20 12:50: New mud.
+MD-csmd48:141.44.22.48:4246
+
+Aug 20 12:50: New mud.
+MD-csmd42:141.44.22.42:4246
+
+Aug 20 14:31: New mud.
+WL-Development:139.18.11.86:5555
+
+Aug 20 14:32: Host change:
+MD: 141.44.22.42 -> 141.44.22.48
+
+Aug 21 21:30: Host change:
+Cosmos: 206.230.220.4 -> 216.111.160.141
+
+Aug 21 21:30: Port change:
+Cosmos (216.111.160.141): 5001 -> 4051
+
+Aug 21 22:01: Host change:
+TotL: 204.17.163.17 -> 204.17.163.11
+
+Aug 21 22:01: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Aug 21 22:01: who from TotL failed.
+*Error in loading object
+UDP:4246|REQ:who|NAME:TotL|ID:272|SND:kaaos
+
+Aug 21 22:01: who from TotL failed.
+*Error in loading object
+UDP:4246|REQ:who|NAME:TotL|ID:273|SND:kaaos
+
+Aug 21 22:01: who from TotL failed.
+*Error in loading object
+REQ:who|UDP:4246|ID:273|NAME:TotL|SND:kaaos
+
+Aug 21 22:03: who from TotL failed.
+*Error in loading object
+UDP:4246|REQ:who|NAME:TotL|ID:274|SND:kaaos
+
+Aug 21 22:04: who from TotL failed.
+*Error in loading object
+UDP:4246|REQ:who|NAME:TotL|ID:275|SND:kaaos
+
+Aug 21 22:04: who from TotL failed.
+*Error in loading object
+UDP:4246|REQ:who|NAME:TotL|ID:276|SND:kaaos
+
+Aug 21 22:04: who from TotL failed.
+*Error in loading object
+UDP:4246|REQ:who|NAME:TotL|ID:277|SND:kaaos
+
+Aug 21 22:05: Host change:
+Cosmos: 207.67.85.3 -> 216.111.160.141
+
+Aug 21 22:05: Port change:
+Cosmos (216.111.160.141): 5001 -> 4051
+
+Aug 21 22:06: Host change:
+Cosmos: 216.111.160.141 -> 206.230.220.4
+
+Aug 21 22:06: Port change:
+Cosmos (206.230.220.4): 4051 -> 5001
+
+Aug 21 22:10: Host change:
+Ulantris: 206.109.153.66 -> 208.2.27.9
+
+Aug 21 22:12: Host change:
+Wunderland: 139.18.11.161 -> 139.18.11.86
+
+Aug 21 22:24: Host change:
+OuterSpace: 131.155.141.166 -> 131.155.141.2
+
+Aug 21 22:24: Port change:
+OuterSpace (131.155.141.2): 2500 -> 3002
+
+Aug 21 23:10: Host change:
+Aldebaran: 194.162.200.15 -> 194.162.27.5
+
+Aug 21 23:21: New mud.
+MD:141.44.22.48:4246
+
+Aug 22 01:49: New mud.
+Avalon-Dev:141.82.16.188:4247
+
+Aug 22 01:53: New mud.
+MD-csmd42:141.44.22.42:4246
+
+Aug 22 02:28: Host change:
+GueldenLand: 194.163.252.41 -> 194.64.239.49
+
+Aug 22 07:26: Host change:
+Cosmos: 206.230.220.4 -> 216.111.160.141
+
+Aug 22 07:26: Port change:
+Cosmos (216.111.160.141): 5001 -> 4051
+
+Aug 23 04:00: Host change:
+Cosmos: 216.111.160.141 -> 206.230.220.4
+
+Aug 23 04:00: Port change:
+Cosmos (206.230.220.4): 4051 -> 5001
+
+Aug 23 20:06: Host change:
+Cosmos: 206.230.220.4 -> 216.111.160.141
+
+Aug 23 20:06: Port change:
+Cosmos (216.111.160.141): 5001 -> 4051
+
+Aug 24 04:00: Host change:
+Cosmos: 216.111.160.141 -> 206.230.220.4
+
+Aug 24 04:00: Port change:
+Cosmos (206.230.220.4): 4051 -> 5001
+
+Aug 24 07:20: channel from Aldebaran failed.
+*Index out of bounds
+SND:Althor|CHANNEL:$1|REQ:channel|NAME:Aldebaran|UDP:4246|DATA:hi 
+
+Aug 25 03:06: Host change:
+Cosmos: 206.230.220.4 -> 216.111.160.141
+
+Aug 25 03:06: Port change:
+Cosmos (216.111.160.141): 5001 -> 4051
+
+Aug 27 22:01: Host change:
+TotL: 204.17.163.17 -> 204.17.163.11
+
+Aug 27 22:01: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Aug 27 22:09: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Aug 27 22:09: Host change:
+TotL: 204.17.163.17 -> 204.17.163.11
+
+Aug 27 22:14: Host change:
+Ulantris: 206.109.153.66 -> 208.2.27.9
+
+Aug 27 22:26: Host change:
+Aldebaran: 194.162.200.15 -> 194.162.27.5
+
+Aug 28 01:30: New mud.
+MD:141.44.22.48:4246
+
+Aug 28 01:43: New mud.
+Avalon-Dev:141.82.16.188:4247
+
+Aug 28 03:07: Host change:
+Cosmos: 207.67.85.3 -> 216.111.160.141
+
+Aug 28 03:07: Port change:
+Cosmos (216.111.160.141): 5001 -> 4051
+
+Aug 28 04:11: Host change:
+GueldenLand: 194.163.252.41 -> 194.64.239.49
+
+Aug 28 06:09: Host change:
+Wunderland: 139.18.11.161 -> 139.18.11.86
+
+Aug 28 10:18: Host change:
+OuterSpace: 131.155.141.166 -> 131.155.141.2
+
+Aug 28 10:18: Port change:
+OuterSpace (131.155.141.2): 2500 -> 3002
+
+Aug 29 00:09: channel from Venus failed.
+*Bad argument 1 to call_other()
+channel:intermud|REQ:channel|NAME:Venus|SND:orion|UDP:9998|DATA:snores.
+
+Aug 29 00:09: channel from Venus failed.
+*Bad argument 1 to call_other()
+channel:intermud|REQ:channel|NAME:Venus|SND:jade|UDP:9998|DATA:haha
+
+Aug 31 10:18: New mud.
+AnderLAG:199.108.103.158:4246
+
+Aug 31 10:25: New mud.
+FutureMud:199.108.103.158:4246
+
+Aug 31 15:00: New mud.
+WL-Development:139.18.11.86:5555
+
+Sep  1 14:12: New mud.
+AL-Test-asterix:199.108.103.158:4246
+
+Sep  1 23:09: New mud.
+DrachenWelt:134.96.240.42:4246
+
+Sep  2 04:23: Host change:
+TotL: 204.17.163.17 -> 204.17.163.11
+
+Sep  2 04:23: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Sep  2 06:40: Host change:
+TotL: 204.17.163.17 -> 204.17.163.11
+
+Sep  2 06:40: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Sep  2 06:41: Host change:
+Aldebaran: 194.162.200.15 -> 194.162.27.5
+
+Sep  2 06:53: New mud.
+MD:141.44.22.48:4246
+
+Sep  2 07:33: Host change:
+Wunderland: 139.18.11.161 -> 139.18.11.86
+
+Sep  2 09:24: New mud.
+WL-Development:139.18.11.86:5555
+
+Sep  2 09:41: New mud.
+Avalon-Dev:141.82.16.188:4247
+
+Sep  2 10:09: Host change:
+GueldenLand: 194.163.252.41 -> 194.64.239.49
+
+Sep  2 13:15: New mud.
+AL-Test-asterix:199.108.103.158:4246
+
+Sep  2 15:02: Port change:
+WL-Development (139.18.11.86): 5555 -> 6666
+
+Sep  2 15:41: Port change:
+WL-Development (139.18.11.86): 6666 -> 5256
+
+Sep  2 16:12: Host change:
+OuterSpace: 131.155.141.166 -> 131.155.141.2
+
+Sep  2 16:12: Port change:
+OuterSpace (131.155.141.2): 2500 -> 3002
+
+Sep  2 16:41: Host change:
+Cosmos: 207.67.85.3 -> 216.111.160.141
+
+Sep  2 16:41: Port change:
+Cosmos (216.111.160.141): 5001 -> 4051
+
+Sep  2 22:07: Host change:
+Ulantris: 206.109.153.66 -> 208.2.27.9
+
+Sep  3 00:32: New mud.
+DrachenWelt:134.96.240.42:4246
+
+Sep  3 11:36: New mud.
+FutureMud:199.108.103.158:4246
+
+Sep  3 19:45: Host change:
+Ulantris: 206.109.153.66 -> 208.2.27.9
+
+Sep  3 19:45: Host change:
+TotL: 204.17.163.17 -> 204.17.163.11
+
+Sep  3 19:45: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Sep  3 21:09: who from DeadofNight failed.
+*Bad argument 1 to environment()
+UDP:4242|SND:nightmare|ID:202290|NAME:DeadofNight|REQ:who
+
+Sep  3 22:10: Host change:
+TotL: 204.17.163.17 -> 204.17.163.11
+
+Sep  3 22:10: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Sep  3 22:15: Host change:
+Ulantris: 206.109.153.66 -> 208.2.27.9
+
+Sep  3 22:25: Host change:
+TotL: 204.17.163.17 -> 204.17.163.11
+
+Sep  3 22:25: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Sep  3 22:30: Host change:
+Ulantris: 206.109.153.66 -> 208.2.27.9
+
+Sep  3 22:41: Host change:
+Aldebaran: 194.162.200.15 -> 194.162.27.5
+
+Sep  3 22:55: New mud.
+Avalon-Dev:141.82.16.188:4247
+
+Sep  3 23:19: New mud.
+MD:141.44.22.48:4246
+
+Sep  4 03:02: Host change:
+Cosmos: 207.67.85.3 -> 216.111.160.141
+
+Sep  4 03:02: Port change:
+Cosmos (216.111.160.141): 5001 -> 4051
+
+Sep  4 03:43: Host change:
+Wunderland: 139.18.11.161 -> 139.18.11.86
+
+Sep  4 04:43: New mud.
+WL-Development:139.18.11.86:5256
+
+Sep  4 10:12: Host change:
+GueldenLand: 194.163.252.41 -> 194.64.239.49
+
+Sep  4 12:03: New mud.
+FutureMud:199.108.103.158:4246
+
+Sep  4 16:12: Host change:
+OuterSpace: 131.155.141.166 -> 131.155.141.2
+
+Sep  4 16:12: Port change:
+OuterSpace (131.155.141.2): 2500 -> 3002
+
+Sep  6 07:33: Host change:
+TotL: 204.17.163.17 -> 204.17.163.11
+
+Sep  6 07:34: Host change:
+Ulantris: 206.109.153.66 -> 208.2.27.9
+
+Sep  6 08:57: Host change:
+Aldebaran: 194.162.200.15 -> 194.162.27.5
+
+Sep  6 10:02: New mud.
+MD:141.44.22.48:4246
+
+Sep  6 10:50: New mud.
+WL-Development:139.18.11.86:5256
+
+Sep  6 11:04: Host change:
+Wunderland: 139.18.11.161 -> 139.18.11.86
+
+Sep  6 11:25: Host change:
+Ulantris: 206.109.153.66 -> 208.2.27.9
+
+Sep  6 11:25: Host change:
+TotL: 204.17.163.17 -> 204.17.163.11
+
+Sep  6 11:30: Host change:
+GueldenLand: 194.163.252.41 -> 194.64.239.49
+
+Sep  6 11:33: Host change:
+TotL: 204.17.163.17 -> 204.17.163.11
+
+Sep  6 11:33: New mud.
+DrachenWelt:134.96.240.42:4246
+
+Sep  6 11:34: Host change:
+Ulantris: 206.109.153.66 -> 208.2.27.9
+
+Sep  6 11:49: New mud.
+MD:141.44.22.48:4246
+
+Sep  6 12:06: New mud.
+Avalon-Dev:141.82.16.188:4247
+
+Sep  6 12:25: Host change:
+Cosmos: 207.67.85.3 -> 216.111.160.141
+
+Sep  6 12:25: Port change:
+Cosmos (216.111.160.141): 5001 -> 4051
+
+Sep  6 13:57: Host change:
+Aldebaran: 194.162.200.15 -> 194.162.27.5
+
+Sep  6 16:17: Host change:
+OuterSpace: 131.155.141.166 -> 131.155.141.2
+
+Sep  6 16:17: Port change:
+OuterSpace (131.155.141.2): 2500 -> 3002
+
+Sep  6 19:39: Host change:
+Wunderland: 139.18.11.161 -> 139.18.11.86
+
+Sep  6 20:34: New mud.
+WL-Development:139.18.11.86:5256
+
+Sep  7 10:48: New mud.
+AL-Test-asterix:199.108.103.158:4246
+
+Sep  7 15:00: New mud.
+AL-Test-renntwienix:193.53.23.95:4246
+
+Sep  8 04:33: Host change:
+GueldenLand: 194.163.252.41 -> 194.64.239.49
+
+Sep  8 08:31: New mud.
+Beutelland:193.170.72.212:4246
+
+Sep  8 23:33: channel from Nightfall failed.
+*Index out of bounds
+UDP:4246|CHANNEL:news|NAME:Nightfall|SND:Someone|REQ:channel|channel:news|cmd:emote|DATA:Re: Uselot
+
+Sep 10 12:02: New mud.
+fuckmud:204.17.163.11:4246
+
+Sep 11 11:43: Host change:
+fuckmud: 204.17.163.11 -> 24.4.188.13
+
+Sep 11 11:48: Host change:
+fuckmud: 24.4.188.13 -> 204.17.163.11
+
+Sep 11 11:49: Host change:
+fuckmud: 204.17.163.11 -> 24.4.188.13
+
+Sep 11 11:49: Host change:
+fuckmud: 24.4.188.13 -> 204.17.163.11
+
+Sep 11 11:50: New mud.
+fruckmure:24.4.188.13:4246
+
+Sep 12 08:40: New mud.
+MidDev:24.218.145.109:4002
+
+Sep 13 22:34: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Sep 14 15:52: Host change:
+Ulantris: 206.109.153.66 -> 208.2.27.9
+
+Sep 14 15:53: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Sep 14 15:53: New mud.
+fuckmud:204.17.163.11:4246
+
+Sep 14 16:31: New mud.
+MD:141.44.22.48:4246
+
+Sep 14 16:32: Host change:
+OuterSpace: 131.155.141.166 -> 131.155.141.2
+
+Sep 14 16:32: Port change:
+OuterSpace (131.155.141.2): 2500 -> 3002
+
+Sep 14 16:37: Host change:
+Cosmos: 207.67.85.3 -> 216.111.160.141
+
+Sep 14 16:37: Port change:
+Cosmos (216.111.160.141): 5001 -> 4051
+
+Sep 14 18:28: Host change:
+Aldebaran: 194.162.200.15 -> 194.162.27.5
+
+Sep 14 18:49: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Sep 14 18:49: New mud.
+fuckmud:204.17.163.11:4246
+
+Sep 14 18:50: Host change:
+Ulantris: 206.109.153.66 -> 208.2.27.9
+
+Sep 14 19:13: New mud.
+fuckmud:204.17.163.11:4246
+
+Sep 14 19:13: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Sep 14 19:20: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Sep 14 19:20: New mud.
+fuckmud:204.17.163.11:4246
+
+Sep 14 19:21: Host change:
+Ulantris: 206.109.153.66 -> 208.2.27.9
+
+Sep 14 19:53: New mud.
+WL-Development:139.18.11.86:5256
+
+Sep 14 20:14: Host change:
+Cosmos: 207.67.85.3 -> 216.111.160.141
+
+Sep 14 20:14: Port change:
+Cosmos (216.111.160.141): 5001 -> 4051
+
+Sep 14 20:37: Host change:
+Wunderland: 139.18.11.161 -> 139.18.11.86
+
+Sep 14 21:19: New mud.
+MD:141.44.22.48:4246
+
+Sep 14 21:36: New mud.
+Avalon-Dev:141.82.16.188:4247
+
+Sep 14 22:34: Host change:
+OuterSpace: 131.155.141.166 -> 131.155.141.2
+
+Sep 14 22:34: Port change:
+OuterSpace (131.155.141.2): 2500 -> 3002
+
+Sep 14 23:13: Host change:
+Aldebaran: 194.162.200.15 -> 194.162.27.5
+
+Sep 15 00:54: New mud.
+DrachenWelt:134.96.240.42:4246
+
+Sep 15 06:03: New mud.
+Beutelland:193.170.72.212:4246
+
+Sep 15 07:21: Host change:
+Ulantris: 206.109.153.66 -> 208.2.27.9
+
+Sep 15 07:21: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Sep 15 07:21: New mud.
+fuckmud:204.17.163.11:4246
+
+Sep 15 08:20: New mud.
+Beutelland:193.170.72.212:4246
+
+Sep 15 09:13: Host change:
+Aldebaran: 194.162.200.15 -> 194.162.27.5
+
+Sep 15 09:15: New mud.
+Avalon-Dev:141.82.16.188:4247
+
+Sep 15 09:38: New mud.
+AL-Test-renntwienix:193.53.23.95:4246
+
+Sep 15 10:37: New mud.
+MD:141.44.22.48:4246
+
+Sep 15 10:45: Host change:
+OuterSpace: 131.155.141.166 -> 131.155.141.2
+
+Sep 15 10:45: Port change:
+OuterSpace (131.155.141.2): 2500 -> 3002
+
+Sep 15 12:11: New mud.
+DrachenWelt:134.96.240.42:4246
+
+Sep 15 13:14: New mud.
+WL-Development:139.18.11.86:5256
+
+Sep 15 13:45: Host change:
+Wunderland: 139.18.11.161 -> 139.18.11.86
+
+Sep 15 18:52: finger from Aldebaran failed.
+*Bad argument 1 to lower_case()
+SND:noricus|UDP:4246|NAME:Aldebaran|REQ:finger|ID:911
+
+Sep 15 20:53: Host change:
+Cosmos: 207.67.85.3 -> 216.111.160.141
+
+Sep 15 20:53: Port change:
+Cosmos (216.111.160.141): 5001 -> 4051
+
+Sep 16 12:07: who from DeadofNight failed.
+*Bad argument 3 to map_mapping()
+UDP:4242|SND:pryddyth|ID:203630|NAME:DeadofNight|REQ:who
+
+Sep 17 04:21: Host change:
+GueldenLand: 194.163.252.41 -> 194.64.239.49
+
+Sep 17 05:30: New mud.
+testmud-of-TubMud:130.149.19.19:7683
+
+Sep 17 07:47: who from fuckmud failed.
+*Failed to load file.
+NAME:fuckmud|SND:hideyoshi|ID:374|UDP:4246|REQ:who
+
+Sep 17 08:07: who from fuckmud failed.
+*Failed to load file.
+NAME:fuckmud|SND:hideyoshi|ID:375|UDP:4246|REQ:who
+
+Sep 17 15:22: Host change:
+Anderland: 194.94.224.181 -> 193.53.23.95
+
+Sep 17 20:28: New mud.
+fruckmure:24.4.188.13:4246
+
+Sep 20 22:08: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Sep 20 22:08: New mud.
+fuckmud:204.17.163.11:4246
+
+Sep 20 22:17: Host change:
+OuterSpace: 131.155.141.166 -> 131.155.141.2
+
+Sep 20 22:17: Port change:
+OuterSpace (131.155.141.2): 2500 -> 3002
+
+Sep 20 22:21: Host change:
+Ulantris: 206.109.153.66 -> 208.2.27.9
+
+Sep 20 23:22: Host change:
+Wunderland: 139.18.11.161 -> 139.18.11.86
+
+Sep 21 00:14: Host change:
+Aldebaran: 194.162.200.15 -> 194.162.27.5
+
+Sep 21 00:30: New mud.
+DrachenWelt:134.96.240.42:4246
+
+Sep 21 01:10: New mud.
+MD:141.44.22.48:4246
+
+Sep 21 01:54: New mud.
+WL-Development:139.18.11.86:5256
+
+Sep 21 02:09: New mud.
+Avalon-Dev:141.82.16.188:4247
+
+Sep 21 03:04: Host change:
+Cosmos: 207.67.85.3 -> 216.111.160.141
+
+Sep 21 03:04: Port change:
+Cosmos (216.111.160.141): 5001 -> 4051
+
+Sep 21 11:12: Host change:
+Anderland: 194.94.224.181 -> 193.53.23.95
+
+Sep 21 16:33: New mud.
+fruckmure:24.4.188.13:4246
+
+Sep 21 18:45: who from DeadofNight failed.
+*Bad argument 1 to sqrt()
+UDP:4242|SND:keith|ID:204627|NAME:DeadofNight|REQ:who
+
+Sep 22 00:20: New mud.
+RB-Vogtland:141.30.221.115:4246
+
+Sep 22 12:27: Host change:
+Regenbogen: 141.76.1.2 -> 141.76.2.6
+
+Sep 23 13:32: New mud.
+fuckmud:204.17.163.11:4246
+
+Sep 23 13:33: New mud.
+fruckmure:24.4.188.13:4246
+
+Sep 23 13:34: New mud.
+Avalon-Dev:141.82.16.188:4247
+
+Sep 23 13:36: Host change:
+Ulantris: 206.109.153.66 -> 208.2.27.9
+
+Sep 23 13:40: Host change:
+Anderland: 194.94.224.181 -> 193.53.23.95
+
+Sep 23 13:40: Host change:
+Regenbogen: 141.76.1.2 -> 141.76.2.6
+
+Sep 23 13:59: Host change:
+Aldebaran: 194.162.200.15 -> 194.162.27.5
+
+Sep 23 14:13: New mud.
+MD:141.44.22.48:4246
+
+Sep 23 14:13: New mud.
+DrachenWelt:134.96.240.42:4246
+
+Sep 23 16:26: Host change:
+OuterSpace: 131.155.141.166 -> 131.155.141.2
+
+Sep 23 16:26: Port change:
+OuterSpace (131.155.141.2): 2500 -> 3002
+
+Sep 23 18:03: Host change:
+Cosmos: 207.67.85.3 -> 216.111.160.141
+
+Sep 23 18:03: Port change:
+Cosmos (216.111.160.141): 5001 -> 4051
+
+Sep 23 18:37: New mud.
+WL-Development:139.18.11.86:5256
+
+Sep 23 20:52: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Sep 23 20:52: Host change:
+Ulantris: 206.109.153.66 -> 208.2.27.9
+
+Sep 23 20:52: New mud.
+fuckmud:204.17.163.11:4246
+
+Sep 23 20:58: Host change:
+Wunderland: 139.18.11.161 -> 139.18.11.86
+
+Sep 23 21:07: New mud.
+fruckmure:24.4.188.13:4246
+
+Sep 23 21:07: New mud.
+MD:141.44.22.48:4246
+
+Sep 23 21:07: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Sep 23 21:07: New mud.
+fuckmud:204.17.163.11:4246
+
+Sep 23 21:07: Host change:
+Ulantris: 206.109.153.66 -> 208.2.27.9
+
+Sep 23 22:28: Host change:
+OuterSpace: 131.155.141.166 -> 131.155.141.2
+
+Sep 23 22:28: Port change:
+OuterSpace (131.155.141.2): 2500 -> 3002
+
+Sep 23 23:14: Host change:
+Aldebaran: 194.162.200.15 -> 194.162.27.5
+
+Sep 23 23:56: Host change:
+Regenbogen: 141.76.1.2 -> 141.76.2.6
+
+Sep 24 01:46: New mud.
+DrachenWelt:134.96.240.42:4246
+
+Sep 24 01:51: New mud.
+Avalon-Dev:141.82.16.188:4247
+
+Sep 24 03:05: Host change:
+Cosmos: 207.67.85.3 -> 216.111.160.141
+
+Sep 24 03:05: Port change:
+Cosmos (216.111.160.141): 5001 -> 4051
+
+Sep 24 03:26: New mud.
+WL-Development:139.18.11.86:5256
+
+Sep 24 06:26: Host change:
+Wunderland: 139.18.11.161 -> 139.18.11.86
+
+Sep 24 13:27: Host change:
+Anderland: 194.94.224.181 -> 193.53.23.95
+
+Sep 25 00:46: Host change:
+GueldenLand: 194.163.252.41 -> 194.64.239.49
+
+Sep 25 01:23: who from fuckmud failed.
+*Failed to load file.
+NAME:fuckmud|UDP:4246|REQ:who|ID:303|SND:dega
+
+Sep 27 03:27: New mud.
+testmud-of-TubMud:130.149.19.20:7683
+
+Sep 27 08:41: New mud.
+Beutelland:193.170.72.212:4246
+
+Sep 27 17:10: Host change:
+Aldebaran: 194.162.27.5 -> 212.81.246.39
+
+Sep 27 22:15: Host change:
+Aldebaran: 212.81.246.39 -> 194.162.27.5
+
+Sep 28 15:14: New mud.
+HoG:130.149.145.63:7683
+
+Oct  4 10:28: New mud.
+AnderLAG:199.108.103.158:4246
+
+Oct  4 10:30: New mud.
+AL-Test-asterix:199.108.103.158:4246
+
+Oct  5 13:23: New mud.
+fuckmud:204.17.163.11:4246
+
+Oct  5 13:24: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Oct  5 13:25: New mud.
+fuckmud:204.17.163.11:4246
+
+Oct  5 13:25: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Oct  5 13:32: New mud.
+Avalon-Dev:141.82.16.188:4247
+
+Oct  5 14:15: New mud.
+MD:141.44.22.48:4246
+
+Oct  5 14:15: Host change:
+Anderland: 194.94.224.181 -> 193.53.23.95
+
+Oct  5 14:43: Host change:
+Ulantris: 206.109.153.66 -> 208.2.27.9
+
+Oct  5 14:48: Host change:
+Wunderland: 139.18.11.161 -> 139.18.11.86
+
+Oct  5 15:31: New mud.
+WL-Development:139.18.11.86:5256
+
+Oct  5 16:16: Host change:
+Aldebaran: 194.162.200.15 -> 194.162.27.5
+
+Oct  5 16:18: Host change:
+OuterSpace: 131.155.141.166 -> 131.155.141.2
+
+Oct  5 16:18: Port change:
+OuterSpace (131.155.141.2): 2500 -> 3002
+
+Oct  5 18:38: New mud.
+fuckmud:204.17.163.11:4246
+
+Oct  5 18:38: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Oct  5 18:38: Host change:
+Ulantris: 206.109.153.66 -> 208.2.27.9
+
+Oct  5 18:45: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Oct  5 18:45: New mud.
+fuckmud:204.17.163.11:4246
+
+Oct  5 18:51: Host change:
+Ulantris: 206.109.153.66 -> 208.2.27.9
+
+Oct  5 19:01: New mud.
+fuckmud:204.17.163.11:4246
+
+Oct  5 19:01: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Oct  5 19:06: Host change:
+Ulantris: 206.109.153.66 -> 208.2.27.9
+
+Oct  5 19:18: New mud.
+MD:141.44.22.48:4246
+
+Oct  5 19:25: Host change:
+Ulantris: 206.109.153.66 -> 208.2.27.9
+
+Oct  5 19:25: New mud.
+fuckmud:204.17.163.11:4246
+
+Oct  5 19:25: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Oct  5 19:57: New mud.
+Avalon-Dev:141.82.16.188:4247
+
+Oct  5 20:31: Host change:
+Aldebaran: 194.162.200.15 -> 194.162.27.5
+
+Oct  5 20:55: Host change:
+Wunderland: 139.18.11.161 -> 139.18.11.86
+
+Oct  5 21:09: Host change:
+Ulantris: 206.109.153.66 -> 208.2.27.9
+
+Oct  5 21:09: New mud.
+fuckmud:204.17.163.11:4246
+
+Oct  5 21:09: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Oct  5 21:20: New mud.
+fuckmud:204.17.163.11:4246
+
+Oct  5 21:20: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Oct  5 21:21: Host change:
+Ulantris: 206.109.153.66 -> 208.2.27.9
+
+Oct  5 21:36: New mud.
+MD:141.44.22.48:4246
+
+Oct  5 22:20: Host change:
+OuterSpace: 131.155.141.166 -> 131.155.141.2
+
+Oct  5 22:20: Port change:
+OuterSpace (131.155.141.2): 2500 -> 3002
+
+Oct  6 01:01: Host change:
+Aldebaran: 194.162.200.15 -> 194.162.27.5
+
+Oct  6 01:19: New mud.
+WL-Development:139.18.11.86:5256
+
+Oct  6 02:04: New mud.
+Avalon-Dev:141.82.16.188:4247
+
+Oct  6 03:08: Host change:
+Cosmos: 207.67.85.3 -> 216.111.160.141
+
+Oct  6 03:08: Port change:
+Cosmos (216.111.160.141): 5001 -> 4051
+
+Oct  6 05:28: Host change:
+Regenbogen: 141.76.1.2 -> 141.76.2.6
+
+Oct  6 06:01: Host change:
+Wunderland: 139.18.11.161 -> 139.18.11.86
+
+Oct  6 06:21: Host change:
+GueldenLand: 194.163.252.41 -> 194.64.239.49
+
+Oct  6 12:04: Host change:
+Anderland: 194.94.224.181 -> 193.53.23.95
+
+Oct  6 22:19: who from DeadofNight failed.
+*Failed to load file.
+UDP:4242|SND:kellie|ID:209092|NAME:DeadofNight|REQ:who
+
+Oct  7 04:42: New mud.
+Beutelland:193.170.72.212:4246
+
+Oct  9 10:52: channel from AnderLand failed.
+*Index out of bounds
+REQ:channel|SND:Mupfel|NAME:AnderLand|CHANNEL:d-schmarrn|UDP:4246|DATA:test
+
+Oct  9 10:56: channel from AnderLand failed.
+*Index out of bounds
+REQ:channel|SND:Mupfel|NAME:AnderLand|CHANNEL:d-kultur|UDP:4246|DATA:dies ist ein test
+
+Oct  9 11:00: channel from AnderLand failed.
+*Index out of bounds
+REQ:channel|SND:Mupfel|NAME:AnderLand|CHANNEL:d-kultur|UDP:4246|DATA:dies ist ein test
+
+Oct  9 11:00: channel from AnderLand failed.
+*Index out of bounds
+REQ:channel|SND:Mupfel|NAME:AnderLand|CHANNEL:d-kultur|UDP:4246|DATA:dies ist ein test
+
+Oct  9 11:07: channel from AnderLand failed.
+*Index out of bounds
+REQ:channel|SND:Mupfel|NAME:AnderLand|CHANNEL:d-schmarrn|UDP:4246|DATA:test
+
+Oct  9 11:08: channel from AnderLand failed.
+*Index out of bounds
+REQ:channel|SND:Mupfel|NAME:AnderLand|CHANNEL:d-kultur|UDP:4246|DATA:test
+
+Oct  9 11:26: channel from AnderLand failed.
+*Index out of bounds
+REQ:channel|SND:Mupfel|NAME:AnderLand|CHANNEL:d-kultur|UDP:4246|DATA:test
+
+Oct  9 11:48: channel from AnderLand failed.
+*Index out of bounds
+REQ:channel|SND:Mupfel|NAME:AnderLand|CHANNEL:d-kultur|UDP:4246|DATA:test
+
+Oct  9 12:02: channel from AnderLand failed.
+*Index out of bounds
+REQ:channel|SND:Mupfel|NAME:AnderLand|CHANNEL:d-kultur|UDP:4246|DATA:s
+
+Oct  9 13:20: channel from AnderLand failed.
+*Index out of bounds
+REQ:channel|SND:Mupfel|NAME:AnderLand|CHANNEL:d-kultur|UDP:4246|DATA:cool tour
+
+Oct 10 10:12: channel from AnderLand failed.
+*Index out of bounds
+REQ:channel|SND:Mupfel|NAME:AnderLand|CHANNEL:d-kultur|UDP:4246|DATA:xxx
+
+Oct 10 11:36: New mud.
+DrachenWelt:134.96.240.42:4246
+
+Oct 10 12:30: channel from AnderLand failed.
+*Index out of bounds
+REQ:channel|SND:Mupfel|NAME:AnderLand|CHANNEL:d-kultur|UDP:4246|DATA:n'ice
+
+Oct 11 12:25: Host change:
+GueldenLand: 194.64.239.49 -> 194.64.239.52
+
+Oct 13 03:22: New mud.
+testmud-of-TubMud:130.149.19.19:7683
+
+Oct 14 06:57: Port change:
+Regenbogen (141.76.2.6): 4246 -> 5246
+
+Oct 14 11:14: Host change:
+SILKE:AT: 128.130.109.51 -> 128.130.109.53
+
+Oct 14 12:29: Host change:
+SILKE:AT: 128.130.109.53 -> 128.130.109.51
+
+Oct 15 00:35: Port change:
+Regenbogen (141.76.2.6): 5246 -> 4246
+
+Oct 16 12:11: New mud.
+Vacuum:24.4.188.13:4246
+
+Oct 17 21:43: New mud.
+fuckmud:204.17.163.11:4246
+
+Oct 17 21:45: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Oct 17 21:47: Host change:
+Ulantris: 206.109.153.66 -> 208.2.27.9
+
+Oct 17 22:20: Host change:
+OuterSpace: 131.155.141.166 -> 131.155.141.2
+
+Oct 17 22:20: Port change:
+OuterSpace (131.155.141.2): 2500 -> 3002
+
+Oct 17 22:31: New mud.
+WL-Development:139.18.11.86:5256
+
+Oct 18 00:29: New mud.
+DrachenWelt:134.96.240.42:4246
+
+Oct 18 00:30: Host change:
+Regenbogen: 141.76.1.2 -> 141.76.2.6
+
+Oct 18 00:50: Host change:
+Wunderland: 139.18.11.161 -> 139.18.11.86
+
+Oct 18 01:46: New mud.
+Beutelland:193.170.72.212:4246
+
+Oct 18 01:48: Host change:
+Aldebaran: 194.162.200.15 -> 194.162.27.5
+
+Oct 18 02:19: New mud.
+MD:141.44.22.48:4246
+
+Oct 18 03:08: Host change:
+Cosmos: 207.67.85.3 -> 216.111.160.141
+
+Oct 18 03:08: Port change:
+Cosmos (216.111.160.141): 5001 -> 4051
+
+Oct 18 03:25: Host change:
+GueldenLand: 194.163.252.41 -> 194.64.239.52
+
+Oct 18 03:25: Host change:
+Zeittunnel: 134.109.132.63 -> 134.109.72.27
+
+Oct 18 06:24: Host change:
+Zeittunnel: 134.109.72.27 -> 134.109.132.63
+
+Oct 18 10:46: Host change:
+Zeittunnel: 134.109.132.63 -> 134.109.72.27
+
+Oct 18 12:00: Host change:
+Anderland: 194.94.224.181 -> 193.53.23.95
+
+Oct 18 15:50: New mud.
+Vacuum:24.4.188.13:4246
+
+Oct 21 16:16: Host change:
+OuterSpace: 131.155.141.2 -> 131.155.141.98
+
+Oct 23 00:26: who from fuckmud failed.
+*Failed to load file.
+NAME:fuckmud|SND:tear|ID:561|UDP:4246|REQ:who
+
+Oct 23 00:26: who from fuckmud failed.
+*Failed to load file.
+NAME:fuckmud|SND:tear|ID:562|UDP:4246|REQ:who
+
+Oct 23 00:26: who from fuckmud failed.
+*Failed to load file.
+NAME:fuckmud|SND:tear|ID:563|UDP:4246|REQ:who
+
+Oct 23 00:26: who from fuckmud failed.
+*Failed to load file.
+NAME:fuckmud|SND:cursed|ID:564|UDP:4246|REQ:who
+
+Oct 23 00:26: who from fuckmud failed.
+*Failed to load file.
+NAME:fuckmud|SND:cursed|ID:565|UDP:4246|REQ:who
+
+Oct 24 04:55: channel from AnderLand failed.
+*Index out of bounds
+REQ:channel|SND:Mupfel|NAME:AnderLand|CHANNEL:d-schmarrn|UDP:4246|DATA:hh
+
+Oct 24 07:45: who from fuckmud failed.
+*Failed to load file.
+NAME:fuckmud|SND:cursed|ID:726|UDP:4246|REQ:who
+
+Oct 24 07:45: who from fuckmud failed.
+*Failed to load file.
+NAME:fuckmud|SND:cursed|ID:727|UDP:4246|REQ:who
+
+Oct 24 07:46: who from fuckmud failed.
+*Failed to load file.
+NAME:fuckmud|SND:cursed|ID:728|UDP:4246|REQ:who
+
+Oct 24 07:46: who from fuckmud failed.
+*Failed to load file.
+NAME:fuckmud|SND:cursed|ID:729|UDP:4246|REQ:who
+
+Oct 24 07:47: who from fuckmud failed.
+*Failed to load file.
+NAME:fuckmud|SND:cursed|ID:730|UDP:4246|REQ:who
+
+Oct 24 07:48: who from fuckmud failed.
+*Failed to load file.
+NAME:fuckmud|SND:cursed|ID:731|UDP:4246|REQ:who
+
+Oct 25 16:18: Host change:
+OuterSpace: 131.155.141.98 -> 131.155.141.2
+
+Oct 26 18:53: New mud.
+Ulantris-Unknown:208.2.27.10:4246
+
+Oct 26 20:36: Port change:
+Myths (194.119.129.222): 4445 -> 4246
+
+Oct 28 18:35: New mud.
+fuckmud:204.17.163.11:4246
+
+Oct 28 18:35: Port change:
+Myths (194.119.129.222): 4445 -> 4246
+
+Oct 28 18:35: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Oct 28 18:36: Host change:
+Ulantris: 206.109.153.66 -> 208.2.27.9
+
+Oct 28 19:18: Host change:
+Zeittunnel: 134.109.132.63 -> 134.109.72.27
+
+Oct 28 19:51: Host change:
+Aldebaran: 194.162.200.15 -> 194.162.27.5
+
+Oct 28 20:30: Host change:
+Wunderland: 139.18.11.161 -> 139.18.11.86
+
+Oct 28 21:02: New mud.
+MD:141.44.22.48:4246
+
+Oct 28 23:36: Host change:
+Regenbogen: 141.76.1.2 -> 141.76.2.6
+
+Oct 29 00:19: New mud.
+DrachenWelt:134.96.240.42:4246
+
+Oct 29 00:42: Host change:
+Anderland: 194.94.224.181 -> 193.53.23.95
+
+Oct 29 03:10: Host change:
+Cosmos: 207.67.85.3 -> 216.111.160.141
+
+Oct 29 03:10: Port change:
+Cosmos (216.111.160.141): 5001 -> 4051
+
+Oct 29 03:31: New mud.
+MD-mtq125:137.226.129.125:4246
+
+Oct 29 03:56: Port change:
+MD-mtq125 (137.226.129.125): 4246 -> 4242
+
+Oct 29 16:15: Host change:
+OuterSpace: 131.155.141.166 -> 131.155.141.2
+
+Oct 29 16:15: Port change:
+OuterSpace (131.155.141.2): 2500 -> 3002
+
+Oct 29 18:36: New mud.
+Vacuum:24.4.188.13:4246
+
+Oct 29 18:38: New mud.
+Eldarea:137.226.129.125:4246
+
+Oct 29 23:23: who from fuckmud failed.
+*Failed to load file.
+NAME:fuckmud|SND:cursed|ID:873|UDP:4246|REQ:who
+
+Oct 29 23:24: who from fuckmud failed.
+*Failed to load file.
+NAME:fuckmud|SND:cursed|ID:874|UDP:4246|REQ:who
+
+Oct 29 23:28: who from fuckmud failed.
+*Failed to load file.
+NAME:fuckmud|SND:cursed|ID:877|UDP:4246|REQ:who
+
+Oct 29 23:29: who from fuckmud failed.
+*Failed to load file.
+NAME:fuckmud|SND:cursed|ID:878|UDP:4246|REQ:who
+
+Oct 30 00:41: channel from Nightfall failed.
+*Index out of bounds
+NAME:Nightfall|channel:news|CHANNEL:news|REQ:channel|SND:|UDP:4246|DATA:celephais was flushed down in a magic water toilet.
+
+Oct 31 11:28: who from fuckmud failed.
+*Failed to load file.
+NAME:fuckmud|SND:cursed|ID:356|UDP:4246|REQ:who
+
+Oct 31 11:29: who from fuckmud failed.
+*Failed to load file.
+NAME:fuckmud|SND:cursed|ID:357|UDP:4246|REQ:who
+
+Oct 31 11:29: who from fuckmud failed.
+*Failed to load file.
+NAME:fuckmud|SND:cursed|ID:358|UDP:4246|REQ:who
+
+Oct 31 11:30: who from fuckmud failed.
+*Failed to load file.
+NAME:fuckmud|SND:cursed|ID:359|UDP:4246|REQ:who
+
+Oct 31 11:31: who from fuckmud failed.
+*Failed to load file.
+NAME:fuckmud|SND:cursed|ID:360|UDP:4246|REQ:who
+
+Nov  1 02:15: New mud.
+Beutelland:193.170.72.212:4246
+
+Nov  1 09:55: New mud.
+WL-Development:139.18.11.86:5256
+
+Nov  1 23:38: New mud.
+Kinthara:134.96.240.42:4246
+
+Nov  2 19:07: New mud.
+Ulantris-Unknown:208.2.27.10:4246
+
+Nov  3 00:04: Host change:
+Kinthara: 134.96.240.42 -> 134.96.240.7
+
+Nov  3 04:51: New mud.
+MD-csmd42:141.44.22.42:4246
+
+Nov  3 19:52: who from Aldebaran failed.
+*Failed to load file.
+SND:server/cmd_inetd|UDP:4246|NAME:Aldebaran|REQ:who|ID:21208
+
+Nov  4 10:57: Port change:
+Myths (194.119.129.222): 4445 -> 4246
+
+Nov  4 10:57: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Nov  4 10:57: New mud.
+fuckmud:204.17.163.11:4246
+
+Nov  4 10:57: Host change:
+Ulantris: 206.109.153.66 -> 208.2.27.9
+
+Nov  4 11:02: New mud.
+Ulantris-Unknown:208.2.27.10:4246
+
+Nov  4 11:12: New mud.
+fuckmud:204.17.163.11:4246
+
+Nov  4 11:12: Port change:
+Myths (194.119.129.222): 4445 -> 4246
+
+Nov  4 11:12: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Nov  4 11:15: Host change:
+Zeittunnel: 134.109.132.63 -> 134.109.72.27
+
+Nov  4 11:29: Host change:
+Wunderland: 139.18.11.161 -> 139.18.11.86
+
+Nov  4 12:18: New mud.
+Ulantris-Unknown:208.2.27.10:4246
+
+Nov  4 12:22: Host change:
+Aldebaran: 194.162.200.15 -> 194.162.27.5
+
+Nov  4 12:24: Host change:
+Ulantris: 206.109.153.66 -> 208.2.27.9
+
+Nov  4 13:12: Host change:
+Regenbogen: 141.76.1.2 -> 141.76.2.6
+
+Nov  4 13:12: New mud.
+MD:141.44.22.48:4246
+
+Nov  4 16:19: Host change:
+OuterSpace: 131.155.141.166 -> 131.155.141.2
+
+Nov  4 16:19: Port change:
+OuterSpace (131.155.141.2): 2500 -> 3002
+
+Nov  4 19:28: New mud.
+WL-Development:139.18.11.86:5256
+
+Nov  4 21:52: New mud.
+Ulantris-Unknown:208.2.27.10:4246
+
+Nov  4 21:52: New mud.
+fuckmud:204.17.163.11:4246
+
+Nov  4 21:52: Port change:
+Myths (194.119.129.222): 4445 -> 4246
+
+Nov  4 21:52: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Nov  4 21:54: Host change:
+Ulantris: 206.109.153.66 -> 208.2.27.9
+
+Nov  4 22:07: Host change:
+Aldebaran: 194.162.200.15 -> 194.162.27.5
+
+Nov  4 22:22: Host change:
+OuterSpace: 131.155.141.166 -> 131.155.141.2
+
+Nov  4 22:22: Port change:
+OuterSpace (131.155.141.2): 2500 -> 3002
+
+Nov  4 22:49: New mud.
+MD:141.44.22.48:4246
+
+Nov  4 23:30: Host change:
+Zeittunnel: 134.109.132.63 -> 134.109.72.27
+
+Nov  4 23:42: Host change:
+Regenbogen: 141.76.1.2 -> 141.76.2.6
+
+Nov  5 00:41: New mud.
+Kinthara:134.96.240.7:4246
+
+Nov  5 01:12: Host change:
+Wunderland: 139.18.11.161 -> 139.18.11.86
+
+Nov  5 03:11: Host change:
+Cosmos: 207.67.85.3 -> 216.111.160.141
+
+Nov  5 03:11: Port change:
+Cosmos (216.111.160.141): 5001 -> 4051
+
+Nov  5 05:08: New mud.
+WL-Development:139.18.11.86:5256
+
+Nov  5 07:05: New mud.
+Beutelland:193.170.72.212:4246
+
+Nov  5 10:04: Host change:
+Anderland: 194.94.224.181 -> 193.53.23.95
+
+Nov  5 17:46: New mud.
+Vacuum:24.4.188.13:4246
+
+Nov  6 07:59: Host change:
+GueldenLand: 194.163.252.41 -> 194.64.239.52
+
+Nov  6 16:05: Port change:
+Realmsmud (208.148.17.17): 4246 -> 4242
+
+Nov  6 16:27: Port change:
+Realmsmud (208.148.17.17): 4242 -> 4246
+
+Nov  6 20:51: Port change:
+Realmsmud (208.148.17.17): 4246 -> 4242
+
+Nov  7 12:03: Port change:
+Realmsmud (208.148.17.17): 4242 -> 4246
+
+Nov  7 13:17: Port change:
+Realmsmud (208.148.17.17): 4246 -> 4242
+
+Nov  7 14:59: Port change:
+Realmsmud (208.148.17.17): 4242 -> 4246
+
+Nov  8 09:38: Port change:
+Regenbogen (141.76.2.6): 4246 -> 5246
+
+Nov  8 09:46: Port change:
+Regenbogen (141.76.2.6): 5246 -> 4246
+
+Nov  8 13:18: New mud.
+fuckmud:204.17.163.11:4246
+
+Nov  8 13:18: Port change:
+Myths (194.119.129.222): 4445 -> 4246
+
+Nov  8 13:18: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Nov  8 13:18: New mud.
+Ulantris-Unknown:208.2.27.10:4246
+
+Nov  8 13:23: New mud.
+MD:141.44.22.48:4246
+
+Nov  8 13:27: Host change:
+Anderland: 194.94.224.181 -> 193.53.23.95
+
+Nov  8 13:38: Host change:
+Regenbogen: 141.76.1.2 -> 141.76.2.6
+
+Nov  8 13:48: Host change:
+Wunderland: 139.18.11.161 -> 139.18.11.86
+
+Nov  8 14:34: New mud.
+Vacuum:24.4.188.13:4246
+
+Nov  8 14:46: Host change:
+Zeittunnel: 134.109.132.63 -> 134.109.72.27
+
+Nov  8 16:14: Host change:
+OuterSpace: 131.155.141.166 -> 131.155.141.2
+
+Nov  8 16:14: Port change:
+OuterSpace (131.155.141.2): 2500 -> 3002
+
+Nov  8 17:09: Host change:
+Aldebaran: 194.162.200.15 -> 194.162.27.5
+
+Nov  8 19:25: Host change:
+Ulantris: 206.109.153.66 -> 208.2.27.10
+
+Nov  8 23:17: New mud.
+Kinthara:134.96.240.7:4246
+
+Nov  9 03:12: Host change:
+Cosmos: 207.67.85.3 -> 216.111.160.141
+
+Nov  9 03:12: Port change:
+Cosmos (216.111.160.141): 5001 -> 4051
+
+Nov  9 09:02: Host change:
+NewWorldMud: 204.252.20.9 -> 63.76.72.130
+
+Nov  9 09:52: New mud.
+Beutelland:193.170.72.212:4246
+
+Nov 10 04:33: Port change:
+Regenbogen (141.76.2.6): 4246 -> 5246
+
+Nov 10 05:07: Port change:
+Regenbogen (141.76.2.6): 5246 -> 4246
+
+Nov 11 05:14: Host change:
+GueldenLand: 194.163.252.41 -> 194.64.239.52
+
+Nov 11 22:16: Host change:
+Realmsmud: 208.148.17.17 -> 208.148.17.6
+
+Nov 11 22:16: Port change:
+Realmsmud (208.148.17.6): 4246 -> 4242
+
+Nov 12 03:20: channel from Wunderland failed.
+*Index out of bounds
+NAME:Wunderland|UDP:4246|CHANNEL:d-kultur|REQ:channel|SND:Holger|DATA:test
+
+Nov 12 03:23: channel from Wunderland failed.
+*Index out of bounds
+NAME:Wunderland|UDP:4246|CHANNEL:d-kultur|REQ:channel|SND:Holger|DATA:nochmal test
+
+Nov 12 03:24: channel from Wunderland failed.
+*Index out of bounds
+NAME:Wunderland|UDP:4246|CHANNEL:d-kultur|REQ:channel|SND:Holger|DATA:$1
+
+Nov 12 03:24: channel from Wunderland failed.
+*Index out of bounds
+NAME:Wunderland|UDP:4246|CHANNEL:d-kultur|REQ:channel|SND:Holger|DATA:$1
+
+Nov 12 03:28: channel from Wunderland failed.
+*Index out of bounds
+NAME:Wunderland|UDP:4246|CHANNEL:d-kultur|REQ:channel|SND:Holger|DATA:test
+
+Nov 12 03:57: channel from Wunderland failed.
+*Index out of bounds
+NAME:Wunderland|UDP:4246|CHANNEL:d-kultur|REQ:channel|SND:Pepsi|DATA:*wow* 8-|
+
+Nov 12 04:49: New mud.
+AL-Test-mero-13a:212.81.141.217:4246
+
+Nov 12 05:31: channel from Wunderland failed.
+*Index out of bounds
+NAME:Wunderland|UDP:4246|CHANNEL:d-kultur|REQ:channel|SND:Drbest|DATA:test
+
+Nov 12 06:06: channel from Wunderland failed.
+*Index out of bounds
+NAME:Wunderland|UDP:4246|CHANNEL:d-kultur|REQ:channel|SND:Ampelmann|DATA:hi
+
+Nov 13 01:03: Host change:
+AL-Test-mero-13a: 212.81.141.217 -> 212.81.141.78
+
+Nov 13 02:53: Host change:
+Realmsmud: 208.148.17.6 -> 208.148.17.17
+
+Nov 13 07:55: New mud.
+fuckmud:204.17.163.11:4246
+
+Nov 13 07:55: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Nov 13 08:00: New mud.
+MD:141.44.22.48:4246
+
+Nov 13 08:04: Host change:
+Wunderland: 139.18.11.161 -> 139.18.11.86
+
+Nov 13 08:09: Host change:
+Ulantris: 206.109.153.66 -> 208.2.27.10
+
+Nov 13 09:03: Host change:
+Zeittunnel: 134.109.132.63 -> 134.109.72.27
+
+Nov 13 10:38: Host change:
+Regenbogen: 141.76.1.2 -> 141.76.2.6
+
+Nov 13 10:55: Host change:
+Aldebaran: 194.162.200.15 -> 194.162.27.5
+
+Nov 13 11:23: Host change:
+Anderland: 194.94.224.181 -> 193.53.23.95
+
+Nov 13 14:24: Host change:
+OuterSpace: 131.155.141.166 -> 131.155.141.2
+
+Nov 13 14:24: Port change:
+OuterSpace (131.155.141.2): 2500 -> 3002
+
+Nov 13 17:42: Host change:
+Ulantris: 208.2.27.10 -> 208.2.27.9
+
+Nov 13 17:51: Host change:
+Ulantris: 208.2.27.9 -> 208.2.27.10
+
+Nov 13 17:57: Host change:
+Ulantris: 208.2.27.10 -> 208.2.27.9
+
+Nov 13 18:06: Host change:
+Ulantris: 208.2.27.9 -> 208.2.27.10
+
+Nov 13 18:12: Host change:
+Ulantris: 208.2.27.10 -> 208.2.27.9
+
+Nov 13 18:21: Host change:
+Ulantris: 208.2.27.9 -> 208.2.27.10
+
+Nov 13 18:27: Host change:
+Ulantris: 208.2.27.10 -> 208.2.27.9
+
+Nov 13 18:36: Host change:
+Ulantris: 208.2.27.9 -> 208.2.27.10
+
+Nov 13 18:42: Host change:
+Ulantris: 208.2.27.10 -> 208.2.27.9
+
+Nov 13 18:51: Host change:
+Ulantris: 208.2.27.9 -> 208.2.27.10
+
+Nov 13 18:57: Host change:
+Ulantris: 208.2.27.10 -> 208.2.27.9
+
+Nov 13 19:06: Host change:
+Ulantris: 208.2.27.9 -> 208.2.27.10
+
+Nov 13 19:12: Host change:
+Ulantris: 208.2.27.10 -> 208.2.27.9
+
+Nov 13 19:21: Host change:
+Ulantris: 208.2.27.9 -> 208.2.27.10
+
+Nov 13 19:27: Host change:
+Ulantris: 208.2.27.10 -> 208.2.27.9
+
+Nov 13 19:36: Host change:
+Ulantris: 208.2.27.9 -> 208.2.27.10
+
+Nov 13 19:43: Host change:
+Ulantris: 208.2.27.10 -> 208.2.27.9
+
+Nov 13 19:51: Host change:
+Ulantris: 208.2.27.9 -> 208.2.27.10
+
+Nov 13 19:57: Host change:
+Ulantris: 208.2.27.10 -> 208.2.27.9
+
+Nov 13 20:06: Host change:
+Ulantris: 208.2.27.9 -> 208.2.27.10
+
+Nov 13 20:12: Host change:
+Ulantris: 208.2.27.10 -> 208.2.27.9
+
+Nov 13 20:21: Host change:
+Ulantris: 208.2.27.9 -> 208.2.27.10
+
+Nov 13 20:27: Host change:
+Ulantris: 208.2.27.10 -> 208.2.27.9
+
+Nov 13 20:36: Host change:
+Ulantris: 208.2.27.9 -> 208.2.27.10
+
+Nov 13 20:42: Host change:
+Ulantris: 208.2.27.10 -> 208.2.27.9
+
+Nov 13 20:51: Host change:
+Ulantris: 208.2.27.9 -> 208.2.27.10
+
+Nov 13 20:51: Host change:
+Cosmos: 207.67.85.3 -> 216.111.160.141
+
+Nov 13 20:51: Port change:
+Cosmos (216.111.160.141): 5001 -> 4051
+
+Nov 13 20:57: Host change:
+Ulantris: 208.2.27.10 -> 208.2.27.9
+
+Nov 13 21:06: Host change:
+Ulantris: 208.2.27.9 -> 208.2.27.10
+
+Nov 13 21:12: Host change:
+Ulantris: 208.2.27.10 -> 208.2.27.9
+
+Nov 13 21:21: Host change:
+Ulantris: 208.2.27.9 -> 208.2.27.10
+
+Nov 14 02:46: who from fuckmud failed.
+*Failed to load file.
+NAME:fuckmud|UDP:4246|REQ:who|ID:366|SND:cursed
+
+Nov 14 12:41: New mud.
+Vacuum:24.4.188.13:4246
+
+Nov 14 19:11: Host change:
+Ulantris: 208.2.27.10 -> 208.2.27.9
+
+Nov 15 00:04: New mud.
+Kinthara:134.96.240.7:4246
+
+Nov 15 11:32: channel from Wunderland failed.
+*Index out of bounds
+NAME:Wunderland|UDP:4246|CHANNEL:d-kultur|REQ:channel|SND:Gast1|DATA:test
+
+Nov 15 11:34: channel from Wunderland failed.
+*Index out of bounds
+NAME:Wunderland|UDP:4246|CHANNEL:d-kultur|REQ:channel|SND:Gast1|DATA:test
+
+Nov 15 11:37: channel from Wunderland failed.
+*Index out of bounds
+NAME:Wunderland|UDP:4246|CHANNEL:d-kultur|REQ:channel|SND:Gast1|DATA:test
+
+Nov 15 11:38: channel from MD failed.
+*Index out of bounds
+CHANNEL:d-kultur|UDP:4246|REQ:channel|SND:Largo|NAME:MD|DATA:test
+
+Nov 15 12:27: channel from MD failed.
+*Index out of bounds
+CHANNEL:d-kultur|UDP:4246|REQ:channel|SND:Largo|NAME:MD|DATA:guggug holger :)
+
+Nov 15 12:27: channel from Wunderland failed.
+*Index out of bounds
+NAME:Wunderland|UDP:4246|CHANNEL:d-kultur|REQ:channel|SND:Holger|DATA:Hi Largo :)
+
+Nov 15 12:27: channel from Wunderland failed.
+*Index out of bounds
+NAME:Wunderland|UDP:4246|CHANNEL:d-kultur|REQ:channel|SND:Holger|DATA:mal bissl Aektschn hier machn
+
+Nov 15 12:27: channel from Wunderland failed.
+*Index out of bounds
+NAME:Wunderland|UDP:4246|CHANNEL:d-kultur|REQ:channel|SND:Sam|DATA:Jau
+
+Nov 15 12:27: channel from MD failed.
+*Index out of bounds
+CHANNEL:d-kultur|UDP:4246|REQ:channel|SND:Largo|NAME:MD|DATA:mach mer noch nen d-kanal auf? ich waere fuer D-Holger-Largo :) und description: 'lobpreisungen aller art' :)
+
+Nov 15 12:28: channel from Wunderland failed.
+*Index out of bounds
+NAME:Wunderland|UDP:4246|CHANNEL:d-kultur|REQ:channel|SND:Holger|DATA:D-Schmarrn hab ich auch im logfile gesehen :)
+
+Nov 15 12:28: channel from MD failed.
+*Index out of bounds
+CHANNEL:d-kultur|UDP:4246|REQ:channel|SND:Largo|NAME:MD|DATA:hm. gleich mal schaun
+
+Nov 15 12:29: channel from MD failed.
+*Index out of bounds
+CHANNEL:d-kultur|UDP:4246|REQ:channel|SND:Jemand|NAME:MD|DATA:auch will :)
+
+Nov 15 12:29: channel from MD failed.
+*Index out of bounds
+CHANNEL:d-kultur|UDP:4246|EMOTE:1|CMD:emote|REQ:channel|SND:Jemand|NAME:MD|DATA:==Psycho
+
+Nov 15 12:30: channel from Wunderland failed.
+*Index out of bounds
+NAME:Wunderland|UDP:4246|CHANNEL:d-kultur|REQ:channel|SND:Holger|DATA:Hi Jemand==Psycho
+
+Nov 15 12:30: channel from MD failed.
+*Index out of bounds
+CHANNEL:d-kultur|UDP:4246|REQ:channel|SND:Largo|NAME:MD|DATA:von wem hasten die D-Schmarrn-Requests gekriegt, Holger?
+
+Nov 15 12:31: channel from MD failed.
+*Index out of bounds
+CHANNEL:d-kultur|UDP:4246|REQ:channel|SND:Largo|NAME:MD|DATA:*huch* es gibt noch 'Intersex'
+
+Nov 15 12:31: channel from Wunderland failed.
+*Index out of bounds
+NAME:Wunderland|UDP:4246|CHANNEL:d-kultur|REQ:channel|SND:Holger|DATA:jap
+
+Nov 15 12:31: channel from Wunderland failed.
+*Index out of bounds
+EMOTE:1|CMD:emote|NAME:Wunderland|UDP:4246|CHANNEL:d-kultur|REQ:channel|SND:Holger|DATA:hat den wohlweisslich nicht aufgemacht
+
+Nov 15 12:32: channel from MD failed.
+*Index out of bounds
+CHANNEL:d-kultur|UDP:4246|EMOTE:1|CMD:emote|REQ:channel|SND:Largo|NAME:MD|DATA:stimmt dem Holger zu.
+
+Nov 15 12:32: channel from MD failed.
+*Index out of bounds
+CHANNEL:d-kultur|UDP:4246|REQ:channel|SND:Largo|NAME:MD|DATA:mir reichen die woechentlichen Sex-Mails aufm Mudaccount :)
+
+Nov 15 12:33: channel from Wunderland failed.
+*Index out of bounds
+NAME:Wunderland|UDP:4246|CHANNEL:d-kultur|REQ:channel|SND:Holger|DATA:tjaja, wenn die admins die immer irgendwo abgeben ;)
+
+Nov 15 12:33: channel from MD failed.
+*Index out of bounds
+CHANNEL:d-kultur|UDP:4246|REQ:channel|SND:Largo|NAME:MD|DATA:*pfft* :)
+
+Nov 15 14:01: channel from MD failed.
+*Index out of bounds
+CHANNEL:d-kultur|UDP:4246|REQ:channel|SND:Largo|NAME:MD|DATA:ich kenne die Weise, ich kenne den Text, ich kenn' auch die Herrn' Verfasser. Ich weiss, sie tranken heimlich Wein und predigten oeffentlich Wasser.
+
+Nov 15 14:01: channel from Wunderland failed.
+*Index out of bounds
+EMOTE:1|CMD:emote|NAME:Wunderland|UDP:4246|CHANNEL:d-kultur|REQ:channel|SND:Holger|DATA:grinst
+
+Nov 15 14:01: channel from MD failed.
+*Index out of bounds
+CHANNEL:d-kultur|UDP:4246|EMOTE:1|CMD:emote|REQ:channel|SND:Largo|NAME:MD|DATA:deutet auf den D-Chat.
+
+Nov 15 14:02: channel from Wunderland failed.
+*Index out of bounds
+NAME:Wunderland|UDP:4246|CHANNEL:d-kultur|REQ:channel|SND:Holger|DATA:D-Chat hab ich immer aus
+
+Nov 15 14:02: channel from MD failed.
+*Index out of bounds
+CHANNEL:d-kultur|UDP:4246|EMOTE:1|CMD:emote|REQ:channel|SND:Largo|NAME:MD|DATA:nickt.
+
+Nov 16 02:12: New mud.
+TestMud:134.109.72.27:4246
+
+Nov 16 03:14: New mud.
+Beutelland:128.130.46.137:4246
+
+Nov 16 09:52: New mud.
+MD-sebi:62.157.74.233:4246
+
+Nov 16 13:13: channel from MD failed.
+*Index out of bounds
+CHANNEL:d-kultur|UDP:4246|REQ:channel|SND:Largo|NAME:MD|DATA:bin ich da schon drin oder was??
+
+Nov 16 22:03: Host change:
+MD-sebi: 62.157.74.233 -> 62.157.74.219
+
+Nov 17 05:00: Host change:
+GueldenLand: 194.163.252.41 -> 194.64.239.52
+
+Nov 17 15:13: Host change:
+MD-sebi: 62.157.74.219 -> 62.157.74.244
+
+Nov 18 03:41: Port change:
+Regenbogen (141.76.2.6): 4246 -> 5246
+
+Nov 18 05:18: Port change:
+Regenbogen (141.76.2.6): 5246 -> 4246
+
+Nov 18 08:22: Host change:
+MD-sebi: 62.157.74.244 -> 62.157.75.94
+
+Nov 18 22:01: Host change:
+MD-sebi: 62.157.75.94 -> 62.157.75.112
+
+Nov 19 02:53: Port change:
+Realmsmud (208.148.17.17): 4246 -> 4242
+
+Nov 20 02:53: Port change:
+Realmsmud (208.148.17.17): 4242 -> 4246
+
+Nov 20 13:32: Host change:
+Realmsmud: 208.148.17.17 -> 208.148.17.6
+
+Nov 20 13:32: Port change:
+Realmsmud (208.148.17.6): 4246 -> 4242
+
+Nov 20 18:00: Host change:
+Realmsmud: 208.148.17.6 -> 208.148.17.17
+
+Nov 20 18:00: Port change:
+Realmsmud (208.148.17.17): 4242 -> 4246
+
+Nov 21 06:24: Host change:
+MD-sebi: 62.157.75.112 -> 62.157.74.235
+
+Nov 21 11:31: Host change:
+MD-sebi: 62.157.74.235 -> 62.157.74.229
+
+Nov 21 15:18: New mud.
+clone-of-TubMud:209.245.183.132:7683
+
+Nov 21 16:55: New mud.
+clone-of-Nephilim:209.245.183.132:7683
+
+Nov 22 01:10: Host change:
+MD-sebi: 62.157.74.229 -> 62.157.75.87
+
+Nov 22 23:54: Host change:
+MD-sebi: 62.157.75.87 -> 62.157.74.249
+
+Nov 23 00:47: Host change:
+MD-sebi: 62.157.74.249 -> 62.157.75.43
+
+Nov 23 09:52: Host change:
+MD-sebi: 62.157.75.43 -> 62.157.75.54
+
+Nov 23 13:20: Host change:
+MD-sebi: 62.157.75.54 -> 62.157.75.91
+
+Nov 23 13:56: channel from TubMud failed.
+*Index out of bounds
+CMD:0|req:channel|cmd:0|udp:7683|channel:chat|REQ:channel|UDP:7683|name:TubMud|SND:Perle|CHANNEL:chat|NAME:TubMud|snd:Perle|DATA:mit semikolon in der mitte koennte man den satz gerade noch einsehen. ohne hingegen...
+
+Nov 23 17:42: channel from Ithacas'Mud failed.
+*Index out of bounds
+CMD:0|UDP:6977|cmd:0|name:Ithacas'Mud|REQ:channel|udp:6977|req:channel|CHANNEL:chat|snd:Ted|channel:chat|SND:Ted|NAME:Ithacas'Mud|DATA:hi!
+
+Nov 24 22:03: New mud.
+fuckmud:204.17.163.11:4246
+
+Nov 24 22:04: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Nov 24 22:11: Host change:
+Ulantris: 206.109.153.66 -> 208.2.27.9
+
+Nov 24 22:21: New mud.
+Vacuum:24.4.188.13:4246
+
+Nov 24 22:59: New mud.
+fuckmud:204.17.163.11:4246
+
+Nov 24 22:59: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Nov 24 22:59: Host change:
+Ulantris: 206.109.153.66 -> 208.2.27.9
+
+Nov 24 23:01: New mud.
+fuckmud:204.17.163.11:4246
+
+Nov 24 23:01: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Nov 24 23:11: Host change:
+Ulantris: 206.109.153.66 -> 208.2.27.9
+
+Nov 25 00:39: New mud.
+MD-hugo:62.157.74.251:4246
+
+Nov 25 00:45: New mud.
+MD:141.44.22.48:4246
+
+Nov 25 01:02: Host change:
+Zeittunnel: 134.109.132.63 -> 134.109.72.27
+
+Nov 25 01:13: Host change:
+Aldebaran: 194.162.200.15 -> 194.162.27.5
+
+Nov 25 01:47: Host change:
+Regenbogen: 141.76.1.2 -> 141.76.2.6
+
+Nov 25 02:52: Host change:
+Wunderland: 139.18.11.161 -> 139.18.11.86
+
+Nov 25 03:02: Host change:
+Cosmos: 207.67.85.3 -> 216.111.160.141
+
+Nov 25 03:02: Port change:
+Cosmos (216.111.160.141): 5001 -> 4051
+
+Nov 25 07:33: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Nov 25 07:33: New mud.
+fuckmud:204.17.163.11:4246
+
+Nov 25 07:41: Host change:
+Ulantris: 206.109.153.66 -> 208.2.27.9
+
+Nov 25 08:05: New mud.
+MD:141.44.22.48:4246
+
+Nov 25 08:10: Host change:
+Zeittunnel: 134.109.132.63 -> 134.109.72.27
+
+Nov 25 08:31: New mud.
+Beutelland:128.130.46.137:4246
+
+Nov 25 10:13: Host change:
+Aldebaran: 194.162.200.15 -> 194.162.27.5
+
+Nov 25 10:40: Host change:
+Regenbogen: 141.76.1.2 -> 141.76.2.6
+
+Nov 25 10:51: Host change:
+Wunderland: 139.18.11.161 -> 139.18.11.86
+
+Nov 25 11:20: Host change:
+Anderland: 194.94.224.181 -> 193.53.23.95
+
+Nov 25 11:58: New mud.
+Vacuum:24.4.188.13:4246
+
+Nov 25 15:06: New mud.
+MD-hugo:62.157.75.93:4246
+
+Nov 25 15:21: Host change:
+MD-hugo: 62.157.75.93 -> 62.157.75.78
+
+Nov 25 23:29: New mud.
+Kinthara:134.96.240.7:4246
+
+Nov 26 03:03: Host change:
+Cosmos: 207.67.85.3 -> 216.111.160.141
+
+Nov 26 03:03: Port change:
+Cosmos (216.111.160.141): 5001 -> 4051
+
+Nov 26 04:06: channel from Wunderland failed.
+*Index out of bounds
+CMD:emote|NAME:Wunderland|UDP:4246|CHANNEL:d-kultur|REQ:channel|SND:Mneme|EMOTE:1|DATA:singt: You and me baby ain't nothing but mammals
+
+Nov 26 04:07: channel from Wunderland failed.
+*Index out of bounds
+NAME:Wunderland|UDP:4246|CHANNEL:d-kultur|REQ:channel|SND:Mneme|DATA:uupsi
+
+Nov 26 04:10: channel from Wunderland failed.
+*Index out of bounds
+CMD:emote|NAME:Wunderland|UDP:4246|CHANNEL:d-kultur|REQ:channel|SND:Snikett|EMOTE:1|DATA:singt : Maschendratzaun in de Morning
+
+Nov 26 04:11: channel from Wunderland failed.
+*Index out of bounds
+CMD:emote|NAME:Wunderland|UDP:4246|CHANNEL:d-kultur|REQ:channel|SND:Snikett|EMOTE:1|DATA:verlaesst auch diese Welt
+
+Nov 26 04:11: channel from Wunderland failed.
+*Index out of bounds
+NAME:Wunderland|UDP:4246|CHANNEL:d-kultur|REQ:channel|SND:Snikett|DATA:scheiss ebenen
+
+Nov 26 09:48: Host change:
+MD-hugo: 62.157.75.78 -> 62.157.75.80
+
+Nov 27 00:07: New mud.
+fuckmud:204.17.163.11:4246
+
+Nov 27 00:07: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Nov 27 00:11: Host change:
+Ulantris: 206.109.153.66 -> 208.2.27.9
+
+Nov 27 00:23: New mud.
+fuckmud:204.17.163.11:4246
+
+Nov 27 00:23: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Nov 27 00:26: Host change:
+Ulantris: 206.109.153.66 -> 208.2.27.9
+
+Nov 27 00:28: Host change:
+Zeittunnel: 134.109.132.63 -> 134.109.72.27
+
+Nov 27 01:14: Host change:
+Wunderland: 139.18.11.161 -> 139.18.11.86
+
+Nov 27 01:42: New mud.
+MD:141.44.22.48:4246
+
+Nov 27 01:47: New mud.
+MD-hugo:62.157.75.113:4246
+
+Nov 27 03:04: Host change:
+Cosmos: 207.67.85.3 -> 216.111.160.141
+
+Nov 27 03:04: Port change:
+Cosmos (216.111.160.141): 5001 -> 4051
+
+Nov 27 03:38: Host change:
+Regenbogen: 141.76.1.2 -> 141.76.2.6
+
+Nov 27 04:13: Host change:
+Aldebaran: 194.162.200.15 -> 194.162.27.5
+
+Nov 27 06:20: Host change:
+MD-hugo: 62.157.75.113 -> 62.157.74.204
+
+Nov 27 08:31: New mud.
+fuckmud:204.17.163.11:4246
+
+Nov 27 08:31: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Nov 27 08:31: Host change:
+Ulantris: 206.109.153.66 -> 208.2.27.9
+
+Nov 27 09:28: Host change:
+Aldebaran: 194.162.200.15 -> 194.162.27.5
+
+Nov 27 10:14: Host change:
+Wunderland: 139.18.11.161 -> 139.18.11.86
+
+Nov 27 10:49: New mud.
+MD:141.44.22.48:4246
+
+Nov 27 11:19: New mud.
+Vacuum:24.4.188.13:4246
+
+Nov 27 11:39: Host change:
+Zeittunnel: 134.109.132.63 -> 134.109.72.27
+
+Nov 27 11:46: Host change:
+Regenbogen: 141.76.1.2 -> 141.76.2.6
+
+Nov 27 12:00: Host change:
+Anderland: 194.94.224.181 -> 193.53.23.95
+
+Nov 27 15:36: New mud.
+testmud-of-TubMud:130.149.19.20:7683
+
+Nov 27 20:21: Host change:
+Realmsmud: 208.148.17.17 -> 208.148.17.6
+
+Nov 27 20:21: Port change:
+Realmsmud (208.148.17.6): 4246 -> 4242
+
+Nov 27 22:00: Host change:
+Realmsmud: 208.148.17.6 -> 208.148.17.17
+
+Nov 27 22:00: Port change:
+Realmsmud (208.148.17.17): 4242 -> 4246
+
+Nov 28 02:40: New mud.
+MD-hugo:62.157.74.250:4246
+
+Nov 28 03:03: Host change:
+Cosmos: 207.67.85.3 -> 216.111.160.141
+
+Nov 28 03:03: Port change:
+Cosmos (216.111.160.141): 5001 -> 4051
+
+Nov 28 06:32: Host change:
+GueldenLand: 194.163.252.41 -> 194.64.239.52
+
+Nov 28 07:56: Host change:
+MD-hugo: 62.157.74.250 -> 62.157.75.118
+
+Nov 28 17:34: Host change:
+MD-hugo: 62.157.75.118 -> 62.157.74.220
+
+Nov 28 19:33: New mud.
+Ulantris-Unknown:204.251.239.20:4246
+
+Nov 29 00:04: New mud.
+Kinthara:134.96.240.7:4246
+
+Nov 29 00:15: Host change:
+MD-hugo: 62.157.74.220 -> 62.157.74.230
+
+Nov 29 02:18: New mud.
+Beutelland:128.130.46.137:4246
+
+Nov 29 14:53: Host change:
+MD-hugo: 62.157.74.230 -> 62.157.75.78
+
+Nov 29 16:18: Host change:
+Regenbogen: 141.76.1.2 -> 141.76.2.6
+
+Nov 29 16:18: New mud.
+fuckmud:204.17.163.11:4246
+
+Nov 29 16:18: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Nov 29 16:23: New mud.
+Ulantris-Unknown:204.251.239.20:4246
+
+Nov 29 17:09: New mud.
+Vacuum:24.4.188.13:4246
+
+Nov 29 18:12: Host change:
+Zeittunnel: 134.109.132.63 -> 134.109.72.27
+
+Nov 29 20:59: Host change:
+Aldebaran: 194.162.200.15 -> 194.162.27.5
+
+Nov 29 22:29: New mud.
+Kinthara:134.96.240.7:4246
+
+Nov 30 00:17: Host change:
+Anderland: 194.94.224.181 -> 193.53.23.95
+
+Nov 30 02:51: Host change:
+Wunderland: 139.18.11.161 -> 139.18.11.86
+
+Nov 30 03:03: Host change:
+Cosmos: 207.67.85.3 -> 216.111.160.141
+
+Nov 30 03:03: Port change:
+Cosmos (216.111.160.141): 5001 -> 4051
+
+Nov 30 04:55: New mud.
+Beutelland:128.130.46.137:4246
+
+Nov 30 12:47: channel from AnderLand failed.
+*Index out of bounds
+SND:Mupfel|NAME:AnderLand|UDP:4246|CHANNEL:d-kultur|REQ:channel|DATA:sag jetzt bloss nichts, ich versteh nicht...
+
+Nov 30 13:00: channel from AnderLand failed.
+*Index out of bounds
+SND:Mupfel|NAME:AnderLand|UDP:4246|CHANNEL:d-kultur|REQ:channel|DATA:ist jemand da?
+
+Nov 30 13:00: channel from AnderLand failed.
+*Index out of bounds
+SND:Rain|NAME:AnderLand|UDP:4246|CHANNEL:d-kultur|REQ:channel|DATA:jepp
+
+Nov 30 21:33: Host change:
+Realmsmud: 208.148.17.17 -> 208.148.17.6
+
+Nov 30 21:33: Port change:
+Realmsmud (208.148.17.6): 4246 -> 4242
+
+Nov 30 21:48: New mud.
+MD-hugo:62.157.75.26:4246
+
+Dec  1 03:51: New mud.
+MD:141.44.22.48:4246
+
+Dec  1 03:59: Host change:
+GueldenLand: 194.163.252.41 -> 194.64.239.52
+
+Dec  1 14:31: Host change:
+Realmsmud: 208.148.17.6 -> 208.148.17.17
+
+Dec  1 14:31: Port change:
+Realmsmud (208.148.17.17): 4242 -> 4246
+
+Dec  2 00:33: Host change:
+MD-hugo: 62.157.75.26 -> 62.157.75.123
+
+Dec  2 21:57: Host change:
+MD-hugo: 62.157.75.123 -> 62.157.75.20
+
+Dec  3 21:09: Host change:
+Realmsmud: 208.148.17.17 -> 208.148.17.6
+
+Dec  3 21:09: Port change:
+Realmsmud (208.148.17.6): 4246 -> 4242
+
+Dec  3 22:01: Host change:
+Realmsmud: 208.148.17.6 -> 208.148.17.17
+
+Dec  3 22:01: Port change:
+Realmsmud (208.148.17.17): 4242 -> 4246
+
+Dec  3 22:04: Host change:
+Realmsmud: 208.148.17.17 -> 208.148.17.6
+
+Dec  3 22:04: Port change:
+Realmsmud (208.148.17.6): 4246 -> 4242
+
+Dec  4 12:13: Host change:
+MD-hugo: 62.157.75.20 -> 62.157.75.47
+
+Dec  4 17:01: New mud.
+fuckmud:204.17.163.11:4246
+
+Dec  4 17:02: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Dec  4 17:08: New mud.
+Ulantris-Unknown:204.251.239.20:4246
+
+Dec  4 17:50: Host change:
+Realmsmud: 208.148.17.17 -> 208.148.17.6
+
+Dec  4 17:50: Port change:
+Realmsmud (208.148.17.6): 4246 -> 4242
+
+Dec  4 18:01: Host change:
+Aldebaran: 194.162.200.15 -> 194.162.27.5
+
+Dec  4 19:31: Host change:
+Zeittunnel: 134.109.132.63 -> 134.109.72.27
+
+Dec  4 20:22: New mud.
+MD:141.44.22.48:4246
+
+Dec  4 20:55: Host change:
+Anderland: 194.94.224.181 -> 193.53.23.95
+
+Dec  4 23:56: Host change:
+Wunderland: 139.18.11.161 -> 139.18.11.86
+
+Dec  5 02:25: New mud.
+MD-hugo:62.157.74.248:4246
+
+Dec  5 02:53: Host change:
+Realmsmud: 208.148.17.6 -> 208.148.17.17
+
+Dec  5 02:53: Port change:
+Realmsmud (208.148.17.17): 4242 -> 4246
+
+Dec  5 03:05: Host change:
+Cosmos: 207.67.85.3 -> 216.111.160.141
+
+Dec  5 03:05: Port change:
+Cosmos (216.111.160.141): 5001 -> 4051
+
+Dec  5 04:29: Host change:
+MD-hugo: 62.157.74.248 -> 62.157.75.99
+
+Dec  5 06:36: Host change:
+MD-hugo: 62.157.75.99 -> 62.157.74.235
+
+Dec  5 12:33: Host change:
+MD-hugo: 62.157.74.235 -> 62.157.75.108
+
+Dec  5 12:50: New mud.
+Beutelland:128.130.46.137:4246
+
+Dec  5 16:19: Host change:
+MD-hugo: 62.157.75.108 -> 62.157.74.241
+
+Dec  5 22:22: New mud.
+Kinthara:134.96.240.7:4246
+
+Dec  6 00:20: Host change:
+Regenbogen: 141.76.1.2 -> 141.76.2.6
+
+Dec  6 00:24: Port change:
+Regenbogen (141.76.2.6): 4246 -> 5246
+
+Dec  6 00:24: Port change:
+Regenbogen (141.76.2.6): 5246 -> 4246
+
+Dec  6 11:57: Host change:
+MD-hugo: 62.157.74.241 -> 62.157.74.240
+
+Dec  6 20:56: Host change:
+Realmsmud: 208.148.17.17 -> 208.148.17.6
+
+Dec  6 20:56: Port change:
+Realmsmud (208.148.17.6): 4246 -> 4242
+
+Dec  6 21:44: Host change:
+Realmsmud: 208.148.17.6 -> 208.148.17.17
+
+Dec  6 21:44: Port change:
+Realmsmud (208.148.17.17): 4242 -> 4246
+
+Dec  6 21:45: Host change:
+Realmsmud: 208.148.17.17 -> 208.148.17.6
+
+Dec  6 22:04: Host change:
+Realmsmud: 208.148.17.6 -> 208.148.17.17
+
+Dec  6 22:04: Host change:
+Realmsmud: 208.148.17.17 -> 208.148.17.6
+
+Dec  6 22:04: Port change:
+Realmsmud (208.148.17.6): 4246 -> 4242
+
+Dec  8 23:28: New mud.
+fuckmud:204.17.163.11:4246
+
+Dec  8 23:28: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Dec  8 23:59: New mud.
+fuckmud:204.17.163.11:4246
+
+Dec  8 23:59: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Dec  9 00:09: New mud.
+Ulantris-Unknown:204.251.239.20:4246
+
+Dec  9 00:09: New mud.
+fuckmud:204.17.163.11:4246
+
+Dec  9 00:09: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Dec  9 00:59: New mud.
+MD:141.44.22.48:4246
+
+Dec  9 01:06: Host change:
+Aldebaran: 194.162.200.15 -> 194.162.27.5
+
+Dec  9 01:16: Host change:
+Zeittunnel: 134.109.132.63 -> 134.109.72.27
+
+Dec  9 01:19: Host change:
+Regenbogen: 141.76.1.2 -> 141.76.2.6
+
+Dec  9 02:49: Host change:
+Wunderland: 139.18.11.161 -> 139.18.11.86
+
+Dec  9 03:05: Host change:
+Cosmos: 207.67.85.3 -> 216.111.160.141
+
+Dec  9 03:05: Port change:
+Cosmos (216.111.160.141): 5001 -> 4051
+
+Dec  9 09:13: Port change:
+Regenbogen (141.76.2.6): 4246 -> 5246
+
+Dec  9 10:04: Port change:
+Regenbogen (141.76.2.6): 5246 -> 4246
+
+Dec  9 10:24: Port change:
+Regenbogen (141.76.2.6): 4246 -> 5246
+
+Dec  9 11:13: Port change:
+Regenbogen (141.76.2.6): 5246 -> 4246
+
+Dec  9 12:53: Host change:
+Realmsmud: 208.148.17.17 -> 208.148.17.6
+
+Dec  9 12:53: Port change:
+Realmsmud (208.148.17.6): 4246 -> 4242
+
+Dec  9 12:54: Host change:
+Realmsmud: 208.148.17.6 -> 208.148.17.17
+
+Dec  9 12:54: Port change:
+Realmsmud (208.148.17.17): 4242 -> 4246
+
+Dec  9 12:55: Host change:
+Realmsmud: 208.148.17.17 -> 208.148.17.6
+
+Dec  9 12:55: Port change:
+Realmsmud (208.148.17.6): 4246 -> 4242
+
+Dec  9 13:07: Host change:
+Realmsmud: 208.148.17.6 -> 208.148.17.17
+
+Dec  9 13:07: Port change:
+Realmsmud (208.148.17.17): 4242 -> 4246
+
+Dec  9 13:08: Host change:
+Realmsmud: 208.148.17.17 -> 208.148.17.6
+
+Dec  9 13:08: Port change:
+Realmsmud (208.148.17.6): 4246 -> 4242
+
+Dec  9 13:09: Host change:
+Realmsmud: 208.148.17.6 -> 208.148.17.17
+
+Dec  9 13:09: Port change:
+Realmsmud (208.148.17.17): 4242 -> 4246
+
+Dec  9 13:09: Host change:
+Realmsmud: 208.148.17.17 -> 208.148.17.6
+
+Dec  9 13:09: Port change:
+Realmsmud (208.148.17.6): 4246 -> 4242
+
+Dec  9 13:13: Host change:
+Realmsmud: 208.148.17.6 -> 208.148.17.17
+
+Dec  9 13:13: Port change:
+Realmsmud (208.148.17.17): 4242 -> 4246
+
+Dec  9 13:14: Host change:
+Realmsmud: 208.148.17.17 -> 208.148.17.6
+
+Dec  9 13:14: Port change:
+Realmsmud (208.148.17.6): 4246 -> 4242
+
+Dec  9 13:15: Host change:
+Realmsmud: 208.148.17.6 -> 208.148.17.17
+
+Dec  9 13:15: Port change:
+Realmsmud (208.148.17.17): 4242 -> 4246
+
+Dec  9 13:17: New mud.
+Realmstest:208.148.17.6:4242
+
+Dec  9 13:45: Host change:
+Anderland: 194.94.224.181 -> 193.53.23.95
+
+Dec  9 13:45: channel from AnderLand failed.
+*Index out of bounds
+SND:Mupfel|NAME:AnderLand|UDP:4246|CHANNEL:d-kultur|REQ:channel|DATA:deschd
+
+Dec  9 13:45: channel from AnderLand failed.
+*Index out of bounds
+SND:Mupfel|NAME:AnderLand|UDP:4246|CHANNEL:d-kultur|REQ:channel|DATA:scha ;)
+
+Dec  9 13:45: channel from AnderLand failed.
+*Index out of bounds
+SND:Mupfel|NAME:AnderLand|UDP:4246|CHANNEL:d-kultur|REQ:channel|DATA:empfaengt das eigentlich wer? ;)
+
+Dec  9 13:45: channel from Wunderland failed.
+*Index out of bounds
+REQ:channel|SND:Holger|CHANNEL:d-kultur|NAME:Wunderland|UDP:4246|DATA:ja ich :)
+
+Dec  9 13:46: channel from Wunderland failed.
+*Index out of bounds
+REQ:channel|SND:Holger|CHANNEL:d-kultur|NAME:Wunderland|UDP:4246|DATA:Hi Mupfel
+
+Dec  9 14:17: New mud.
+MD-hugo:62.157.74.238:4246
+
+Dec  9 22:27: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Dec  9 22:27: New mud.
+fuckmud:204.17.163.11:4246
+
+Dec  9 22:38: New mud.
+Ulantris-Unknown:204.251.239.20:4246
+
+Dec  9 22:43: New mud.
+MD:141.44.22.48:4246
+
+Dec  9 22:45: Host change:
+Zeittunnel: 134.109.132.63 -> 134.109.72.27
+
+Dec  9 23:32: Host change:
+Regenbogen: 141.76.1.2 -> 141.76.2.6
+
+Dec 10 00:23: New mud.
+Kinthara:134.96.240.7:4246
+
+Dec 10 01:52: Host change:
+Aldebaran: 194.162.200.15 -> 194.162.27.5
+
+Dec 10 03:06: Host change:
+Cosmos: 207.67.85.3 -> 216.111.160.141
+
+Dec 10 03:06: Port change:
+Cosmos (216.111.160.141): 5001 -> 4051
+
+Dec 10 04:00: New mud.
+MD-hugo:62.157.74.204:4246
+
+Dec 10 04:23: Host change:
+Wunderland: 139.18.11.161 -> 139.18.11.86
+
+Dec 10 08:52: New mud.
+Beutelland:128.130.46.137:4246
+
+Dec 10 11:21: Host change:
+Anderland: 194.94.224.181 -> 193.53.23.95
+
+Dec 10 13:48: Host change:
+NewWorldMud: 204.252.20.9 -> 63.76.72.130
+
+Dec 10 15:07: New mud.
+Realmstest:208.148.17.6:4242
+
+Dec 10 22:54: Host change:
+Timewarp-RENEGADE: 204.89.144.23 -> 204.71.157.202
+
+Dec 10 22:54: Port change:
+Timewarp-RENEGADE (204.71.157.202): 4247 -> 5151
+
+Dec 11 06:27: Host change:
+MD-hugo: 62.157.74.204 -> 62.157.74.233
+
+Dec 12 04:07: Host change:
+MD-hugo: 62.157.74.233 -> 62.157.75.82
+
+Dec 12 10:07: Host change:
+MD-hugo: 62.157.75.82 -> 62.157.74.219
+
+Dec 12 10:43: Host change:
+MD-hugo: 62.157.74.219 -> 62.157.75.76
+
+Dec 12 12:44: Host change:
+MD-hugo: 62.157.75.76 -> 62.157.74.228
+
+Dec 13 08:52: Host change:
+MD-hugo: 62.157.74.228 -> 62.157.75.17
+
+Dec 13 08:59: New mud.
+Vacuum:24.4.188.13:4246
+
+Dec 13 18:26: Host change:
+Ulantris: 206.109.153.66 -> 204.251.239.20
+
+Dec 13 23:52: Host change:
+MD-hugo: 62.157.75.17 -> 62.157.75.99
+
+Dec 14 01:12: channel from Wunderland failed.
+*Index out of bounds
+EMOTE:1|CMD:emote|NAME:Wunderland|UDP:4246|CHANNEL:d-kultur|REQ:channel|SND:Mneme|DATA:singt: diese nacht blieb dir verbiorgen,m doch du darfst nicht traurig sein
+
+Dec 14 09:16: Host change:
+MD-hugo: 62.157.75.99 -> 62.157.75.85
+
+Dec 14 10:33: finger from fuckmud failed.
+*Bad argument 1 to implode()
+NAME:fuckmud|SND:michael|ID:229|UDP:4246|REQ:finger|DATA:gabriel
+
+Dec 15 02:33: Host change:
+GueldenLand: 194.163.252.41 -> 194.64.239.52
+
+Dec 15 08:28: New mud.
+MD-csmd42:141.44.22.42:4246
+
+Dec 15 08:41: Host change:
+MD: 141.44.22.48 -> 141.44.22.42
+
+Dec 15 22:50: New mud.
+MD-csmd48:141.44.22.48:4246
+
+Dec 16 04:30: Host change:
+MD: 141.44.22.42 -> 141.44.22.48
+
+Dec 16 07:09: Host change:
+MD-hugo: 62.157.75.85 -> 62.157.75.20
+
+Dec 16 09:16: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Dec 16 09:26: Host change:
+Ulantris: 206.109.153.66 -> 204.251.239.20
+
+Dec 16 12:02: Host change:
+Zeittunnel: 134.109.132.63 -> 134.109.72.27
+
+Dec 16 12:02: Host change:
+Cosmos: 207.67.85.3 -> 216.111.160.141
+
+Dec 16 12:02: Port change:
+Cosmos (216.111.160.141): 5001 -> 4051
+
+Dec 16 12:06: New mud.
+Kinthara:134.96.240.7:4246
+
+Dec 16 12:06: Host change:
+Anderland: 194.94.224.181 -> 193.53.23.95
+
+Dec 16 12:16: Host change:
+Regenbogen: 141.76.1.2 -> 141.76.2.6
+
+Dec 16 12:22: Host change:
+Wunderland: 139.18.11.161 -> 139.18.11.86
+
+Dec 16 12:42: Host change:
+Aldebaran: 194.162.200.15 -> 194.162.27.5
+
+Dec 16 13:42: New mud.
+MD:141.44.22.48:4246
+
+Dec 16 20:52: New mud.
+fuckmud:204.17.163.11:4246
+
+Dec 16 22:21: New mud.
+MD-hugo:62.157.75.109:4246
+
+Dec 17 00:34: New mud.
+Beutelland:128.130.46.137:4246
+
+Dec 17 14:58: Port change:
+Regenbogen (141.76.2.6): 4246 -> 5246
+
+Dec 17 16:42: Port change:
+Regenbogen (141.76.2.6): 5246 -> 4246
+
+Dec 18 11:21: Host change:
+ChaosMUD: 209.140.34.152 -> 209.140.34.130
+
+Dec 19 03:20: Host change:
+MD-hugo: 62.157.75.109 -> 62.157.74.210
+
+Dec 19 07:29: Host change:
+MD-hugo: 62.157.74.210 -> 62.157.75.121
+
+Dec 19 12:53: channel from Aldebaran failed.
+*Index out of bounds
+SND:Mambres|CHANNEL:d-dur|REQ:channel|NAME:Aldebaran|UDP:4246|DATA:Weihnachtsoratorium, 1. Satz. 
+
+Dec 20 00:36: Host change:
+MD-hugo: 62.157.75.121 -> 62.157.75.109
+
+Dec 20 08:20: Host change:
+MD-hugo: 62.157.75.109 -> 62.157.74.249
+
+Dec 20 09:28: Host change:
+GueldenLand: 194.163.252.41 -> 194.64.239.52
+
+Dec 20 17:44: Host change:
+Timewarp-RENEGADE: 204.89.144.23 -> 204.71.157.202
+
+Dec 20 17:44: Port change:
+Timewarp-RENEGADE (204.71.157.202): 4247 -> 5151
+
+Dec 21 01:04: Host change:
+MD-hugo: 62.157.74.249 -> 62.157.74.229
+
+Dec 21 20:53: New mud.
+fuckmud:204.17.163.11:4246
+
+Dec 21 20:53: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Dec 21 20:55: Host change:
+Ulantris: 206.109.153.66 -> 204.251.239.20
+
+Dec 21 21:25: New mud.
+MD:141.44.22.48:4246
+
+Dec 21 21:48: Host change:
+Zeittunnel: 134.109.132.63 -> 134.109.72.27
+
+Dec 21 22:06: Host change:
+Aldebaran: 194.162.200.15 -> 194.162.27.5
+
+Dec 21 22:51: New mud.
+MD-hugo:62.157.75.59:4246
+
+Dec 21 23:37: New mud.
+Kinthara:134.96.240.7:4246
+
+Dec 21 23:37: Host change:
+Regenbogen: 141.76.1.2 -> 141.76.2.6
+
+Dec 21 23:48: Host change:
+Wunderland: 139.18.11.161 -> 139.18.11.86
+
+Dec 22 03:08: Host change:
+Cosmos: 207.67.85.3 -> 216.111.160.141
+
+Dec 22 03:08: Port change:
+Cosmos (216.111.160.141): 5001 -> 4051
+
+Dec 22 04:03: Host change:
+Anderland: 194.94.224.181 -> 193.53.23.95
+
+Dec 23 15:06: Host change:
+MD-hugo: 62.157.75.59 -> 62.157.75.95
+
+Dec 24 00:05: Host change:
+MD-hugo: 62.157.75.95 -> 62.157.75.27
+
+Dec 24 23:34: Host change:
+MD-hugo: 62.157.75.27 -> 62.157.75.13
+
+Dec 25 00:25: Host change:
+MD-hugo: 62.157.75.13 -> 62.157.74.231
+
+Dec 25 04:43: Host change:
+WinterKill: 192.83.57.1 -> 130.232.72.30
+
+Dec 25 05:44: channel from Winterkill failed.
+*Bad argument 1 to switch()
+snd:cendor|channel:intermud|name:Winterkill|REQ:channel|SND:cendor|req:channel|CMD:1|CHANNEL:intermud|udp:4246|UDP:4246|NAME:Winterkill|cmd:1|DATA:*smiles.*
+
+Dec 25 23:30: channel from Winterkill failed.
+*Bad argument 1 to member()
+REQ:channel|UDP:4246|SND:cendor|CMD:0|udp:4246|snd:cendor|cmd:0|CHANNEL:0|channel:0|req:channel|NAME:Winterkill|name:Winterkill|DATA:list
+
+Dec 25 23:33: channel from Winterkill failed.
+*Bad argument 1 to member()
+REQ:channel|UDP:4246|SND:cendor|CMD:0|CHANNEL:0|udp:4246|channel:0|req:channel|snd:cendor|NAME:Winterkill|cmd:0|name:Winterkill|DATA:list
+
+Dec 26 09:55: New mud.
+fuckmud:204.17.163.11:4246
+
+Dec 26 09:55: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Dec 26 09:55: Host change:
+Ulantris: 206.109.153.66 -> 204.251.239.20
+
+Dec 26 10:22: Host change:
+Aldebaran: 194.162.200.15 -> 194.162.27.5
+
+Dec 26 10:23: New mud.
+MD:141.44.22.48:4246
+
+Dec 26 11:14: Host change:
+Cosmos: 207.67.85.3 -> 216.111.160.141
+
+Dec 26 11:14: Port change:
+Cosmos (216.111.160.141): 5001 -> 4051
+
+Dec 26 12:06: Host change:
+Anderland: 194.94.224.181 -> 193.53.23.95
+
+Dec 26 12:11: Host change:
+Regenbogen: 141.76.1.2 -> 141.76.2.6
+
+Dec 26 13:08: Host change:
+GueldenLand: 194.163.252.41 -> 194.64.239.52
+
+Dec 26 13:22: Host change:
+Zeittunnel: 134.109.132.63 -> 134.109.72.27
+
+Dec 26 19:09: Host change:
+Wunderland: 139.18.11.161 -> 139.18.11.86
+
+Dec 26 22:12: Host change:
+WinterKill: 192.83.57.1 -> 130.232.72.30
+
+Dec 26 23:23: channel from Winterkill failed.
+*Index out of bounds
+snd:cendor|channel:lpc|REQ:channel|CMD:0|NAME:Winterkill|cmd:0|name:Winterkill|req:channel|udp:4246|SND:cendor|UDP:4246|CHANNEL:lpc|DATA:test
+
+Dec 27 05:14: New mud.
+Beutelland:128.130.46.137:4246
+
+Dec 27 14:24: New mud.
+Kinthara:134.96.240.7:4246
+
+Dec 28 11:28: Port change:
+Regenbogen (141.76.2.6): 4246 -> 5246
+
+Dec 29 08:42: Port change:
+Regenbogen (141.76.2.6): 5246 -> 4246
+
+Dec 29 18:43: New mud.
+Realmstest:208.148.17.6:4242
+
+Dec 31 14:54: Host change:
+Timewarp-RENEGADE: 204.89.144.23 -> 204.71.157.202
+
+Dec 31 14:54: Port change:
+Timewarp-RENEGADE (204.71.157.202): 4247 -> 5151
+
+Jan  1 04:32: New mud.
+MD-hugo:62.157.75.20:4246
+
+Jan  1 18:06: New mud.
+Tazmania:216.39.141.49:9998
+
+Jan  2 07:04: Host change:
+MD-hugo: 62.157.75.20 -> 62.157.75.122
+
+Jan  2 15:10: Host change:
+MD-hugo: 62.157.75.122 -> 62.157.75.94
+
+Jan  3 06:46: Host change:
+MD-hugo: 62.157.75.94 -> 62.157.75.21
+
+Jan  3 12:21: New mud.
+ForgottenDreams:134.2.170.190:4246
+
+Jan  3 13:16: Host change:
+Myths: 194.119.129.222 -> 204.201.254.133
+
+Jan  3 13:16: Port change:
+Myths (204.201.254.133): 4445 -> 4246
+
+Jan  3 15:47: Host change:
+MD-hugo: 62.157.75.21 -> 62.157.75.24
+
+Jan  4 00:09: Host change:
+MD-hugo: 62.157.75.24 -> 62.157.75.25
+
+Jan  4 22:27: Host change:
+MD-hugo: 62.157.75.25 -> 62.157.75.22
+
+Jan  5 07:31: New mud.
+fuckmud:204.17.163.11:4246
+
+Jan  5 07:31: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Jan  5 07:40: Host change:
+Ulantris: 206.109.153.66 -> 204.251.239.20
+
+Jan  5 07:48: Host change:
+Zeittunnel: 134.109.132.63 -> 134.109.72.27
+
+Jan  5 09:02: New mud.
+MD:141.44.22.48:4246
+
+Jan  5 09:03: Host change:
+GueldenLand: 194.163.252.41 -> 194.64.239.52
+
+Jan  5 09:03: Host change:
+Regenbogen: 141.76.1.2 -> 141.76.2.6
+
+Jan  5 09:04: Host change:
+Wunderland: 139.18.11.161 -> 139.18.11.86
+
+Jan  5 09:05: Host change:
+Anderland: 194.94.224.181 -> 193.53.23.95
+
+Jan  5 10:22: New mud.
+Maethos:204.71.156.6:4246
+
+Jan  5 10:23: New mud.
+MD-hugo:62.157.75.22:4246
+
+Jan  5 10:56: New mud.
+Beutelland:128.130.46.137:4246
+
+Jan  5 12:30: Host change:
+Aldebaran: 194.162.200.15 -> 194.162.27.5
+
+Jan  5 18:58: Host change:
+Cosmos: 207.67.85.3 -> 216.111.160.141
+
+Jan  5 18:58: Port change:
+Cosmos (216.111.160.141): 5001 -> 4051
+
+Jan  5 21:19: New mud.
+ForgottenDreams:134.2.170.190:4246
+
+Jan  6 00:06: Host change:
+MD-hugo: 62.157.75.22 -> 62.157.74.240
+
+Jan  6 16:18: New mud.
+Tazmania:216.39.170.31:9998
+
+Jan  7 01:43: New mud.
+Lothlorien:195.37.118.247:11115
+
+Jan  7 08:21: New mud.
+Noname-Mud:141.89.48.225:4246
+
+Jan  7 13:31: Host change:
+WinterKill: 192.83.57.1 -> 130.232.72.30
+
+Jan  7 21:42: New mud.
+Realmstest:208.148.17.6:4242
+
+Jan  9 02:38: Host change:
+MD-hugo: 62.157.74.240 -> 62.157.75.54
+
+Jan  9 22:36: Host change:
+MD-hugo: 62.157.75.54 -> 62.157.74.222
+
+Jan 10 00:16: New mud.
+Kinthara:134.96.240.7:4246
+
+Jan 10 10:12: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Jan 10 10:12: New mud.
+fuckmud:204.17.163.11:4246
+
+Jan 10 10:14: Host change:
+Ulantris: 206.109.153.66 -> 204.251.239.20
+
+Jan 10 10:25: New mud.
+MD-hugo:62.157.75.98:4246
+
+Jan 10 12:12: Host change:
+Regenbogen: 141.76.1.2 -> 141.76.2.6
+
+Jan 10 12:53: Host change:
+Wunderland: 139.18.11.161 -> 139.18.11.86
+
+Jan 10 12:57: Host change:
+Zeittunnel: 134.109.132.63 -> 134.109.72.27
+
+Jan 10 13:01: Host change:
+Aldebaran: 194.162.200.15 -> 194.162.27.5
+
+Jan 10 13:08: Host change:
+Cosmos: 207.67.85.3 -> 216.111.160.141
+
+Jan 10 13:08: Port change:
+Cosmos (216.111.160.141): 5001 -> 4051
+
+Jan 10 13:38: Host change:
+Anderland: 194.94.224.181 -> 193.53.23.95
+
+Jan 10 13:47: New mud.
+MD:141.44.22.48:4246
+
+Jan 10 21:14: New mud.
+ForgottenDreams:134.2.170.190:4246
+
+Jan 10 22:21: Host change:
+MD-hugo: 62.157.75.98 -> 62.157.75.52
+
+Jan 11 00:05: New mud.
+Kinthara:134.96.240.7:4246
+
+Jan 11 01:01: New mud.
+Beutelland:128.130.46.137:4246
+
+Jan 11 08:04: Host change:
+MD-hugo: 62.157.75.52 -> 62.157.75.88
+
+Jan 11 08:29: New mud.
+MD:141.44.22.48:4246
+
+Jan 11 08:29: New mud.
+fuckmud:204.17.163.11:4246
+
+Jan 11 08:29: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Jan 11 08:29: Host change:
+Ulantris: 206.109.153.66 -> 204.251.239.20
+
+Jan 11 08:37: New mud.
+fuckmud:204.17.163.11:4246
+
+Jan 11 08:37: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Jan 11 08:45: Host change:
+Ulantris: 206.109.153.66 -> 204.251.239.20
+
+Jan 11 08:45: New mud.
+fuckmud:204.17.163.11:4246
+
+Jan 11 08:45: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Jan 11 09:00: Host change:
+Regenbogen: 141.76.1.2 -> 141.76.2.6
+
+Jan 11 09:15: New mud.
+Universe:141.89.48.225:4246
+
+Jan 11 09:21: Host change:
+Zeittunnel: 134.109.132.63 -> 134.109.72.27
+
+Jan 11 09:25: New mud.
+fuckmud:204.17.163.11:4246
+
+Jan 11 09:25: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Jan 11 09:25: New mud.
+MD:141.44.22.48:4246
+
+Jan 11 09:29: Host change:
+Ulantris: 206.109.153.66 -> 204.251.239.20
+
+Jan 11 09:41: New mud.
+fuckmud:204.17.163.11:4246
+
+Jan 11 09:41: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Jan 11 09:44: Host change:
+Ulantris: 206.109.153.66 -> 204.251.239.20
+
+Jan 11 09:45: New mud.
+Universe:141.89.48.225:4246
+
+Jan 11 09:49: New mud.
+fuckmud:204.17.163.11:4246
+
+Jan 11 09:49: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Jan 11 09:57: New mud.
+fuckmud:204.17.163.11:4246
+
+Jan 11 09:57: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Jan 11 09:59: Host change:
+Ulantris: 206.109.153.66 -> 204.251.239.20
+
+Jan 11 10:01: Host change:
+Aldebaran: 194.162.200.15 -> 194.162.27.5
+
+Jan 11 10:06: Host change:
+Anderland: 194.94.224.181 -> 193.53.23.95
+
+Jan 11 10:10: New mud.
+MD:141.44.22.48:4246
+
+Jan 11 10:13: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Jan 11 10:13: New mud.
+fuckmud:204.17.163.11:4246
+
+Jan 11 10:14: Host change:
+Ulantris: 206.109.153.66 -> 204.251.239.20
+
+Jan 11 10:29: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Jan 11 10:29: New mud.
+fuckmud:204.17.163.11:4246
+
+Jan 11 10:29: Host change:
+Ulantris: 206.109.153.66 -> 204.251.239.20
+
+Jan 11 10:48: New mud.
+fuckmud:204.17.163.11:4246
+
+Jan 11 10:49: Host change:
+Ulantris: 206.109.153.66 -> 204.251.239.20
+
+Jan 11 10:49: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Jan 11 11:04: New mud.
+fuckmud:204.17.163.11:4246
+
+Jan 11 11:04: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Jan 11 11:04: Host change:
+Ulantris: 206.109.153.66 -> 204.251.239.20
+
+Jan 11 11:10: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Jan 11 11:10: New mud.
+fuckmud:204.17.163.11:4246
+
+Jan 11 11:14: Host change:
+Ulantris: 206.109.153.66 -> 204.251.239.20
+
+Jan 11 11:18: New mud.
+fuckmud:204.17.163.11:4246
+
+Jan 11 11:18: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Jan 11 11:34: New mud.
+fuckmud:204.17.163.11:4246
+
+Jan 11 11:34: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Jan 11 11:34: Host change:
+Ulantris: 206.109.153.66 -> 204.251.239.20
+
+Jan 11 11:42: New mud.
+fuckmud:204.17.163.11:4246
+
+Jan 11 11:42: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Jan 11 11:44: Host change:
+Ulantris: 206.109.153.66 -> 204.251.239.20
+
+Jan 11 11:44: Host change:
+Cosmos: 207.67.85.3 -> 216.111.160.141
+
+Jan 11 11:44: Port change:
+Cosmos (216.111.160.141): 5001 -> 4051
+
+Jan 11 11:50: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Jan 11 11:50: New mud.
+fuckmud:204.17.163.11:4246
+
+Jan 11 11:52: Host change:
+Cosmos: 207.67.85.3 -> 216.111.160.141
+
+Jan 11 11:52: Port change:
+Cosmos (216.111.160.141): 5001 -> 4051
+
+Jan 11 11:59: Host change:
+Ulantris: 206.109.153.66 -> 204.251.239.20
+
+Jan 11 12:02: New mud.
+MD:141.44.22.48:4246
+
+Jan 11 12:33: Host change:
+Zeittunnel: 134.109.132.63 -> 134.109.72.27
+
+Jan 11 13:02: New mud.
+fuckmud:204.17.163.11:4246
+
+Jan 11 13:02: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Jan 11 13:02: Host change:
+Ulantris: 206.109.153.66 -> 204.251.239.20
+
+Jan 11 13:26: Host change:
+Regenbogen: 141.76.1.2 -> 141.76.2.6
+
+Jan 11 13:36: New mud.
+MD-hugo:62.157.75.32:4246
+
+Jan 11 14:17: Host change:
+Wunderland: 139.18.11.161 -> 139.18.11.86
+
+Jan 11 15:17: New mud.
+MD:141.44.22.48:4246
+
+Jan 11 16:01: Host change:
+Aldebaran: 194.162.200.15 -> 194.162.27.5
+
+Jan 11 16:52: Host change:
+Cosmos: 207.67.85.3 -> 216.111.160.141
+
+Jan 11 16:52: Port change:
+Cosmos (216.111.160.141): 5001 -> 4051
+
+Jan 11 16:56: Host change:
+Zeittunnel: 134.109.132.63 -> 134.109.72.27
+
+Jan 11 21:14: New mud.
+ForgottenDreams:134.2.170.190:4246
+
+Jan 12 00:21: Host change:
+MD-hugo: 62.157.75.32 -> 62.157.75.120
+
+Jan 12 00:23: Port change:
+Regenbogen (141.76.2.6): 4246 -> 5246
+
+Jan 12 01:28: Port change:
+Regenbogen (141.76.2.6): 5246 -> 4246
+
+Jan 12 01:29: New mud.
+Beutelland:128.130.46.137:4246
+
+Jan 12 01:40: New mud.
+Kinthara:134.96.240.7:4246
+
+Jan 12 07:39: Host change:
+GueldenLand: 194.163.252.41 -> 194.64.239.52
+
+Jan 12 08:03: Host change:
+Anderland: 194.94.224.181 -> 193.53.23.95
+
+Jan 12 08:24: Host change:
+Seifenblase: 141.7.1.39 -> 141.7.15.10
+
+Jan 12 12:59: New mud.
+Renegade:204.71.157.202:5151
+
+Jan 12 13:56: Host change:
+Seifenblase: 141.7.15.10 -> 212.81.144.101
+
+Jan 12 13:56: Host change:
+Spuelwasser: 141.7.15.10 -> 212.81.144.101
+
+Jan 12 14:37: New mud.
+Simulacron-3:134.169.140.34:3335
+
+Jan 12 20:10: Host change:
+Seifenblase: 212.81.144.101 -> 141.7.15.10
+
+Jan 12 23:28: Host change:
+Seifenblase: 141.7.1.39 -> 141.7.15.10
+
+Jan 12 23:28: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Jan 12 23:28: New mud.
+fuckmud:204.17.163.11:4246
+
+Jan 12 23:30: Host change:
+Ulantris: 206.109.153.66 -> 204.251.239.20
+
+Jan 12 23:48: New mud.
+MD-hugo:62.157.75.40:4246
+
+Jan 12 23:49: Host change:
+Regenbogen: 141.76.1.2 -> 141.76.2.6
+
+Jan 12 23:49: New mud.
+Kinthara:134.96.240.7:4246
+
+Jan 13 00:04: New mud.
+MD:141.44.22.48:4246
+
+Jan 13 00:08: Host change:
+Anderland: 194.94.224.181 -> 193.53.23.95
+
+Jan 13 00:46: Host change:
+Zeittunnel: 134.109.132.63 -> 134.109.72.27
+
+Jan 13 02:01: Host change:
+Aldebaran: 194.162.200.15 -> 194.162.27.5
+
+Jan 13 02:25: New mud.
+ForgottenDreams:134.2.170.190:4246
+
+Jan 13 02:37: Host change:
+Wunderland: 139.18.11.161 -> 139.18.11.86
+
+Jan 13 03:13: Host change:
+Cosmos: 207.67.85.3 -> 216.111.160.141
+
+Jan 13 03:13: Port change:
+Cosmos (216.111.160.141): 5001 -> 4051
+
+Jan 13 08:24: Host change:
+GueldenLand: 194.163.252.41 -> 194.64.239.52
+
+Jan 13 08:36: New mud.
+Simulacron-3:134.169.140.34:3335
+
+Jan 13 14:39: New mud.
+Vacuum:24.4.188.13:4246
+
+Jan 14 00:33: New mud.
+Beutelland:128.130.46.137:4246
+
+Jan 14 05:17: Host change:
+MD-hugo: 62.157.75.40 -> 62.157.74.222
+
+Jan 15 07:45: New mud.
+Universe:141.89.48.225:4246
+
+Jan 15 22:46: New mud.
+Tazmania:216.39.170.31:9998
+
+Jan 16 04:27: Host change:
+MD-hugo: 62.157.74.222 -> 62.157.75.41
+
+Jan 16 11:18: New mud.
+Maethos:204.71.156.6:4246
+
+Jan 16 15:25: Port change:
+Tazmania (216.39.170.31): 9998 -> 6968
+
+Jan 16 15:38: Host change:
+MD-hugo: 62.157.75.41 -> 62.157.75.83
+
+Jan 16 15:44: Port change:
+Tazmania (216.39.170.31): 6968 -> 9998
+
+Jan 16 19:53: New mud.
+Realmstest:208.148.17.6:4242
+
+Jan 16 21:51: Port change:
+Tazmania (216.39.170.31): 9998 -> 6968
+
+Jan 16 23:49: Host change:
+MD-hugo: 62.157.75.83 -> 62.157.75.90
+
+Jan 17 08:45: New mud.
+Renegade:204.71.157.202:5151
+
+Jan 17 09:43: Host change:
+MD-hugo: 62.157.75.90 -> 62.157.74.219
+
+Jan 17 13:09: Host change:
+WinterKill: 192.83.57.1 -> 130.232.72.30
+
+Jan 18 04:17: Host change:
+MD-hugo: 62.157.74.219 -> 62.157.75.25
+
+Jan 18 21:29: Host change:
+Seifenblase: 141.7.1.39 -> 141.7.15.10
+
+Jan 18 21:29: New mud.
+fuckmud:204.17.163.11:4246
+
+Jan 18 21:29: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Jan 18 21:30: Host change:
+Ulantris: 206.109.153.66 -> 204.251.239.20
+
+Jan 18 22:04: New mud.
+MD-hugo:62.157.74.214:4246
+
+Jan 18 22:17: Host change:
+Aldebaran: 194.162.200.15 -> 194.162.27.5
+
+Jan 18 22:50: Host change:
+Wunderland: 139.18.11.161 -> 139.18.11.86
+
+Jan 18 23:18: Host change:
+Zeittunnel: 134.109.132.63 -> 134.109.72.27
+
+Jan 19 00:08: Host change:
+Regenbogen: 141.76.1.2 -> 141.76.2.6
+
+Jan 19 00:12: New mud.
+Kinthara:134.96.240.7:4246
+
+Jan 19 01:20: New mud.
+MD:141.44.22.48:4246
+
+Jan 19 03:14: Host change:
+Cosmos: 207.67.85.3 -> 216.111.160.141
+
+Jan 19 03:14: Port change:
+Cosmos (216.111.160.141): 5001 -> 4051
+
+Jan 19 04:20: New mud.
+WeeHours:24.1.205.71:2001
+
+Jan 19 11:12: Host change:
+MD-hugo: 62.157.74.214 -> 62.157.75.46
+
+Jan 19 11:31: New mud.
+Tazmania:216.39.170.31:6968
+
+Jan 19 11:57: New mud.
+Renegade:204.71.157.202:5151
+
+Jan 19 12:10: Host change:
+MD-hugo: 62.157.75.46 -> 62.157.75.28
+
+Jan 19 14:53: Host change:
+Anderland: 194.94.224.181 -> 193.53.23.95
+
+Jan 19 21:16: New mud.
+ForgottenDreams:134.2.170.190:4246
+
+Jan 19 23:51: New mud.
+Maethos:204.71.156.6:4246
+
+Jan 20 00:16: Host change:
+MD-hugo: 62.157.75.28 -> 62.157.75.45
+
+Jan 20 02:17: New mud.
+Beutelland:128.130.46.137:4246
+
+Jan 20 02:59: Port change:
+Regenbogen (141.76.2.6): 4246 -> 5246
+
+Jan 20 06:36: Port change:
+Regenbogen (141.76.2.6): 5246 -> 4246
+
+Jan 20 09:26: Host change:
+MD-hugo: 62.157.75.45 -> 62.155.241.233
+
+Jan 20 14:42: New mud.
+OmegaMud:194.64.226.225:2026
+
+Jan 20 16:15: New mud.
+AncientAnguishTest:208.25.49.5:4247
+
+Jan 20 22:05: Host change:
+MD-hugo: 62.155.241.233 -> 62.155.242.195
+
+Jan 21 05:36: Host change:
+GueldenLand: 194.163.252.41 -> 194.64.239.52
+
+Jan 22 00:51: Host change:
+MD-hugo: 62.155.242.195 -> 62.155.240.207
+
+Jan 22 11:49: New mud.
+fuckmud:204.17.163.11:4246
+
+Jan 22 11:49: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Jan 22 11:49: Host change:
+Seifenblase: 141.7.1.39 -> 141.7.15.10
+
+Jan 22 12:00: Host change:
+Ulantris: 206.109.153.66 -> 204.251.239.20
+
+Jan 22 13:25: Host change:
+Zeittunnel: 134.109.132.63 -> 134.109.72.27
+
+Jan 22 13:26: New mud.
+Tazmania:216.39.170.31:6968
+
+Jan 22 14:03: Host change:
+Regenbogen: 141.76.1.2 -> 141.76.2.6
+
+Jan 22 14:31: New mud.
+MD:141.44.22.48:4246
+
+Jan 22 14:44: Host change:
+Anderland: 194.94.224.181 -> 193.53.23.95
+
+Jan 22 15:02: Host change:
+Aldebaran: 194.162.200.15 -> 194.162.27.5
+
+Jan 22 17:02: Host change:
+Wunderland: 139.18.11.161 -> 139.18.11.86
+
+Jan 22 19:48: New mud.
+WeeHours:24.1.205.71:2001
+
+Jan 22 21:15: New mud.
+ForgottenDreams:134.2.170.190:4246
+
+Jan 22 21:18: New mud.
+Renegade:204.71.157.202:5151
+
+Jan 23 03:15: Host change:
+Cosmos: 207.67.85.3 -> 216.111.160.141
+
+Jan 23 03:15: Port change:
+Cosmos (216.111.160.141): 5001 -> 4051
+
+Jan 23 03:45: New mud.
+OmegaMud:194.64.226.225:2026
+
+Jan 23 03:52: New mud.
+MD-hugo:62.155.240.182:4246
+
+Jan 23 09:34: New mud.
+Beutelland:128.130.46.137:4246
+
+Jan 23 10:15: New mud.
+AncientAnguishTest:208.25.49.5:4247
+
+Jan 23 12:55: Host change:
+MD-hugo: 62.155.240.182 -> 62.155.240.188
+
+Jan 23 23:36: Host change:
+MD-hugo: 62.155.240.188 -> 62.155.242.187
+
+Jan 24 00:45: New mud.
+clone-of-OmegaMud:194.64.226.225:2026
+
+Jan 24 00:47: New mud.
+Kinthara:134.96.240.7:4246
+
+Jan 24 01:03: Host change:
+GueldenLand: 194.163.252.41 -> 194.64.239.52
+
+Jan 24 01:34: Port change:
+Regenbogen (141.76.2.6): 4246 -> 5246
+
+Jan 24 03:17: Host change:
+WinterKill: 192.83.57.1 -> 130.232.72.30
+
+Jan 24 04:40: Port change:
+Regenbogen (141.76.2.6): 5246 -> 4246
+
+Jan 24 06:03: Port change:
+Regenbogen (141.76.2.6): 4246 -> 5246
+
+Jan 24 08:04: Port change:
+Regenbogen (141.76.2.6): 5246 -> 4246
+
+Jan 24 13:16: New mud.
+Universe:141.89.48.225:4246
+
+Jan 24 23:18: Host change:
+MD-hugo: 62.155.242.187 -> 62.155.240.238
+
+Jan 25 06:17: Host change:
+Ulantris: 206.109.153.66 -> 204.251.239.20
+
+Jan 25 06:17: New mud.
+fuckmud:204.17.163.11:4246
+
+Jan 25 06:17: Host change:
+Seifenblase: 141.7.1.39 -> 141.7.15.10
+
+Jan 25 06:17: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Jan 25 06:20: New mud.
+Kinthara:134.96.240.7:4246
+
+Jan 25 06:25: New mud.
+MD:141.44.22.48:4246
+
+Jan 25 06:33: Host change:
+Aldebaran: 194.162.200.15 -> 194.162.27.5
+
+Jan 25 07:29: Host change:
+Zeittunnel: 134.109.132.63 -> 134.109.72.27
+
+Jan 25 09:01: Host change:
+Wunderland: 139.18.11.161 -> 139.18.11.86
+
+Jan 25 09:39: Host change:
+Anderland: 194.94.224.181 -> 193.53.23.95
+
+Jan 25 10:08: Host change:
+Regenbogen: 141.76.1.2 -> 141.76.2.6
+
+Jan 25 12:00: New mud.
+Tazmania:216.39.170.31:6968
+
+Jan 25 12:06: New mud.
+AncientAnguishTest:208.25.49.5:4247
+
+Jan 25 12:15: Host change:
+Cosmos: 207.67.85.3 -> 216.111.160.141
+
+Jan 25 12:15: Port change:
+Cosmos (216.111.160.141): 5001 -> 4051
+
+Jan 25 12:16: Host change:
+GueldenLand: 194.163.252.41 -> 194.64.239.52
+
+Jan 25 12:31: New mud.
+ForgottenDreams:134.2.170.190:4246
+
+Jan 25 15:03: New mud.
+MD-hugo:62.155.241.251:4246
+
+Jan 25 22:16: Host change:
+MD-hugo: 62.155.241.251 -> 62.155.242.208
+
+Jan 26 00:02: New mud.
+WeeHours:24.1.205.71:2001
+
+Jan 26 04:16: New mud.
+OmegaMud:194.64.226.225:2026
+
+Jan 26 05:38: New mud.
+Beutelland:128.130.46.137:4246
+
+Jan 26 08:57: New mud.
+Lothlorien:195.37.118.247:11115
+
+Jan 26 23:19: Host change:
+MD-hugo: 62.155.242.208 -> 62.155.242.195
+
+Jan 27 15:20: Illegal packet.
+Sender: 216.39.170.31
+Packet:
+REQ:ping
+
+Jan 27 22:23: Host change:
+MD-hugo: 62.155.242.195 -> 62.155.240.186
+
+Jan 28 06:36: Port change:
+Regenbogen (141.76.2.6): 4246 -> 5246
+
+Jan 28 08:05: Host change:
+MD-hugo: 62.155.240.186 -> 62.155.241.175
+
+Jan 28 11:07: Port change:
+Regenbogen (141.76.2.6): 5246 -> 4246
+
+Jan 28 14:08: New mud.
+fuckmud:204.17.163.11:4246
+
+Jan 28 14:08: Host change:
+Seifenblase: 141.7.1.39 -> 141.7.15.10
+
+Jan 28 14:08: Host change:
+Ulantris: 206.109.153.66 -> 204.251.239.20
+
+Jan 28 14:55: New mud.
+fuckmud:204.17.163.11:4246
+
+Jan 28 14:55: Host change:
+Seifenblase: 141.7.1.39 -> 141.7.15.10
+
+Jan 28 15:00: Host change:
+Ulantris: 206.109.153.66 -> 204.251.239.20
+
+Jan 28 15:12: New mud.
+AncientAnguishTest:208.25.49.5:4247
+
+Jan 28 15:22: Host change:
+Wunderland: 139.18.11.161 -> 139.18.11.86
+
+Jan 28 15:47: Host change:
+Anderland: 194.94.224.181 -> 193.53.23.95
+
+Jan 28 15:49: Host change:
+Regenbogen: 141.76.1.2 -> 141.76.2.6
+
+Jan 28 17:11: Host change:
+Seifenblase: 141.7.1.39 -> 141.7.15.10
+
+Jan 28 17:11: New mud.
+fuckmud:204.17.163.11:4246
+
+Jan 28 17:15: Host change:
+Ulantris: 206.109.153.66 -> 204.251.239.20
+
+Jan 28 17:48: New mud.
+MD:141.44.22.48:4246
+
+Jan 28 18:23: New mud.
+fuckmud:204.17.163.11:4246
+
+Jan 28 18:23: Host change:
+Seifenblase: 141.7.1.39 -> 141.7.15.10
+
+Jan 28 18:30: Host change:
+Ulantris: 206.109.153.66 -> 204.251.239.20
+
+Jan 28 18:31: New mud.
+fuckmud:204.17.163.11:4246
+
+Jan 28 18:31: Host change:
+Seifenblase: 141.7.1.39 -> 141.7.15.10
+
+Jan 28 18:39: New mud.
+fuckmud:204.17.163.11:4246
+
+Jan 28 18:39: Host change:
+Seifenblase: 141.7.1.39 -> 141.7.15.10
+
+Jan 28 18:41: Host change:
+Zeittunnel: 134.109.132.63 -> 134.109.72.27
+
+Jan 28 18:45: Host change:
+Ulantris: 206.109.153.66 -> 204.251.239.20
+
+Jan 28 19:34: Host change:
+Aldebaran: 194.162.200.15 -> 194.162.27.5
+
+Jan 28 20:07: New mud.
+SILKE:AT:128.130.109.51:5563
+
+Jan 28 21:15: New mud.
+ForgottenDreams:134.2.170.190:4246
+
+Jan 28 21:28: New mud.
+Tazmania:205.199.135.213:6968
+
+Jan 28 21:44: New mud.
+OmegaMud:194.64.226.225:2026
+
+Jan 28 21:58: Host change:
+Cosmos: 207.67.85.3 -> 216.111.160.141
+
+Jan 28 21:58: Port change:
+Cosmos (216.111.160.141): 5001 -> 4051
+
+Jan 28 22:04: Illegal packet.
+Sender: 216.111.160.141
+Packet:
+REQ:ping
+
+Jan 28 22:05: New mud.
+Renegade:204.71.157.202:5151
+
+Jan 28 22:09: Illegal packet.
+Sender: 216.111.160.141
+Packet:
+REQ:ping
+
+Jan 28 22:22: New mud.
+MD:141.44.22.48:4246
+
+Jan 28 22:32: Host change:
+Regenbogen: 141.76.1.2 -> 141.76.2.6
+
+Jan 28 23:54: Host change:
+GueldenLand: 194.163.252.41 -> 194.64.239.52
+
+Jan 29 12:05: Host change:
+WinterKill: 192.83.57.1 -> 130.232.72.30
+
+Feb  2 03:38: Port change:
+EotL (171.64.12.30): 4246 -> 4248
+
+Feb  3 00:55: Host change:
+Seifenblase: 141.7.1.39 -> 141.7.15.10
+
+Feb  3 00:55: New mud.
+fuckmud:204.17.163.11:4246
+
+Feb  3 00:56: Host change:
+Zeittunnel: 134.109.132.63 -> 134.109.72.27
+
+Feb  3 01:00: Host change:
+Ulantris: 206.109.153.66 -> 204.251.239.20
+
+Feb  3 01:02: Host change:
+Wunderland: 139.18.11.161 -> 139.18.11.86
+
+Feb  3 01:33: Host change:
+Regenbogen: 141.76.1.2 -> 141.76.2.6
+
+Feb  3 02:30: Port change:
+ZEotL (171.64.12.30): 4248 -> 4246
+
+Feb  3 02:40: Port change:
+ZEotL (171.64.12.30): 4246 -> 4248
+
+Feb  3 03:17: Host change:
+Cosmos: 207.67.85.3 -> 216.111.160.141
+Feb  3 03:17: Port change:
+Cosmos (216.111.160.141): 5001 -> 4051
+
+Feb  3 04:20: Host change:
+Aldebaran: 194.162.200.15 -> 194.162.27.5
+
+Feb  3 12:58: Host change:
+Anderland: 194.94.224.181 -> 193.53.23.95
+
+Feb  3 13:56: Host change:
+FallenNight: 24.131.5.250 -> 216.90.251.29
+Feb  3 13:56: Port change:
+FallenNight (216.90.251.29): 5151 -> 4246
+

@@ -1,0 +1,46 @@
+Topic: Syntax.
+
+Items, monsters, and all other LPmud objects in the game can be accessed
+by name or name part most of the time.  For example, if you were in a
+room and wanted to pick up an item named "axe" in that room, you would
+type:
+
+    > get axe
+
+However, we need to become more specific when there are several items
+of the same name or name part in a room.  If there are two "axes" in
+one room, and one is a "blue axe" and the other is a "rusty axe,"
+because simply typing 'get axe' will instruct the game to pick up
+the first axe, or the axe that was last dropped in the room.  If you
+wish to pick the "blue axe" up, we suggest trying to type either of
+the following:
+
+    > get blue axe
+    > get blue
+
+If those commands fail to pick up the "blue axe," or if you are in a
+room with several identically named objects, the extended syntax in
+the format: '<item name|item name part> <item number>' can be used to
+access that item.  An example would be in a room with 3 "axes" inside
+of it, all with the same name and name parts.  If you wanted to pick
+up the second axe, you would type:
+
+    > get axe 2
+
+If you wanted to pick up the third axe, you would type:
+
+    > get axe 3
+
+Thus, going back to our original problem, the "blue" and the "rusty" axe,
+if the "blue axe" were the second axe in the room, you could type:
+
+    > get axe 2
+
+Or, if it were the first axe in the room, you could simply type:
+
+    > get axe
+
+Have fun, and happy mudding on EOTL!
+
+[ Last updated: Mon Mar 17 02:20:52 1997 ]
+

@@ -1,0 +1,64 @@
+The Tell Command
+ 
+     The tell command is used to send a message across the mud to
+other players currently on the mud or to people on other muds.  Valid
+syntax follows:
+ 
+tell <what> <message>
+  This will send the message to the specified person/people.
+  What can be any of the following:
+ 
+  -<category> sends a tell to everyone in <category> if it is one of
+       your notification categories.
+ 
+  :<rclist> tells to everyone on the specified rclist. Go into the
+       mailer and type 'list' to get a list of the rclists.
+ 
+  . tells to whoever you last sent a tell to. This can be one person
+       or a group of people.
+ 
+  <person> send a tell to person.
+ 
+  <person>@<mud> send an intermud tell to person at mud.
+ 
+  
+  Any one or combination of these can be used.  When more than one
+  group is selected, a comma ',' must be used to seperate them.
+ 
+  Example:                                    
+      tell bob, ., :eternal, -friends hi
+   
+      This would tell bob, the group you last sent a tell to,
+      everyone in the eternal cabal and everyone in your friends
+      notification list.
+ 
+  It is not necessary to have a space after each comma.
+  All exclaimation marks and spaces will be ignored if in the <what>
+  section of the tell.
+  Capitalization is ignored in the <what> portion of the tell. "BOB"
+  is the same as "bob".
+     
+ 
+tell /last (num)
+  This will display the last tell you recieved. The optional argument
+  will display the last num tells up to the max of 20.  This setting
+  is saved.  Example: If you did tell /last 10, the next time you did
+  tell /last it would display the last 10 tells.
+
+tell /last (name)
+  This will show you all the tells in your history that came from
+  name.
+
+tell /last (regexp)
+  This will do a regexp search through your last 20 tells for regexp.
+ 
+tell /hist 
+  This will display the last 20 tells.
+  
+-Tyrus
+
+
+ALSO SEE: reply, say, whisper
+
+[ Last updated: Fri Apr 11 00:50:19 1997 ]
+

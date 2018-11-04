@@ -1,0 +1,76 @@
+<html>
+<head>
+<title>End of the Line LP Mud - News - Important Notice</title>
+<link rel=STYLESHEET href="/css/eotl_w.css">
+</head>
+
+<body bgcolor=#FFFFFF text=#000000 link=#FF0000 vlink=#CC88CC
+      background="/img/bgborder.jpg">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td align=center valign=top width=140>
+  <h2 align=center><img src="/img/t_news.gif"
+  alt="EotL News" border=0 width=140 height=80><br>
+</td>
+
+<td rowspan=2 width=30><img src="/img/clr.gif" alt="" hspace=14 width=1 height=1></td>
+
+<td rowspan=2 valign=top width=400>
+
+<h2 align=center>I M P O R T A N T<br>N O T I C E</h2>
+
+<p>
+  The administrators at Stanford, in their infinite wisdom, have become
+concerned with the trafficking of bootleg software and pornography
+information via the mud.  This is, of course, a ludicrous view, as is
+obvious to any regular inhabitant of this multi user environment.  EOTL
+is an open communications medium.  The administrators of this mud cannot
+police what people say, anymore than telephone operators companies can
+monitor what conversation goes over the telephone lines every day.
+In order to be in total compliance with these requests, we would have to
+institute monitoring of every single person who logs on this mud.
+We have neither the computer resources nor the manpower to oversee such
+activities, and even if we did, it would be of highly questionable ethics
+to do so.  What we can do, in our limited power, is sitebanish any we
+personally catch engaging in these illicit activities.  We must clamp
+down on these activities, or this _game_ which we all enjoy will be shut
+down.  EotL is a labor of love (and more than a bit of boredom) built by
+the volunteer efforts of many around the world.  Its developers hail from
+such far ranging locales as Russia, Australia, Canada, Hong Kong, and
+Switzerland, and the demographics of its player population is even more
+diverse.  We have law and precedent on our side (Compuserve was acquitted of
+responsibility of such activities engaged on their network), but what
+we do not have is the financial or legal resources to combat any move made
+by outraged mothers who mistakenly lash out at the mud (laughably enough,
+a text-based environment).  Try to behave.<br>
+
+<img src="/img/clr.gif" vspace=12 hspace=100 width=1 height=1>
+Thank you.<br>
+<img src="/img/clr.gif" hspace=100 width=1 height=1>
+The EotL Administration.
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td align=center valign=bottom width=140>
+<a href="/news/" target="_top"
+   onMouseOver="window.status='News';return true"
+   onMouseOut="window.status='';return true"
+><img src="/img/btn_news.gif" width=100 height=60 border=0
+  alt="News"></a><br>
+
+<a href="/" target="_top"
+   onMouseOver="window.status='EotL Home';return true"
+   onMouseOut="window.status='';return true"
+><img src="/img/btn_home.gif" width=100 height=60 border=0
+  alt="EotL Home"></a><br>
+
+</td>
+</tr>
+</table>
+
+</body>
+</html>

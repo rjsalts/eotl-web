@@ -1,0 +1,10 @@
+Command : Nsig.
+Format  : nsig || nsig clear
+ 
+     The 'nsig' command puts you into the editor, allowing you to create 
+a news signature for yourself that will be appended to your posts.
+ 
+     To clear your nsig, you can <nsig clear>.
+
+[ Last updated: Mon Mar 17 01:44:49 1997 ]
+

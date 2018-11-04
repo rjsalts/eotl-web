@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<!DOCTYPE recipe SYSTEM "recipe.dtd">
+<recipe>
+  <name>Fried Rice</name>
+  <contributor>Hannah</contributor>
+  <pre_desc>
+This is your basic fried rice dish.
+I had a tough time getting this out of my mom because she
+doesn't follow a recipe... she just makes it without thinking
+about it.
+You can make vegetable fried rice, or add
+shrimp, beef, or chicken.
+My mom likes to add ham (the kind used as sandwich meat).
+  </pre_desc>
+
+  <ing>pre-cooked white rice, one cup per serving</ing>
+  <ing>some green onions</ing>
+  <ing>1 small clove of garlic</ing>
+  <ing>1 tablespoon of ginger</ing>
+  <ing>a couple of carrots</ing>
+  <ing>1 egg</ing>
+  <ing>cooking oil, butter</ing>
+  <ing>soy sauce</ing>
+  <ing>black pepper</ing>
+  <ing_opt>snow peas</ing_opt>
+  <ing_opt>shrimp</ing_opt>
+  <ing_opt>chicken</ing_opt>
+  <ing_opt>beef</ing_opt>
+  <ing_opt>whatever you like</ing_opt>
+  <directions>
+Set the already-cooked rice aside.  I'll assume you know all about how to cook rice.
+Chop up the green onions, garlic, and ginger.
+Chop up carrots into julienned slices.
+Chop ham slices into small bits (this is optional).
+Scramble an egg.
+Mom says you can add whatever else you want, like snow peas, shrimp, or chicken.
+Put oil and butter in a pan.
+(I asked her how much and she wasn't really sure, so just make a good guess.)
+When the oil is hot, add the green onions, garlic and ginger and let them cook for 2 or 3 minutes.
+When the oil is sizzling add the carrots, ham, and anything else (but not the rice and egg yet).
+When all of that is cooked and nice and soft, add the cooked rice,
+then add the egg, and toss in some black pepper and soy sauce, all
+the while stirring the whole thing.
+  </directions>
+
+  <directions>
+When my Mom serves it, she often uses a small bowl as a mold, fills it
+up with the rice, and plops it on the dish, sprinkling some dried seaweed on top.
+She often serves the rice with soup and teriyaki chicken.
+  </directions>
+
+  <reviews>
+    <reviewer>Kahlan</reviewer>
+    <review>
+The recipe was pretty straightforward as instructions go; measuring was hard,
+since it was all eyeballing, but i'd say that this
+is a good standard recipe.<
+    </review>
+    <rating>5</rating>
+  </reviews>
+</recipe>

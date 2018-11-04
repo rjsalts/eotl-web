@@ -1,0 +1,10 @@
+Command : Clearaliases.
+Format  : clearaliases
+
+     This command will erase all self-defined aliases.  To erase just a
+few, try the 'unalias' command instead.
+
+See also: unalias, alias
+
+[ Last updated: Mon Mar 17 01:12:01 1997 ]
+

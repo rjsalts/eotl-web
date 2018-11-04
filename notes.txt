@@ -1,0 +1,9 @@
+
+The Magic Cabal has a map of Aydindril at:
+/zone/fantasy/magic/aydindril/MAP
+and a blackandwhite one at
+/zone/fantasy/magic/aydindril/MAP.BW
+ 
+yay!
+ 
+ -- Kahlan
