@@ -1,4 +1,0 @@
-al:0
-dubya:0
-ralph:0
-none:0
