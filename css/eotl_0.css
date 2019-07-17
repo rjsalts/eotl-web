@@ -41,7 +41,7 @@ td.border {
 
 td.multicol {
   color       : #000000;
-  background  : white;
+  background  : #efefef;
   font-family : verdana, arial, helvetica, sans-serif;
   font-size   : 10pt;
 }
@@ -66,6 +66,15 @@ pre, .mono {
   font-family    : verdana, arial, helvetica, geneva, sans-serif;
   font-size      : 8pt;
   text-decoration: none;
+}
+
+li.menu {
+	display: inline;
+	margin: 20px;
+}
+
+li.menu:before {
+	content: url('/img/point.gif');
 }
 
 .menugrey {  /* for menu non-links */
@@ -105,16 +114,23 @@ pre, .mono {
   font-size   : 8pt;
 }
 
+dt.ss8w {
+	float: left;
+	font-size: 0.6em;
+	margin-left: -4em;
+	mix-blend-mode: difference;
+}
+
 .ss10 {
   color       : #000000;
-  background  : white;
+  background  : #efefef;
   font-family : arial, helvetica, geneva, sans-serif;
   font-size   : 10pt;
 }
 
 .bignpurple {
   color       : #660066;
-  background  : white;
+  background  : #efefef;
   font-family : verdana, arial, helvetica, geneva, sans-serif;
   font-size   : 14pt;
   margin-top     : 0em;
@@ -123,7 +139,7 @@ pre, .mono {
 
 .bignpurple2 {
   color       : #660066;
-  background  : white;
+  background  : #efefef;
   font-family : verdana, arial, helvetica, geneva, sans-serif;
   font-size   : 14pt;
 }
@@ -150,4 +166,23 @@ pre, .mono {
   font-family : verdana, arial, helvetica, geneva, sans-serif;
   font-size   : 20pt;
   font-weight : bold;
+}
+
+.column {
+   float: left;
+   padding: 10px;
+}
+.left, .right {
+  width: 15%;
+}
+
+.middle {
+  width: 70%
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
 }
