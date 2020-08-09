@@ -117,8 +117,12 @@ li.menu:before {
 dt.ss8w {
 	float: left;
 	font-size: 0.6em;
-	margin-left: -4em;
+	margin-left: 1em;
 	mix-blend-mode: difference;
+}
+
+dd.ss8w {
+	padding-top: 0.5em;
 }
 
 .ss10 {
